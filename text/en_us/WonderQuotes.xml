@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_QUOTE_WONDER_BOROBUDUR">
+			<Text>The true nature of emptiness is the nature of no birth and no death. No being, no non-being.</Text>
+		</Row>
+		<Row Tag="LOC_QUOTE_AUTHOR_WONDER_BOROBUDUR">
+			<Text>The Heart Sūtra</Text>
+		</Row>
+		<Row Tag="LOC_QUOTE_WONDER_BRIHADEESWARAR_TEMPLE">
+			<Text>A mortal ripens like corn, like corn he springs up again</Text>
+		</Row>
+		<Row Tag="LOC_QUOTE_AUTHOR_WONDER_BRIHADEESWARAR_TEMPLE">
+			<Text>The Katha Upanishad</Text>
+		</Row>
+		<Row Tag="LOC_QUOTE_WONDER_EL_ESCORIAL">
+			<Text>Law is nothing other than the command of the sovereign in the exercise of his power.</Text>
+		</Row>
+		<Row Tag="LOC_QUOTE_AUTHOR_WONDER_EL_ESCORIAL">
+			<Text>Jean Bodin</Text>
+		</Row>
+		<Row Tag="LOC_QUOTE_WONDER_ERDENE_ZUU">
+			<Text>O ye conquerors and your sons, O ye gurus and devas: Out of your great love, lead us along the Path.</Text>
+		</Row>
+		<Row Tag="LOC_QUOTE_AUTHOR_WONDER_ERDENE_ZUU">
+			<Text>The Tibetan Book of the Dead</Text>
+		</Row>
+		<Row Tag="LOC_QUOTE_WONDER_FORBIDDEN_CITY">
+			<Text>The past is the treasure, time is its hiding place.</Text>
+		</Row>
+		<Row Tag="LOC_QUOTE_AUTHOR_WONDER_FORBIDDEN_CITY">
+			<Text>Gail Mazur</Text>
+		</Row>
+		<Row Tag="LOC_QUOTE_WONDER_HALE_O_KEAWE">
+			<Text>The life of the land is perpetuated in righteousness.</Text>
+		</Row>
+		<Row Tag="LOC_QUOTE_AUTHOR_WONDER_HALE_O_KEAWE">
+			<Text>Kamehameha I</Text>
+		</Row>
+		<Row Tag="LOC_QUOTE_WONDER_HOUSE_OF_WISDOM">
+			<Text>Do not mix the truth with falsehood or conceal the truth while you know it.</Text>
+		</Row>
+		<Row Tag="LOC_QUOTE_AUTHOR_WONDER_HOUSE_OF_WISDOM">
+			<Text>Ayat 42, the Holy Koran</Text>
+		</Row>
+		<Row Tag="LOC_QUOTE_WONDER_MACHU_PIKCHU">
+			<Text>Thou who dwell in the high heavens, among the tempest's clouds - accept our sacrifice.</Text>
+		</Row>
+		<Row Tag="LOC_QUOTE_AUTHOR_WONDER_MACHU_PIKCHU">
+			<Text>Inca prayer to Viracocha</Text>
+		</Row>
+		<Row Tag="LOC_QUOTE_WONDER_NOTRE_DAME">
+			<Text>The echoes of our glory and our losses, of our victories and our disasters, have always resounded under those vaults.</Text>
+		</Row>
+		<Row Tag="LOC_QUOTE_AUTHOR_WONDER_NOTRE_DAME">
+			<Text>André Chamson</Text>
+		</Row>
+		<Row Tag="LOC_QUOTE_WONDER_SHWEDAGON_ZEDI_DAW">
+			<Text>I teach only suffering and the end of suffering.</Text>
+		</Row>
+		<Row Tag="LOC_QUOTE_AUTHOR_WONDER_SHWEDAGON_ZEDI_DAW">
+			<Text>The Buddha</Text>
+		</Row>
+		<Row Tag="LOC_QUOTE_WONDER_TOMB_OF_ASKIA">
+			<Text>Wherever you may be, death will overtake you. Even if you should be in towers of lofty construction.</Text>
+		</Row>
+		<Row Tag="LOC_QUOTE_AUTHOR_WONDER_TOMB_OF_ASKIA">
+			<Text>The Quran</Text>
+		</Row>
+		<Row Tag="LOC_QUOTE_WONDER_WHITE_TOWER">
+			<Text>To be a king and wear a crown is a thing more glorious to them that see it than it is pleasant to them that bear it.</Text>
+		</Row>
+		<Row Tag="LOC_QUOTE_AUTHOR_WONDER_WHITE_TOWER">
+			<Text>Elizabeth I</Text>
+		</Row>
+	</EnglishText>
+</Database>

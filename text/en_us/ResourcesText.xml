@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<Database>
+	<EnglishText>
+		<!-- Antiquity Resource Tooltips-->
+		<Row Tag="LOC_ANT_RESOURCE_COTTON_TOOLTIP">
+			<Text>+3[icon:YIELD_FOOD] Food, +3[icon:YIELD_PRODUCTION] Production</Text>
+		</Row>
+		<Row Tag="LOC_ANT_RESOURCE_DATES_TOOLTIP">
+			<Text>+3[icon:YIELD_FOOD] Food, +3[icon:YIELD_HAPPINESS] Happiness</Text>
+		</Row>
+		<Row Tag="LOC_ANT_RESOURCE_DYES_TOOLTIP">
+			<Text>+5[icon:YIELD_HAPPINESS] Happiness</Text>
+		</Row>
+		<Row Tag="LOC_ANT_RESOURCE_FISH_TOOLTIP">
+			<Text>+5[icon:YIELD_FOOD] Food</Text>
+		</Row>
+		<Row Tag="LOC_ANT_RESOURCE_GOLD_TOOLTIP">
+			<Text>+20%[icon:YIELD_GOLD] Gold towards purchasing Buildings</Text>
+		</Row>
+		<Row Tag="LOC_ANT_RESOURCE_GOLD_DISTANT_LANDS_TOOLTIP">
+			<Text>Creates Treasure Fleets when connected to a coastal Settlement</Text>
+		</Row>
+		<Row Tag="LOC_ANT_RESOURCE_GYPSUM_TOOLTIP">
+			<Text>+3[icon:YIELD_PRODUCTION] Production to Homeland Cities; +6[icon:YIELD_PRODUCTION] Production to Distant Land Cities</Text>
+		</Row>
+		<Row Tag="LOC_ANT_RESOURCE_INCENSE_TOOLTIP">
+			<Text>+100%[icon:YIELD_PRODUCTION] Production towards Missionaries and Temples</Text>
+		</Row>
+		<Row Tag="LOC_ANT_RESOURCE_IVORY_TOOLTIP">
+			<Text>+3[icon:YIELD_HAPPINESS] Happiness, +3[icon:YIELD_PRODUCTION] Production</Text>
+		</Row>
+		<Row Tag="LOC_ANT_RESOURCE_JADE_TOOLTIP">
+			<Text>+15%[icon:YIELD_GOLD] Gold</Text>
+		</Row>
+		<Row Tag="LOC_ANT_RESOURCE_KAOLIN_TOOLTIP">
+			<Text>+3[icon:YIELD_FOOD] Food to Homeland Cities; +6[icon:YIELD_FOOD] Food to Distant Land Cities</Text>
+		</Row>
+		<Row Tag="LOC_ANT_RESOURCE_MARBLE_TOOLTIP">
+			<Text>+10%[icon:YIELD_PRODUCTION] Production towards constructing Wonders</Text>
+		</Row>
+		<Row Tag="LOC_ANT_RESOURCE_PEARLS_TOOLTIP">
+			<Text>+3[icon:YIELD_HAPPINESS] Happiness to Homeland Cities; +6[icon:YIELD_HAPPINESS] Happiness to Distant Land Cities</Text>
+		</Row>
+		<Row Tag="LOC_ANT_RESOURCE_SILK_TOOLTIP">
+			<Text>+10%[icon:YIELD_CULTURE] Culture</Text>
+		</Row>
+		<Row Tag="LOC_ANT_RESOURCE_SILVER_TOOLTIP">
+			<Text>+20%[icon:YIELD_GOLD] Gold towards purchasing Units</Text>
+		</Row>
+		<Row Tag="LOC_ANT_RESOURCE_SILVER_DISTANT_LANDS_TOOLTIP">
+			<Text>Creates Treasure Fleets when connected to a coastal Settlement</Text>
+		</Row>
+		<Row Tag="LOC_ANT_RESOURCE_WINE_TOOLTIP">
+			<Text>+3[icon:YIELD_HAPPINESS] Happiness in the Capital and +10%[icon:YIELD_CULTURE] Culture when in a Celebration</Text>
+		</Row>
+		<Row Tag="LOC_ANT_RESOURCE_CAMELS_TOOLTIP">
+			<Text>Increases number of Resources that can be assigned to a City by 2</Text>
+		</Row>
+		<Row Tag="LOC_ANT_RESOURCE_HORSES_TOOLTIP">
+			<Text>Cavalry Units gain +1 Combat Strength, and an additional +1 against Infantry and Ranged Units</Text>
+		</Row>
+		<Row Tag="LOC_ANT_RESOURCE_IRON_TOOLTIP">
+			<Text>Infantry and Ranged Units gain +1 Combat Strength</Text>
+		</Row>
+		<!-- Exploration Resource Tooltips-->
+		<Row Tag="LOC_EXP_RESOURCE_COCOA_TOOLTIP">
+			<Text>Creates Treasure Fleets when connected to a coastal Settlement</Text>
+		</Row>
+		<Row Tag="LOC_EXP_RESOURCE_FURS_TOOLTIP">
+			<Text>+3[icon:YIELD_HAPPINESS] Happiness in the Capital and +10%[icon:YIELD_GOLD] Gold when in a Celebration</Text>
+		</Row>
+		<Row Tag="LOC_EXP_RESOURCE_SPICES_TOOLTIP">
+			<Text>Creates Treasure Fleets when connected to a coastal Settlement</Text>
+		</Row>
+		<Row Tag="LOC_EXP_RESOURCE_SUGAR_TOOLTIP">
+			<Text>Creates Treasure Fleets when connected to a coastal Settlement</Text>
+		</Row>
+		<Row Tag="LOC_EXP_RESOURCE_TEA_TOOLTIP">
+			<Text>Creates Treasure Fleets when connected to a coastal Settlement</Text>
+		</Row>
+		<Row Tag="LOC_EXP_RESOURCE_TRUFFLES_TOOLTIP">
+			<Text>+20%[icon:YIELD_PRODUCTION] Production towards training Units</Text>
+		</Row>
+		<Row Tag="LOC_EXP_RESOURCE_NITER_TOOLTIP">
+			<Text>Siege and Naval Units gain +1 Combat Strength</Text>
+		</Row>
+		<Row Tag="LOC_EXP_RESOURCE_WHALES_TOOLTIP">
+			<Text>+5[icon:YIELD_PRODUCTION] Production</Text>
+		</Row>
+		<Row Tag="LOC_EXP_RESOURCE_CLOVES_TOOLTIP">
+			<Text>+6[icon:YIELD_FOOD] Food, +10%[icon:YIELD_GOLD] Gold (Not Tradeable)</Text>
+		</Row>
+	</EnglishText>
+</Database>

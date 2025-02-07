@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<!--Tier 1-->
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_SWORDSMAN_CHAPTER_HISTORY_PARA_1">
+			<Text>Hammers and axes are tools. Spears and bows can be used to hunt as much as to kill other humans. But a sword is truly a soldier’s weapon. Around 3000 BCE, the sword evolved from large daggers, clearly a weapon of conflict. They could be single- or double-edged, curved (to more easily cut an enemy’s body), or straight (ideal for stabbing). Some had wicked hooks (the Egyptian kopesh) or tremendous blades (the Germanic longsword or Chinese zhanmadao). The most famous swords were those made from steel with a particular hardness – Damascus steel or the famous Japanese katana. Importantly, swords required skill and training. A swordsman was not a farmer with a spear, but a skilled warrior was dangerous with any weapon.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_HEAVY_ARCHER_CHAPTER_HISTORY_PARA_1">
+			<Text>No single weapon separates a regular archer from a more deadly one; the best of the best are set apart through a combination of bow technology and training. Bows rely upon the resistance of a bent piece of material – usually wood – to propel an arrow through the air. Increasing that resistance increases the force of the arrow. Medieval archers maximized their effectiveness through the careful selection of wood (e.g. yew) and the construction of taller bows – ultimately producing the English longbow, a weapon that was cheap to make but required specific technique and could not be fired from horseback. Archers in Korea, India, and Arabia fused horns with another resistant material to the insides of their bows, which also increased the power of their shots; this delivered a smaller bow but it was more complicated to make and vulnerable to moisture. Longbows and composite bows existed as far back as 3000 BCE, but their use as formidable forces of war is more modern. These archers required special training – English soldiers described their technique of using the body’s weight to push forward and “bend” the bow, rather than using their arms to draw the string. Such bows could penetrate armor and were not rendered obsolete until the adoption of the cannon.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_COURSER_CHAPTER_HISTORY_PARA_1">
+			<Text>A courser is not a man – it is a horse. More specifically, a warhorse with a swift and strong gait. The term is as such a general one, referring to a knight’s mount that is less heavily armored than later versions. Such knights could range from a person in mail with a sword to a mounted samurai, but in each instance, mastery of a courser signifies someone who has invested a great deal of wealth into arms – indicating a noble or semi-noble warrior who has trained to hew necks, and not wood.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_CATAPULT_CHAPTER_HISTORY_PARA_1">
+			<Text>If a ballista is a massive bow made for siege warfare, the catapult is the equivalent for a sling. The term “catapult” is fairly general, and the classic image of a bowl mounted on the edge of a long arm to fling rocks, made famous in the early Middle Ages, might more specifically be called an onager or mangonel. The onager relied on potential energy stored in a bent wooden plank, whereas the mangonel used a system of cords for propulsion. The general purpose was the same for both: throw heavy things a long way. The mangonel likely originated in China before the Han Dynasty, and the onager in Rome during the 3rd century CE; both could hurl a rock roughly 400 feet, demolishing walls, ships…and the people inside.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_COG_CHAPTER_HISTORY_PARA_1">
+			<Text>In the Middle Ages, trade routes dominated by the Hanseatic League crossed the Baltic and North Seas (and cautiously delved into the Atlantic Ocean). Their ship of choice was the cog, a slightly rounded, single-masted oak vessel that first made an appearance around 1000 CE. The cog had a sophisticated rudder and raised area for the crew, meaning its interior could be used effectively for cargo. Cogs took longer to construct than southern vessels but could be crewed by fewer people, leaving even more room for goods. In East Asia, Chinese builders worked on similar flat-bottomed models, though these featured more masts and lacked the distinctive “clinker” (overlapping) style of the cog. Tang and Song vessels moved around East and Southeast Asia – no less treacherous waters than the Atlantic!</Text>
+		</Row>
+		<!--Tier 2-->
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_MAN_AT_ARMS_CHAPTER_HISTORY_PARA_1">
+			<Text>The term “man-at-arms” generally refers to a heavily armored cavalry unit. Here, we differentiate the lightly-armored Iron Age swordsmen from the later heavily-armored medieval infantry. Their armor could be customized (when the private property of the soldier) or mass-produced and provided by the army (i.e. munition armor). Either way it presented a formidable barrier to the enemy. With this in mind, the basic sword or spear adopted various flourishes: hooks to pull encumbered opponents to the ground, beaked hammers to pry open the armor, and hardened blades to pierce metal as well as flesh.  </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_CROSSBOWMAN_CHAPTER_HISTORY_PARA_1">
+			<Text>Crossbows do not have to be complicated. They are bows, laid flat, that have triggers attached to a nock. In this capacity, crossbows can be fired faster than traditional bows. The crossbows of ancient China were likely adapted from hunters’ tools in the highland region of Southeast Asia; the weapons also developed independently in Europe, where they were used by the Gauls. Medieval crossbows could be a little more complex, featuring extremely high resistance (e.g. composite bows or steel bows after the 1300s in Europe) which required mechanical levers, windlass pulleys, or the bowman's full body weight to load. This massive store of force created a weapon with devastating power.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_KNIGHT_CHAPTER_HISTORY_PARA_1">
+			<Text>There is no image more emblematic of the Middle Ages than the knight: a heavily armored warrior astride a warhorse who bears a noble title and upholds a code of chivalric conduct. These figures were made famous through medieval romances such as the Arthurian tales, and formed countless societies, such as the Knights of Malta, the Order of the Dragon, and the Order of the Garter. But what truly defines a knight? Here, we focus on the combination of arms, armor, and horse, which can range from the classic European knight to the Iranian aswaran, or the more lightly-armored Korean hwarang and the Japanese samurai. Regardless of culture, knights were the tanks of their day, capable of dealing and withstanding immense amounts of damage.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_TREBUCHET_CHAPTER_HISTORY_PARA_1">
+			<Text>The trebuchet was the ultimate pre-gunpowder siege weapon, a massive arm with a sling on one end and a counterweight on the other. When the weight was released, the entire arm rotated with enough force to fling a five-hundred-pound stone up to five hundred feet. For comparison, this is ten times the weight of a missile fired from an onager (a classic catapult) and twice the range. The classic trebuchet was likely an Arabic or Persian weapon, attributed to Mardi ibn Ali al-Tarsusi in 1187, but it quickly gained traction across Europe and the Middle East until the advent of gunpowder in the 1500s.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_CARRACK_CHAPTER_HISTORY_PARA_1">
+			<Text>In the late Middle Ages, the Portuguese emerged as the masters of shipbuilding. Combining the best of Islamic astronomy and Northern European shipbuilding, the Portuguese created the carrack, a three-masted oceangoing ship that could withstand the swells of the Atlantic. Older cogs were versatile but costly. In contrast, the carrack could sport six sails (two on the topsail alone) making for a much faster vessel. The carrack allowed Portuguese traders to directly exchange gold for spices in India and silks in China, bypassing the challenges of the Silk Road. The design was quickly adopted by Muslim and Bengali traders and became a template for oceangoing vessels throughout the early Age of Sail.</Text>
+		</Row>
+		<!--Tier 3-->
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_PIKEMAN_CHAPTER_HISTORY_PARA_1">
+			<Text>The pike square is a wall of pointed steel, affixed to staves 20 feet long. The intent was to keep the enemy far away while your weapon remained close. Pikes differ from spears in that they require two hands to hold. They grew longer throughout the later Middle Ages as steel improved and better wood was used for their shafts. The pikeman's weakness is obvious – the weapon was unwieldy, and it became useless in close quarters. Even so, pikes were a mainstay of infantry until firearms rendered them obsolete.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_ARQUEBUSIER_CHAPTER_HISTORY_PARA_1">
+			<Text>Cannons arrived on the battlefields of Central Asia during the time of the Mongols. It was only a matter of time and technology before cannons became more streamlined and mobile, taking the form of guns. The arquebus was a long gun developed in the 15th century. Its weight was a drawback, and users had to rest the gun's barrel on another object – thus the name, a derivative of the Dutch Haakbus (hook-gun) that referred to a small protrusion on the weapon’s underside used to steady it against a solid surface. The Ottomans used the arquebus to devastating effect, and it was quickly adopted by their European opponents. After their first appearance in Eastern Europe, guns migrated across the Old World in a mere century, and they figured into the horrific Sengoku Wars in Japan at the close of the 1600s. Early arquebuses were inaccurate, but their range far exceeded the bow, so they quickly outpaced bows and crossbows.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_LANCER_CHAPTER_HISTORY_PARA_1">
+			<Text>A pike is a menacing weapon. Now imagine a pike thrust with the full force of a charging horse. This describes a lance wielded by a lancer. The term has had multiple meanings over the years, from the heaviest medieval cavalry to the lighter-armored cavalry of later years. Here, we reference more of the former. Where a knight might charge into battle with a broadsword, lancers were skilled at a mass charge which proved nearly impossible to resist – at least, until the charge ran out of steam, the horses were stalled, or an arquebusier or crossbowman pulled off one good shot. When disarmed or stationary, a lancer was only as good as his saber.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_BOMBARD_CHAPTER_HISTORY_PARA_1">
+			<Text>The popular conception of the Middle Ages invokes knights, catapults, courtly graces, and the Mongol threat. This is a limited European vision. Indeed, the first cannon was used in the 1100s during China's Song Dynasty (the notion that Chinese empires only used gunpowder for fireworks is a myth), though these were smaller than the modern notion of “bombards." Larger guns entered the fray in China in the 1300s and quickly spread across the world. They were especially important during the Turks' conquest of Constantinople in 1453; the Theodosian Walls which had stood for ages against conventional weaponry fell to fire and iron. A bombard is simply an iron pot or tube loaded with powder and armed with iron or stone shot – still, operators must have lived in constant fear of backfires, misfires, and outright explosions.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_GALLEON_CHAPTER_HISTORY_PARA_1">
+			<Text>Gone are the days when galleys were beached for a few scant crates of goods. Gone are the cogs of the North Sea. Gone are the carracks of Portuguese trade. By the 1600s, when vast ocean-crossing vessels moved goods (and soldiers) between continents, the galleon reigned supreme. A galleon featured multiple decks and masts. While cogs could displace 200 tons of seawater (at maximum), galleons could reach 2,000 tons (in the case of ships going from Spain to the Philippines). Oars became a thing of the past as galleons relied on wind power. In calm winds, they became wooden islands, but islands equipped with hundreds of cannons. These ships enabled the empires of Europe to conquer and exploit the rest of the world.</Text>
+		</Row>
+		<!-- Civilian-->
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_MISSIONARY_CHAPTER_HISTORY_PARA_1">
+			<Text>Religions are complex systems, combining beliefs, ethics, and morals, as well as identities, politics, and economics. They are codes for how to exist in the world as a part of something larger, they often shape rules for engaging with others, and they open us up to the barriers of our existence and knowledge. Some religions – especially, but not limited to, Christianity, Buddhism, and Islam – see their message as universal, and seek to spread their beliefs to all who will hear them. Missionaries are those who appoint themselves, or are appointed, to spread this message. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_MISSIONARY_CHAPTER_HISTORY_PARA_2">
+			<Text>Missionaries, and the rulers who send missionaries in large numbers, are heroic figures in many of these religions’ founding stories. For instance, Saint Paul, Ali ibn Abi Talib, and Ashoka the Great each shaped the spread and influence of their religions across the world (Christianity, Islam, and Buddhism, respectively). In so doing, these world religions reshaped pre-existing notions of identity and belonging and set the stage for larger, universal empires. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_TREASURE_FLEET_CHAPTER_HISTORY_PARA_1">
+			<Text>Historically, the term “treasure fleet” might refer to two particular convoys – the gigantic fleet assembled by Chinese admiral Zheng He on a mission of diplomacy and display of Ming strength to the rest of the world, and to the galleons transporting New World silver and gold from Spanish colonies there to Spain, or westward across the Pacific to Manila. In either case, treasure fleets are massive, important fleets containing even more important cargo.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_TREASURE_FLEET_CHAPTER_HISTORY_PARA_2">
+			<Text>Zheng He’s voyages (from 1405-1433 CE) at the behest of the Yongle Emperor took him down through Southeast Asia, India, and to East Africa. What these fleets sought to do was to display the might and majesty of the Ming… in the search for tributary agreements with local kings. In this, they were not voyages of discovery, but conquests through diplomacy. As a result, the Ming gained access to ports from present-day Malaysia, Sri Lanka, and beyond… but subsequent Ming emperors did not show Yongle’s passion for overseas expansion, and the practice died.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_TREASURE_FLEET_CHAPTER_HISTORY_PARA_3">
+			<Text>In the Atlantic, the mineral wealth of the New World came as a lifeline to the Spanish, hungry to fuel wars back home on the continent. From 1566 to 1790 CE, these fleets brought gold to Spain, but more importantly, the Pacific fleet – staffed by the devastatingly powerful Manila galleons, brought silver to trade with the Chinese empires in exchange for Chinese goods. </Text>
+		</Row>
+		<!--Civ Unique Military-->
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_CETBANG_CHAPTER_HISTORY_PARA_1">
+			<Text>"Mongol hordes" call to mind a sweeping mass of horse archers stretched across the Eurasian steppe. However the Mongols – referring to Kublai Khan’s Yuan Dynasty in China – also attempted a takeover of Java in 1293 CE, which set the stage for the rise of the Majapahit Empire. This invasion failed thanks to naval treachery, but Java kept the Mongols' guns after the invaders left. The cetbang was a light cannon with one or two barrels, and was mounted onto a swivel, giving it a remarkably modern appearance – the same year that the Majapahit were using double-barreled swivel cannons, the English and French were still contesting over the superiority of longbows or crossbows.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_CETBANG_CHAPTER_HISTORY_PARA_2">
+			<Text>The cetbang did not have the power of later bombards, and could not productively be used against enemy ships, but they still had their uses. At the time, navies were essentially floating platforms to carry warriors, so a volley of cetbang fire onto an enemy’s crowded decks could cause a great deal of damage, even before the first keris (Javanese dagger) was drawn.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_CHEVALER_CHAPTER_HISTORY_PARA_1">
+			<Text>The classic knight of the Middle Ages, the Norman chevaler was a noble who accepted temporary military service in exchange for a grant of land and serfs. The Norman knight was often equipped with a horse, shield, lance, sword, and hauberk (a shirt of chainmail) – the era of full plate had not yet arrived. In battle, these chevalers were the medieval equivalent of tanks – heavily armored and mobile – and they were capable of inflicting a devastating lance charge against less-armored and less-trained foot soldiers. This is a potent metaphor for status in the Middle Ages: the elite could enter a battle protected (especially after a papal ban on crossbows), whereas serfs had to rely upon wits...or luck. In the chevaler, status, duty, land, and violence came together, both on and off the battlefield.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_GOLD_BANGLES_CHAPTER_HISTORY_PARA_1">
+			<Text>Songhai was a highly effective conquest-oriented empire in the Sahel region of West Africa. It took over territory from the Malian Empire and formed a key node in Muslim networks spanning the Sahara. The Songhai military was based around several axes: a riverine navy, a cavalry, and a highly-trained infantry known for the gold bangles they wore on their arms.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_GOLD_BANGLES_CHAPTER_HISTORY_PARA_2">
+			<Text>This reliance on medieval warfare based around swords and lances was their undoing. Even by the time of Askia the Great, in 1493, the tides were turning. Guns had entered the battlefield, so it was only a matter of time before a foreign force realized that Songhai lands were ripe for the taking. In 1591, Morocco delivered this blow, and the better-equipped Arab forces seized control of Songhai’s salt and gold resources.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_KALAM_CHAPTER_HISTORY_PARA_1">
+			<Text>By some definitions, the Chola navy was a vast enterprise, arranging conquests from Sri Lanka to Cambodia, extending trade routes from Africa to China, and amassing power over the Indian Ocean. However, by other definitions, the Chola navy did not even exist. Instead of a standing navy, in times of war, the Chola would contract a large number of merchant vessels and privateers (possibly pirates). The design of these ships and how they functioned is largely lost to history, and surviving records are riddled with inaccuracies.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_KALAM_CHAPTER_HISTORY_PARA_2">
+			<Text>Here “kalam” refers to “vessel” in Tamil. It is not a terribly descriptive name, nor is it evocative, but it remains the most accurate term to describe a unit of the immense and diverse navy of the Cholas.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_KESHIG_CHAPTER_HISTORY_PARA_1">
+			<Text>Leadership in the Mongolian Empire was a complex system revolving around clan loyalties and the charisma of the khan. Assassinations were a persistent risk. Due to the temporary structure of the Mongolian ger (tent), trusted guards (the keshig or keshik) were vital to leaders. These guards would have been chosen from the best and most deserving Mongolian warriors. Indeed, the name “keshig” means “blessed.” For their service, keshig were often granted membership into their ruler’s clan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_KESHIG_CHAPTER_HISTORY_PARA_2">
+			<Text>The tradition of keshig continued in many places the Mongols influenced, including Mughal India, where the term came to mean the arms of the palace guard; Yuan China; and the various khanates that sprang up in the wake of Genghis Khan’s death.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_LEIOMANO_CHAPTER_HISTORY_PARA_1">
+			<Text>How can weapons of war be fashioned without metal, obsidian, or flint? For the Hawaiians, the answer was found in the sea. The leiomano, the shark’s lei, is a broad wooden club rimmed with tiger shark teeth, which put the power of a shark's bite into the hands of individual Hawaiian warriors.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_LEIOMANO_CHAPTER_HISTORY_PARA_2">
+			<Text>Hawai’i hasn't always been a unified archipelago. Some areas and islands had different kings, and these kings often engaged in bloody battles of conquest – until the rise of Kamehameha in the late 1700s. This leader engaged in a broad system of conquest to unite the fractious isles through outrigger, spear, and shark-tooth club.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_MAMLUK_CHAPTER_HISTORY_PARA_1">
+			<Text>The Mamluk's rise to power is an epic tale. The word means “one who is owned.” In its historical context, it referred to Turkic (also Armenian, Sudanese, or others) slave-soldiers utilized by various Arab caliphates, beginning with the Abbasids. These men were often taken as children and raised as soldiers. Since these warriors lacked kin, or other social networks, that Arab soldiers often had, they could be deployed against other caliphates with impunity.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_MAMLUK_CHAPTER_HISTORY_PARA_2">
+			<Text>With military prowess and success came power and respect – even for someone enslaved. Despite their status as property, Mamluk standing rose above even the general freed population. They seized power in Egypt and Syria in 1250 CE, creating the Mamluk Sultanate that persisted for nearly three hundred years, and they decisively expelled the last Crusaders from the Holy Land.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_TERCIO_CHAPTER_HISTORY_PARA_1">
+			<Text>Guns did not immediately sweep away the era of swords, spears, and bows. Instead, early firearms, such as the arquebus, were incorporated into existing units. Though more effective than a crossbow or arbalest, they were also slow and expensive, and arquebusiers needed protection from cavalry. The Spanish created the tercio, a unit comprised of pikemen and arquebusiers, and arranged so that arquebusiers – protected by flanking pikemen – could fire and then move to a safe place to reload. While slow, it was an effective battle formation and proved extremely effective in the wars of the 16th century. As the faster flintlock musket overtook the matchlock, and the age of pikes came to an end, the tercio eventually gave way to the classic line infantry of the 18th and 19th centuries.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_WARAKAQ_CHAPTER_HISTORY_PARA_1">
+			<Text>The bow replaced the sling in many parts of the world but not in the Andes. Andean warak’aq – woolen slings braided in contrasting colors – were masterpieces, capable of flinging a stone with deadly force up to 130m away. Stones are more plentiful in the high places than in the woods where one might craft arrows.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_WARAKAQ_CHAPTER_HISTORY_PARA_2">
+			<Text>Inca battles were both violent and symbolic. During tinku battles (show battles) warriors would re-enact famous conflicts from Inca history for an audience of nobles. Ethnic groups from around the empire would also dress in their particular ceremonial outfits, creating a drama that illustrated the scale and scope of the empire, as well as the Inca’s (inevitable) victory.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_XUNLEICHONG_CHAPTER_HISTORY_PARA_1">
+			<Text>The Ming Dynasty oversaw a revolution in battlefield tactics. Gunpowder, though long present in China, was being used for experimental weaponry, and Zhao Shi Zhen was a master experimenter. One of his creations was the “quick thunder gun,” or xunleichong: a machine gun, shield, and spear all in one. Five matchlock barrels protruded through a shield, providing the gunner some cover, while a detachable axe (for close-quarter fighting) served as a gun rest. When reversed, the apparatus could be used as a spear, thus the xunleichong was a ranged, melee, and anti-cavalry armament all at once.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_XUNLEICHONG_CHAPTER_HISTORY_PARA_2">
+			<Text>Was it practical? Was it ever deployed en masse? No, and no. But it remains a testament to experimentation and imagination, an attempt to provide new means to deal damage on the battlefield, taking the best advantage of new possibilities.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_CORSAIR_CHAPTER_HISTORY_PARA_1">
+			<Text>Corsairs, or pirates, were masters of the seas – independent sailors who traditionally attacked and pillaged other vessels for their personal enrichment. Their presence was historically found in regions heavily reliant on naval trade, as merchant ships and coastal cities made easy targets for quick wealth. The oldest recorded corsairs were the Sea Peoples, who raided the Mediterranean between the 14th-12th centuries BCE. The East Asian coastlines also had a long tradition of piracy that targeted the ample Indian Ocean trade routes. And the Golden Age of Piracy boomed in the Caribbean during the 18th century when mostly European sailors broke from their home nations to prey on the young colonies in the New World.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_CORSAIR_CHAPTER_HISTORY_PARA_2">
+			<Text>While countries typically resented their victimization at the hands of corsairs, they also found use for them during wartime. Corsairs were occasionally recruited as privateers, given legitimacy, immunity, and coin in exchange for their cannons. This agreement was beneficial for both sides – privateers gained a significant opportunity to make a fortune while states earned a portion of goods seized by their hires and could supplement their navies through a relatively low-risk investment.</Text>
+		</Row>
+
+		<!--Civ Unique Civilian-->
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_ALIM_CHAPTER_HISTORY_PARA_1">
+			<Text>The 'alim is a scholar of the Islamic tradition, trained in doctrine, theology, and law. During the Abbasid era, this educational journey began in the madrasa, where religious schooling formed the foundation of the 'alim’s knowledge. Once a scholar completed their education, they were considered one of the ulema (plural of 'alim), a larger community of intellectuals who consulted on matters of theological and legal import.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_ALIM_CHAPTER_HISTORY_PARA_2">
+			<Text>An 'alim could specialize in a wide variety of topics, including philosophy, law, medicine, and the broader sciences. Many theories spread beyond the boundaries of the Abbasid Caliphate through translation, such as the writings of Ibn Sina, known in the West as Avicenna. Others employed their expertise toward local projects, such as building water clocks and other strange yet wonderful machines. In many ways, the curiosity of the ulema fueled the Golden Age of Islam and established the Abbasid world as a center of thought and learning.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_CHASQUI_CHAPTER_HISTORY_PARA_1">
+			<Text>The immense Qhapaq Nan, the Incan road network, snaked through the Andes, uniting the high-altitude empire. Without horses or wheels, navigating these paths and bridges required walking – or running. The masters of the Qhapaq Nan were the chasquis, messengers chosen from the strongest of the young Incan men. They relayed messages through a system of tambos, or cabins, built along the roads. When a chasqui approached a tambo, a fresh runner would come out to briefly accompany him. The new arrival relayed the message he carried before stopping to rest while his replacement, having memorized the communication, continued the journey. Using this method, information could travel up to 200 miles a day.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_CHASQUI_CHAPTER_HISTORY_PARA_2">
+			<Text>The chasquis also maintained a system of bonfires in case of serious emergencies. Each tambo could light a fire in the event of an invasion or a rebellion and the smoke would alert other chasquis to light their fires until the alarm reached the capital. The Sapa Inca immediately acted upon seeing the bonfires, embarking with his army even before knowing the exact nature of the threat.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_CONQUISTADOR_CHAPTER_HISTORY_PARA_1">
+			<Text>The conquistadores (Spanish for “conquerors”) were the vanguard of the Spanish conquest of the Americas during the 15th and 16th centuries. Equally explorers and soldiers, they became renowned for military exploits but rarely had military backgrounds. They often emerged from poor families or lesser nobility and sought a better, richer, future abroad.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_CONQUISTADOR_CHAPTER_HISTORY_PARA_2">
+			<Text>In the New World, conquistadores were tasked with uncovering land and resources the Spanish Empire could exploit. This process involved founding new colonies, initiating trade, mapping the land, and subjugating local populations wherever possible. These activities were intended to create footholds for additional infrastructure – the army proper, missionaries, merchants – that would eventually establish a more permanent presence in the Americas. However, conquistadores were primarily interested in finding riches, as they were permitted to keep much of what they found. In their search for gold and silver, they overthrew significant kingdoms and empires in the New World, including the Inca and the Aztecs, and introduced Old World diseases like smallpox into the population. The combination of violence and sickness caused the deaths of millions of indigenous peoples.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_CONQUISTADOR_CHAPTER_HISTORY_PARA_3">
+			<Text>Conquistadors were difficult to control and unsuited for proper positions of authority, so as the Spanish Empire shifted from exploration to colonization, these explorer-soldiers were phased out in favor of governors and colonial staff.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_KAHUNA_CHAPTER_HISTORY_PARA_1">
+			<Text>A kahuna, loosely translated as “one who takes care of things,” is a Hawaiian expert on a topic of choice. A kahuna’s training is primarily theological; from there, kahunas often specialize in various sciences, particularly medicine, as well as spiritual and magical practices. However, their expertise can vary widely and include anything from canoe carving to agricultural techniques. Both men and women can become kahunas, provided they study for many years and are recognized for their expertise by either a teacher or the community at large.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_MANDARIN_CHAPTER_HISTORY_PARA_1">
+			<Text>Mandarins were scholars and bureaucrats who achieved their positions through written examination. They emerged from a long tradition of merit-based appointments, as opposed to inherited rank. During the Ming dynasty, several revisions were made to the exam, incorporating law and current policy in addition to the traditional topics of classical literature and writing. As representatives of Confucian values, many mandarins pursued government positions, while others contributed to society in other ways, such as teaching, practicing law, collecting taxes, and acting as local leaders.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_NOYAN_CHAPTER_HISTORY_PARA_1">
+			<Text>The Mongolian army was not divided by soldiers but by household. These were subdivided into units according to the decimal system: 10, 100, 1,000, and 10,000 households. The leaders of the 1,000 (mingghan) and 10,000 (tumen) divisions were called noyat (singular noyan). During times of peace, they ruled over the families under their control; during times of war, they recruited soldiers from their population and led them into battle.  </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_OTTRU_CHAPTER_HISTORY_PARA_1">
+			<Text>The Chola navy was key to the empire’s reign as South Asia’s preeminent thalassocracy during the Middle Ages. Chola power and influence were predominantly spread through trade and required a huge fleet of well-built ships to transport merchants and goods across the waves. It didn’t hurt to have an army to back up this expansion. Navy vessels were neither designed nor armed for war at sea, but were used to transport troops to distant shores so they could fight on behalf of the Chola. The ships were built without metal, relying on wooden pegs and ropes in their construction. The largest vessels could transport horses and even elephants and were well-stocked for long voyages.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_OTTRU_CHAPTER_HISTORY_PARA_2">
+			<Text>Intelligence is an important facet of any military force, and that was the role of the ottru. These ships monitored Chola trade routes, keeping a sharp eye on foreign vessels and reporting news to the emperor. Their watchful eyes maintained control over merchant ventures and kept the navy one step ahead of impending threats.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_PEDANDA_CHAPTER_HISTORY_PARA_1">
+			<Text>Majapahit society was divided into four castes, and each one was assigned a different responsibility. The highest of these were the brahmans, rulers and priests who united the concepts of secular and divine power to guide the population. The high priest was known as the pedanda.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_PEDANDA_CHAPTER_HISTORY_PARA_2">
+			<Text>This tradition spread during the fall of the Majapahit Empire. The dynasty’s adaptation of Hinduism focused largely on the worship of Shiva. As the empire declined, its citizens fled to Bali, where one priest, Dang Hyang Nirartha, founded a new priesthood to Shiva and became its pedanda. Today, he is considered the ancestor of all subsequent pedandas, and the tradition continues to hold a prominent place in Balinese society.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_SOKEMAN_CHAPTER_HISTORY_PARA_1">
+			<Text>The sokeman was a type of tenant in Norman England who owned and paid taxes on their land while providing service to their lords through support at court. The origins of the sokeman emerge from the earlier Danelaw, the large territory in England that operated under Norse, rather than Anglo-Saxon, law. At that time, there were two dominant forms of agricultural tenants: villeins who worked their lord’s land in exchange for a plot of their own, and free tenants who rented their land and were exempt from certain laws. Sokemen existed between these two categories, having more direct control over their land while serving their lord by lending them additional backing in the court of law.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_TAJIRO_CHAPTER_HISTORY_PARA_1">
+			<Text>Positioned along the Niger River at the heart of the Sahel, the Songhai Empire was primed to take over the trade routes that had long been managed by Mali. Local exchange took place along the river, while long-distance trade saw caravans crossing the Sahara and converging in the cities of Gao, Djenne, and Timbuktu. These merchants brought luxury goods such as glass, sugar, and horses in exchange for gold, ivory, wood, and a wide variety of locally produced commodities. Songhai military power protected the empire’s monopoly of trans-Saharan trade, enabling this influx of riches to fuel the economy and stabilize the kingdom in its formative years.</Text>
+		</Row>
+	</EnglishText>
+</Database>

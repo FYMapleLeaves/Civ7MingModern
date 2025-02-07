@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <AiComponents>
+
+  </AiComponents>
+  <AiDefinitions>
+
+  </AiDefinitions>
+  <AiTactics>
+
+  </AiTactics>
+  <AiListTypes>
+
+
+    <!-- Exploration Majors -->
+    <Row ListType="Exploration Tag Biases"/>
+    <Row ListType="Exploration Constructible Biases"/>
+    <Row ListType="Exploration Unit Biases"/>
+    <Row ListType="Default Exploration Settlement Plot Evaluations"/>
+
+    <!-- Abbasid -->
+    <Row ListType="Abbasid Unit Biases"/>
+    <Row ListType="Abbasid Government Bias"/>
+    <Row ListType="Abbasid Tag Biases" />
+    <Row ListType="Abbasid Constructibles Biases" />
+    <Row ListType="Abbasid Settlement Plot Evaluations" />
+
+    <!-- Chola -->
+    <Row ListType="Chola Unit Biases"/>
+    <Row ListType="Chola Government Bias"/>
+    <Row ListType="Chola PseudoYield Biases"/>
+    <Row ListType="Chola Constructibles Biases" />
+    <Row ListType="Chola Settlement Plot Evaluations" />
+
+    <!-- Hawaii -->
+    <Row ListType="Hawaii Unit Biases"/>
+    <Row ListType="Hawaii Government Bias"/>
+    <Row ListType="Hawaii Constructibles Biases" />
+    <Row ListType="Hawaii Settlement Plot Evaluations" />
+
+    <!-- Inca -->
+    <Row ListType="Inca Unit Biases"/>
+    <Row ListType="Inca Government Bias"/>
+    <Row ListType="Inca Constructibles Biases" />
+    <Row ListType="Inca Settle Plot Evaluations" />
+
+    <!-- Majapahit -->
+    <Row ListType="Majapahit Unit Biases"/>
+    <Row ListType="Majapahit Government Bias"/>
+    <Row ListType="Majapahit Constructibles Biases" />
+    <Row ListType="Majapahit Budget Biases" />
+    <Row ListType="Majapahit Settlement Plot Evaluations" />
+
+    <!-- Ming -->
+    <Row ListType="Ming Unit Biases"/>
+    <Row ListType="Ming Government Bias"/>
+    <Row ListType="Ming Constructibles Biases" />
+    <Row ListType="Ming PseudoYield Biases" />
+
+    <!-- Mongolia -->
+    <Row ListType="Mongolia Unit Biases"/>
+    <Row ListType="Mongolia Government Bias"/>
+    <Row ListType="Mongolia Constructibles Biases" />
+    <Row ListType="Mongolia Budget Biases" />
+
+    <!-- Normans -->
+    <Row ListType="Normans Unit Biases"/>
+    <Row ListType="Normans Government Bias"/>
+    <Row ListType="Normans Constructibles Biases" />
+    <Row ListType="Normans Budget Biases" />
+    <Row ListType="Normans Tag Biases" />
+
+    <!-- Songhai -->
+    <Row ListType="Songhai Unit Biases"/>
+    <Row ListType="Songhai Government Bias"/>
+    <Row ListType="Songhai Constructibles Biases" />
+    <Row ListType="Songhai PseudoYield Biases" />
+    <Row ListType="Songhai Settlement Plot Evaluations" />
+
+    <!-- Spain -->
+    <Row ListType="Spain Unit Biases"/>
+    <Row ListType="Spain Government Bias"/>
+    <Row ListType="Spain Constructibles Biases" />
+    <Row ListType="Spain Budget Biases" />
+    <Row ListType="Spain Settle Plot Evaluations" />
+
+  </AiListTypes>
+  <AiLists>
+
+
+    <!-- Exploration Majors  -->
+    <Row ListType="Exploration Tag Biases" LeaderType="TRAIT_EXPLORATION_CIV" System="TagBiases"/>
+    <Row ListType="Exploration Constructible Biases" LeaderType="TRAIT_EXPLORATION_CIV" System="ConstructibleBiases"/>
+    <Row ListType="Exploration Unit Biases" LeaderType="TRAIT_EXPLORATION_CIV" System="UnitBiases"/>
+    <Row ListType="Default Exploration Settlement Plot Evaluations" LeaderType="TRAIT_LEADER_MAJOR_CIV" System="SettlementPlotEvaluations"/>
+
+    <!-- Abbasid -->
+    <Row ListType="Abbasid Unit Biases" LeaderType="TRAIT_ABBASID" System="UnitBiases"/>
+    <Row ListType="Abbasid Government Bias" LeaderType="TRAIT_ABBASID" System="GovernmentBiases"/>
+    <Row ListType="Abbasid Tag Biases" LeaderType="TRAIT_ABBASID" System="TagBiases"/>
+    <Row ListType="Abbasid Constructibles Biases" LeaderType="TRAIT_ABBASID" System="ConstructibleBiases" />
+    <Row ListType="Abbasid Settlement Plot Evaluations" LeaderType="TRAIT_ABBASID" System="SettlementPlotEvaluations"/>
+
+    <!-- Chola -->
+    <Row ListType="Chola Unit Biases" LeaderType="TRAIT_CHOLA" System="UnitBiases"/>
+    <Row ListType="Chola Government Bias" LeaderType="TRAIT_CHOLA" System="GovernmentBiases"/>
+    <Row ListType="Chola PseudoYield Biases" LeaderType="TRAIT_CHOLA" System="PseudoYieldBiases"/>
+    <Row ListType="Chola Constructibles Biases" LeaderType="TRAIT_CHOLA" System="ConstructibleBiases" />
+    <Row ListType="Chola Settlement Plot Evaluations" LeaderType="TRAIT_CHOLA" System="SettlementPlotEvaluations"/>
+
+    <!-- Hawaii -->
+    <Row ListType="Hawaii Unit Biases" LeaderType="TRAIT_HAWAII" System="UnitBiases"/>
+    <Row ListType="Hawaii Government Bias" LeaderType="TRAIT_HAWAII" System="GovernmentBiases"/>
+    <Row ListType="Hawaii Constructibles Biases" LeaderType="TRAIT_HAWAII" System="ConstructibleBiases" />
+    <Row ListType="Hawaii Settlement Plot Evaluations" LeaderType="TRAIT_HAWAII" System="SettlementPlotEvaluations"/>
+
+    <!-- INCA -->
+    <Row ListType="Inca Unit Biases" LeaderType="TRAIT_INCA" System="UnitBiases"/>
+    <Row ListType="Inca Government Bias" LeaderType="TRAIT_INCA" System="GovernmentBiases"/>
+    <Row ListType="Inca Constructibles Biases" LeaderType="TRAIT_INCA" System="ConstructibleBiases" />
+    <Row ListType="Inca Settle Plot Evaluations" LeaderType="TRAIT_INCA" System="SettlementPlotEvaluations" />
+
+    <!-- Majapahit -->
+    <Row ListType="Majapahit Unit Biases" LeaderType="TRAIT_MAJAPAHIT" System="UnitBiases"/>
+    <Row ListType="Majapahit Government Bias" LeaderType="TRAIT_MAJAPAHIT" System="GovernmentBiases"/>
+    <Row ListType="Majapahit Constructibles Biases" LeaderType="TRAIT_MAJAPAHIT" System="ConstructibleBiases"/>
+    <Row ListType="Majapahit Budget Biases" LeaderType="TRAIT_MAJAPAHIT" System="AiBudgetBiases"/>
+    <Row ListType="Majapahit Settlement Plot Evaluations" LeaderType="TRAIT_MAJAPAHIT" System="SettlementPlotEvaluations"/>
+
+    <!-- Ming -->
+    <Row ListType="Ming Unit Biases" LeaderType="TRAIT_MING" System="UnitBiases"/>
+    <Row ListType="Ming Government Bias" LeaderType="TRAIT_MING" System="GovernmentBiases"/>
+    <Row ListType="Ming PseudoYield Biases" LeaderType="TRAIT_MING" System="PseudoYieldBiases"/>
+    <Row ListType="Ming Constructibles Biases" LeaderType="TRAIT_MING" System="ConstructibleBiases" />
+
+    <!-- Mongolia -->
+    <Row ListType="Mongolia Unit Biases" LeaderType="TRAIT_MONGOLIA" System="UnitBiases"/>
+    <Row ListType="Mongolia Government Bias" LeaderType="TRAIT_MONGOLIA" System="GovernmentBiases"/>
+    <Row ListType="Mongolia Constructibles Biases" LeaderType="TRAIT_MONGOLIA" System="ConstructibleBiases"/>
+    <Row ListType="Mongolia Budget Biases" LeaderType="TRAIT_MONGOLIA" System="AiBudgetBiases"/>
+
+    <!-- Normans -->
+    <Row ListType="Normans Unit Biases" LeaderType="TRAIT_NORMAN" System="UnitBiases"/>
+    <Row ListType="Normans Government Bias" LeaderType="TRAIT_NORMAN" System="GovernmentBiases"/>
+    <Row ListType="Normans Constructibles Biases" LeaderType="TRAIT_NORMAN" System="ConstructibleBiases"/>
+    <Row ListType="Normans Budget Biases" LeaderType="TRAIT_NORMAN" System="AiBudgetBiases"/>
+    <Row ListType="Normans Tag Biases" LeaderType="TRAIT_NORMAN" System="TagBiases"/>
+
+    <!-- Songhai -->
+    <Row ListType="Songhai Unit Biases" LeaderType="TRAIT_SONGHAI" System="UnitBiases"/>
+    <Row ListType="Songhai Government Bias" LeaderType="TRAIT_SONGHAI" System="GovernmentBiases"/>
+    <Row ListType="Songhai Constructibles Biases" LeaderType="TRAIT_SONGHAI" System="ConstructibleBiases"/>
+    <Row ListType="Songhai PseudoYield Biases" LeaderType="TRAIT_SONGHAI" System="PseudoYieldBiases"/>
+    <Row ListType="Songhai Settlement Plot Evaluations" LeaderType="TRAIT_SONGHAI" System="SettlementPlotEvaluations"/>
+
+    <!-- Spain -->
+    <Row ListType="Spain Unit Biases" LeaderType="TRAIT_SPAIN" System="UnitBiases"/>
+    <Row ListType="Spain Government Bias" LeaderType="TRAIT_SPAIN" System="GovernmentBiases"/>
+    <Row ListType="Spain Constructibles Biases" LeaderType="TRAIT_SPAIN" System="ConstructibleBiases"/>
+    <Row ListType="Spain Budget Biases" LeaderType="TRAIT_SPAIN" System="AiBudgetBiases"/>
+    <Row ListType="Spain Settle Plot Evaluations" LeaderType="TRAIT_SPAIN" System="SettlementPlotEvaluations"/>
+
+  </AiLists>
+  <AiFavoredItems>
+
+
+    <!-- Abbasid -->
+    <Row ListType="Abbasid Unit Biases" Item="UNIT_MAMLUK" Value="50"/>
+    <Row ListType="Abbasid Unit Biases" Item="UNIT_MAMLUK_2" Value="50"/>
+    <Row ListType="Abbasid Unit Biases" Item="UNIT_MAMLUK_3" Value="50"/>
+    <Row ListType="Abbasid Unit Biases" Item="UNIT_SWORDSMAN" Value="25"/>
+    <Row ListType="Abbasid Unit Biases" Item="UNIT_MAN_AT_ARMS" Value="25"/>
+    <Row ListType="Abbasid Unit Biases" Item="UNIT_PIKEMAN" Value="25"/>
+    <Row ListType="Abbasid Unit Biases" Item="UNIT_ALIM" Value="50"/>
+    <Row ListType="Abbasid Government Bias" Item="GOVERNMENT_THEOCRACY" Value="50"/>
+    <Row ListType="Abbasid Tag Biases" Item="SCIENCE" Value="50"/>
+    <Row ListType="Abbasid Constructibles Biases" Item="WONDER_HOUSE_OF_WISDOM" Value="50"/>
+    <Row ListType="Abbasid Constructibles Biases" Item="BUILDING_TEMPLE" Value="200"/>
+    <Row ListType="Abbasid Constructibles Biases" Item="BUILDING_MADRASA" Value="200"/>
+    <Row ListType="Abbasid Constructibles Biases" Item="BUILDING_MOSQUE" Value="200"/>
+    <Row ListType="Abbasid Settlement Plot Evaluations" Item="Resource Class" Favored="false" Value="50" StringVal="RESOURCECLASS_EMPIRE" TooltipString="LOC_SETTLEMENT_RECOMMENDATION_STRATEGIC_RESOURCES"/>
+    <Row ListType="Abbasid Settlement Plot Evaluations" Item="Resource Class" Favored="false" Value="50" StringVal="RESOURCECLASS_CITY" TooltipString="LOC_SETTLEMENT_RECOMMENDATION_STRATEGIC_RESOURCES"/>
+    <Row ListType="Abbasid Settlement Plot Evaluations" Item="Resource Class" Favored="false" Value="50" StringVal="RESOURCECLASS_BONUS" TooltipString="LOC_SETTLEMENT_RECOMMENDATION_STRATEGIC_RESOURCES"/>
+
+    <!-- Chola -->
+    <Row ListType="Chola Unit Biases" Item="UNIT_KALAM" Value="50"/>
+    <Row ListType="Chola Unit Biases" Item="UNIT_KALAM_2" Value="50"/>
+    <Row ListType="Chola Unit Biases" Item="UNIT_KALAM_3" Value="50"/>
+    <Row ListType="Chola Unit Biases" Item="UNIT_OTTRU" Value="50"/>
+    <Row ListType="Chola Government Bias" Item="GOVERNMENT_PLUTOCRACY" Value="50"/>
+    <Row ListType="Chola PseudoYield Biases" Item="PSEUDOYIELD_RESOURCE_IMPORT" Value="25"/>
+    <Row ListType="Chola Constructibles Biases" Item="WONDER_BRIHADEESWARAR_TEMPLE" Value="50" />
+    <Row ListType="Chola Constructibles Biases" Item="BUILDING_MANIGRAMAM" Value="200" />
+    <Row ListType="Chola Constructibles Biases" Item="BUILDING_ANJUVANNAM" Value="200" />
+    <Row ListType="Chola Settlement Plot Evaluations" Item="Coastal" Favored="false" Value="50" TooltipString="LOC_SETTLEMENT_RECOMMENDATION_COAST"/>
+    <Row ListType="Chola Settlement Plot Evaluations" Item="Specific Terrain" Value="25" StringVal="TERRAIN_COAST" TooltipString="LOC_SETTLEMENT_RECOMMENDATION_TERRAIN"/>
+
+    <!-- Hawaii -->
+    <Row ListType="Hawaii Unit Biases" Item="UNIT_LEIOMANO" Value="50"/>
+    <Row ListType="Hawaii Unit Biases" Item="UNIT_LEIOMANO_2" Value="50"/>
+    <Row ListType="Hawaii Unit Biases" Item="UNIT_LEIOMANO_3" Value="50"/>
+    <Row ListType="Hawaii Unit Biases" Item="UNIT_COG" Value="25"/>
+    <Row ListType="Hawaii Unit Biases" Item="UNIT_CARRACK" Value="25"/>
+    <Row ListType="Hawaii Unit Biases" Item="UNIT_GALLEON" Value="25"/>
+    <Row ListType="Hawaii Government Bias" Item="GOVERNMENT_THEOCRACY" Value="50"/>
+    <Row ListType="Hawaii Constructibles Biases" Item="WONDER_HALE_O_KEAWE" Value="50" />
+    <Row ListType="Hawaii Constructibles Biases" Item="IMPROVEMENT_LO_I_KALO" Value="200" />
+    <Row ListType="Hawaii Constructibles Biases" Item="IMPROVEMENT_FARM" Value="50" />
+    <Row ListType="Hawaii Constructibles Biases" Item="BUILDING_TEMPLE" Value="200" />
+    <Row ListType="Hawaii Settlement Plot Evaluations" Item="Coastal" Favored="false" Value="50" TooltipString="LOC_SETTLEMENT_RECOMMENDATION_COAST"/>
+    <Row ListType="Hawaii Settlement Plot Evaluations" Item="Specific Terrain" Value="25" StringVal="TERRAIN_COAST" TooltipString="LOC_SETTLEMENT_RECOMMENDATION_TERRAIN"/>
+    <Row ListType="Hawaii Settlement Plot Evaluations" Item="Specific Feature" Value="25" StringVal="FEATURE_VOLCANO" TooltipString="LOC_SETTLEMENT_RECOMMENDATION_FEATURES"/>
+
+    <!-- INCA -->
+    <Row ListType="Inca Unit Biases" Item="UNIT_WARAKAQ" Value="50"/>
+    <Row ListType="Inca Unit Biases" Item="UNIT_WARAKAQ_2" Value="50"/>
+    <Row ListType="Inca Unit Biases" Item="UNIT_WARAKAQ_3" Value="50"/>
+    <Row ListType="Inca Unit Biases" Item="UNIT_CHASQUI" Value="25"/>
+    <Row ListType="Inca Government Bias" Item="GOVERNMENT_THEOCRACY" Value="25"/>
+    <Row ListType="Inca Constructibles Biases" Item="WONDER_MACHU_PIKCHU" Value="50"/>
+    <Row ListType="Inca Constructibles Biases" Item="IMPROVEMENT_FARM" Value="50"/>
+    <Row ListType="Inca Constructibles Biases" Item="IMPROVEMENT_TERRACE_FARM" Value="200"/>
+    <Row ListType="Inca Constructibles Biases" Item="WONDER_MACHU_PIKCHU" Value="50"/>
+    <Row ListType="Inca Settle Plot Evaluations" Item="Specific Terrain" Favored="false" Value="75" StringVal="TERRAIN_HILL" TooltipString="LOC_SETTLEMENT_RECOMMENDATION_TERRAIN"/>
+    <Row ListType="Inca Settle Plot Evaluations" Item="Specific Terrain" Favored="false" Value="75" StringVal="TERRAIN_MOUNTAIN" TooltipString="LOC_SETTLEMENT_RECOMMENDATION_TERRAIN"/>
+
+    <!-- Majapahit -->
+    <Row ListType="Majapahit Unit Biases" Item="UNIT_CETBANG" Value="50"/>
+    <Row ListType="Majapahit Unit Biases" Item="UNIT_CETBANG_2" Value="50"/>
+    <Row ListType="Majapahit Unit Biases" Item="UNIT_CETBANG_3" Value="50"/>
+    <Row ListType="Majapahit Unit Biases" Item="UNIT_CATAPULT" Value="25"/>
+    <Row ListType="Majapahit Unit Biases" Item="UNIT_TREBUCHET" Value="25"/>
+    <Row ListType="Majapahit Unit Biases" Item="UNIT_BOMBARD" Value="25"/>
+    <Row ListType="Majapahit Government Bias" Item="GOVERNMENT_THEOCRACY" Value="25"/>
+    <Row ListType="Majapahit Constructibles Biases" Item="WONDER_BOROBUDUR" Value="50"/>
+    <Row ListType="Majapahit Constructibles Biases" Item="BUILDING_TEMPLE" Value="200"/>
+    <Row ListType="Majapahit Settlement Plot Evaluations" Item="Coastal" Favored="false" Value="50" TooltipString="LOC_SETTLEMENT_RECOMMENDATION_COAST"/>
+    <Row ListType="Majapahit Settlement Plot Evaluations" Item="Specific Terrain" Value="25" StringVal="TERRAIN_COAST" TooltipString="LOC_SETTLEMENT_RECOMMENDATION_TERRAIN"/>
+    <Row ListType="Majapahit Budget Biases" Item="AI_BUDGET_CITY_DEVELOPMENT" Value="50"/>
+
+    <!-- Ming -->
+    <Row ListType="Ming Unit Biases" Item="UNIT_XUNLEICHONG" Value="50"/>
+    <Row ListType="Ming Unit Biases" Item="UNIT_XUNLEICHONG_2" Value="50"/>
+    <Row ListType="Ming Unit Biases" Item="UNIT_XUNLEICHONG_3" Value="50"/>
+    <Row ListType="Ming Unit Biases" Item="UNIT_HEAVY_ARCHER" Value="25"/>
+    <Row ListType="Ming Unit Biases" Item="UNIT_CROSSBOWMAN" Value="25"/>
+    <Row ListType="Ming Unit Biases" Item="UNIT_ARQUEBUSIER" Value="25"/>
+    <Row ListType="Ming Unit Biases" Item="UNIT_COG" Value="25"/>
+    <Row ListType="Ming Unit Biases" Item="UNIT_CARRACK" Value="25"/>
+    <Row ListType="Ming Unit Biases" Item="UNIT_GALLEON" Value="25"/>
+    <Row ListType="Ming Government Bias" Item="GOVERNMENT_FEUDAL_MONARCHY" Value="25"/>
+    <Row ListType="Ming PseudoYield Biases" Item="PSEUDOYIELD_RESOURCE" Value="50"/>
+    <Row ListType="Ming PseudoYield Biases" Item="PSEUDOYIELD_BUILD_QUEUE_IN_CITY" Value="-10"/>
+    <Row ListType="Ming PseudoYield Biases" Item="PSEUDOYIELD_UNLOCK_CIV_UNIQUE_TRADITION" Value="1000000"/>
+    <Row ListType="Ming PseudoYield Biases" Item="PSEUDOYIELD_SLOT_CIV_UNIQUE_TRADITION" Value="100000"/>
+    <Row ListType="Ming Constructibles Biases" Item="WONDER_FORBIDDEN_CITY" Value="50" />
+    <Row ListType="Ming Constructibles Biases" Item="IMPROVEMENT_MING_GREAT_WALL" Value="200" />
+
+    <!-- Mongolia -->
+    <Row ListType="Mongolia Unit Biases" Item="UNIT_KESHIG" Value="50"/>
+    <Row ListType="Mongolia Unit Biases" Item="UNIT_KESHIG_2" Value="50"/>
+    <Row ListType="Mongolia Unit Biases" Item="UNIT_KESHIG_3" Value="50"/>
+    <Row ListType="Mongolia Unit Biases" Item="UNIT_NOYAN" Value="50"/>
+    <Row ListType="Mongolia Unit Biases" Item="UNIT_COURSER" Value="25"/>
+    <Row ListType="Mongolia Unit Biases" Item="UNIT_KNIGHT" Value="25"/>
+    <Row ListType="Mongolia Unit Biases" Item="UNIT_LANCER" Value="25"/>
+    <Row ListType="Mongolia Government Bias" Item="GOVERNMENT_FEUDAL_MONARCHY" Value="50"/>
+    <Row ListType="Mongolia Constructibles Biases" Item="WONDER_ERDENE_ZUU" Value="50"/>
+    <Row ListType="Mongolia Constructibles Biases" Item="IMPROVEMENT_ORTOO" Value="200"/>
+    <Row ListType="Mongolia Budget Biases" Item="AI_BUDGET_STANDING_ARMY" Value="50"/>
+
+    <!-- Normans -->
+    <Row ListType="Normans Unit Biases" Item="UNIT_CHEVALER" Value="50"/>
+    <Row ListType="Normans Unit Biases" Item="UNIT_CHEVALER_2" Value="50"/>
+    <Row ListType="Normans Unit Biases" Item="UNIT_CHEVALER_3" Value="50"/>
+    <Row ListType="Normans Unit Biases" Item="UNIT_COG" Value="25"/>
+    <Row ListType="Normans Unit Biases" Item="UNIT_CARRACK" Value="25"/>
+    <Row ListType="Normans Unit Biases" Item="UNIT_GALLEON" Value="25"/>
+    <Row ListType="Normans Government Bias" Item="GOVERNMENT_FEUDAL_MONARCHY" Value="50"/>
+    <Row ListType="Normans Constructibles Biases" Item="WONDER_WHITE_TOWER" Value="50"/>
+    <Row ListType="Normans Constructibles Biases" Item="BUILDING_MOTTE" Value="200"/>
+    <Row ListType="Normans Constructibles Biases" Item="BUILDING_BAILEY" Value="200"/>
+    <Row ListType="Normans Constructibles Biases" Item="IMPROVEMENT_FARM" Value="25"/>
+    <Row ListType="Normans Budget Biases" Item="AI_BUDGET_STANDING_ARMY" Value="25"/>
+    <Row ListType="Normans Tag Biases" Item="FORTIFICATION" Value="50"/>
+
+    <!-- Songhai -->
+    <Row ListType="Songhai Unit Biases" Item="UNIT_GOLD_BANGLES" Value="50"/>
+    <Row ListType="Songhai Unit Biases" Item="UNIT_GOLD_BANGLES_2" Value="50"/>
+    <Row ListType="Songhai Unit Biases" Item="UNIT_GOLD_BANGLES_3" Value="50"/>
+    <Row ListType="Songhai Unit Biases" Item="UNIT_COURSER" Value="25"/>
+    <Row ListType="Songhai Unit Biases" Item="UNIT_KNIGHT" Value="25"/>
+    <Row ListType="Songhai Unit Biases" Item="UNIT_LANCER" Value="25"/>
+    <Row ListType="Songhai Unit Biases" Item="UNIT_COG" Value="25"/>
+    <Row ListType="Songhai Unit Biases" Item="UNIT_CARRACK" Value="25"/>
+    <Row ListType="Songhai Unit Biases" Item="UNIT_GALLEON" Value="25"/>
+    <Row ListType="Songhai Government Bias" Item="GOVERNMENT_PLUTOCRACY" Value="25"/>
+    <Row ListType="Songhai Constructibles Biases" Item="WONDER_TOMB_OF_ASKIA" Value="50"/>
+    <Row ListType="Songhai Constructibles Biases" Item="IMPROVEMENT_CARAVANSERAI" Value="200"/>
+    <Row ListType="Songhai PseudoYield Biases" Item="PSEUDOYIELD_RESOURCE_IMPORT" Value="25"/>
+    <Row ListType="Songhai Settlement Plot Evaluations" Item="Specific Terrain" Value="25" StringVal="TERRAIN_NAVIGABLE_RIVER" TooltipString="LOC_SETTLEMENT_RECOMMENDATION_TERRAIN"/>
+
+    <!-- Spain -->
+    <Row ListType="Spain Unit Biases" Item="UNIT_TERCIO" Value="50"/>
+    <Row ListType="Spain Unit Biases" Item="UNIT_TERCIO_2" Value="50"/>
+    <Row ListType="Spain Unit Biases" Item="UNIT_TERCIO_3" Value="50"/>
+    <Row ListType="Spain Unit Biases" Item="UNIT_COG" Value="25"/>
+    <Row ListType="Spain Unit Biases" Item="UNIT_CARRACK" Value="25"/>
+    <Row ListType="Spain Unit Biases" Item="UNIT_GALLEON" Value="25"/>
+    <Row ListType="Spain Unit Biases" Item="UNIT_CONQUISTADOR" Value="50"/>
+    <Row ListType="Spain Government Bias" Item="GOVERNMENT_FEUDAL_MONARCHY" Value="50"/>
+    <Row ListType="Spain Constructibles Biases" Item="WONDER_EL_ESCORIAL" Value="50"/>
+    <Row ListType="Spain Constructibles Biases" Item="BUILDING_CASA_CONSISTORIAL" Value="200"/>
+    <Row ListType="Spain Constructibles Biases" Item="BUILDING_CASA_DE_CONTRATACION" Value="200"/>
+    <Row ListType="Spain Budget Biases" Item="AI_BUDGET_EXPLORATION" Value="25"/>
+    <Row ListType="Spain Settle Plot Evaluations" Item="Foreign Hemisphere" Favored="false" Value="200" TooltipString="LOC_SETTLEMENT_RECOMMENDATION_FOREIGN_HEMISPHERE"/>
+
+  </AiFavoredItems>
+
+</Database>

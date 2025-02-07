@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_ABBASID">
+			<Text>Unified by the new religion of Islam, the early Arab caliphates expanded rapidly across the Mediterranean and eastward into Persia. In this world, Baghdad, the capital of the Abbasid dynasty,  thrived as a center of learning and culture. Arab scholars advanced astronomy and mathematics, philosophy and art until, like the fall of night, the Mongols appeared on the eastern horizon. </Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_CHOLA">
+			<Text>Cornering trade across the Indian Ocean, the Chola oversaw a vast network of merchants and naval vessels that brought Indic texts and traditions along with spices, ivory, ebony, and other trade goods. Their dominion extended at times to vassals in Burma and Sumatra. But danger came from home, as neighboring kingdoms drove them into obscurity. </Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_HAWAII">
+			<Text>With their double-hulled canoes and crab-clawed sails, Polynesian settlers reached across the vastness of the Pacific. Hawai’i, settled around 1000 CE, was at first a series of rival kingdoms until the advent of Kamehameha in 1795. But just a short while later, European and American missionaries, settlers, and planters invaded Hawai’i until the kingdom fell to a coup.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_INCA">
+			<Text>Tawantinsuyu, “the empire in four parts,” was ruled by the Inca, and extended across the Andes mountains, building roads and waystations, terraced fields and silver mines - an empire in the sky. Under the Inca was a diverse collection of subjects, languages, and cultures, but no writing or coinage. Yet the empire came to a crashing end upon the arrival of the Spanish, and smallpox.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_MAJAPAHIT">
+			<Text>The last great Hindu kingdom of Indonesia arose with the surprise betrayal of Kublai Khan’s navy, paving the way for the Majapahit, who conquered and controlled the spice islands at the dawn of the global era. But after three hundred years of dominance, the winds began to change. Muslim trade networks sidelined the Majapahit state, forcing them to the island of Bali, where their legacy remains.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_MING">
+			<Text>Emerging from the shadow of Mongol-dominated Yuan, the Ming turned inward, revitalizing Han traditions and fortifying Chinese infrastructure and economy. The Great Wall was expanded and improved, a tributary system of defense and dependency was installed, and Ming goods became the most desired commodities in the global market. But when silver sources collapsed, unpaid Ming armies rebelled, leading to the rise of the Manchu-dominated Qing. </Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_MONGOLIA">
+			<Text>In the steppe of Mongolia, Temüjin – who would become Genghis Khan – united feuding clans and led them across the known world. The Mongols used not only their famed archers, but also debuted gunpowder on the battlefield. Internally, the empire was a tolerant state, permitting freedom of religion, safe roads, and a passport system. But with the great Khan’s passing, the Mongol horde splintered.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_NORMAN">
+			<Text>From distant shores, the Normans sailed with conquest on their minds. Originally from Scandinavia, they sat unquietly in northern France for just over a century before seizing England in 1066. They brought court culture, French language, and weapons of war. Knights rode out from stone castles, pursuing the values of chivalry. The Normans never truly disappeared, but merged with local populations, creating the amalgam we call “English” today.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_SONGHAI">
+			<Text>As the Empire of Mali faltered, their Songhai vassals rose up to form one of the largest states in Africa. Songhai revitalized Islam in the region, renewed the academic community in Timbuktu, and controlled the trans-Saharan trade. But the empire’s days were numbered when the Moroccans invaded, armed with gunpowder and seeking new routes for their own prosperity.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_SPAIN">
+			<Text>Among early European colonial powers, Spain was by far the largest and most influential empire. Iberia had been divided between Muslim emirates and Christian kingdoms, but following the unification of Castile and Aragon, and the completion of the Reconquista, Spain dominated the global stage in the name of God, and wealth. The empire faltered as its ambitions were challenged on the continent, and its far-flung colonies sought their own destinies.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_ABBASID">
+			<Text>Bahamut rumbles and sways the jacinth slab of Kuyutha. The Abbasids' weight will realign the balance of the world.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_CHOLA">
+			<Text>The monsoon gathers, filling sails and banners, pushing the fierce Chola toward their destiny.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_HAWAII">
+			<Text>The oceans whisper of a new power rising with the tide. The masters of waves will take a name forever remembered - Hawaii.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_INCA">
+			<Text>The mountain valleys will sound with hammer and spade as the Inca enrich the land.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_MAJAPAHIT">
+			<Text>The earth cries out for stewards. The Majapahit shall answer, and by wisdom, power, and grace, the fields will sing their name.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_MING">
+			<Text>Guided by the stars, the Ming will seize the mandate of heaven, and lead the people into a prosperous future.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_MONGOLIA">
+			<Text>The steppes brace for a coming storm - one of horses, valor, and endless ambition. The Mongols ride forth. </Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_NORMAN">
+			<Text>The winds rise, and the Normans cross the channel of history to seize the world for themselves and hold nothing back.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_SONGHAI">
+			<Text>From the heart of the Sahel, the Songhai will emerge upon the river's waves to take the world by storm. </Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_SPAIN">
+			<Text>Undaunted by the ocean's expanse, Spain will follow the song of gold to unknown lands and make them its own.</Text>
+		</Row>
+	</EnglishText>
+</Database>

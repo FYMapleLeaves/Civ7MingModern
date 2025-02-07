@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_DIPLOMACY_PROJECT_OPEN_BORDERS_ACCEPT">
+			<Text>Open your borders to them.[n][icon:YIELD_GOLD] +4 per turn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_PROJECT_RESEARCH_COLLABORATION_INITIAL">
+			<Text>Do a Research Collaboration with another Leader.[n]Accepted: You receive +8[icon:YIELD_SCIENCE] Science per turn. Other Leader receives +4[icon:YIELD_SCIENCE] Science per turn.[n]Supported: Both Leaders receive +12[icon:YIELD_SCIENCE] Science per turn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_PROJECT_RESEARCH_COLLABORATION_SUPPORT">
+			<Text>[icon:YIELD_SCIENCE] +12 per turn for both Leaders.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_PROJECT_RESEARCH_COLLABORATION_ACCEPT">
+			<Text>[icon:YIELD_SCIENCE] +4 per turn.[n]{1_initialName} receives [icon:YIELD_SCIENCE] +8 per turn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_PROJECT_CULTURAL_EXCHANGE_INITIAL">
+			<Text>Have a Cultural Exchange with another Leader.[n]Accepted: You receive +8[icon:YIELD_CULTURE] Culture per turn. Other Leader receives +4[icon:YIELD_CULTURE] Culture per turn.[n]Supported: Both Leaders receive +12[icon:YIELD_CULTURE] Culture per turn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_PROJECT_CULTURAL_EXCHANGE_SUPPORT">
+			<Text>+12[icon:YIELD_CULTURE] per turn for both Leaders.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_PROJECT_CULTURAL_EXCHANGE_ACCEPT">
+			<Text>[icon:YIELD_CULTURE] +4 per turn.[n]{1_initialName} receives [icon:YIELD_CULTURE] +8 per turn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_PROJECT_MINOR_TRADE_INITIAL">
+			<Text>Have Open Markets with another Leader.[n]Accepted: You receive +8[icon:YIELD_GOLD] Gold per turn. Other Leader receives +4[icon:YIELD_GOLD] Gold per turn.[n]Supported: Both Leaders receive +12[icon:YIELD_GOLD] Gold per turn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_PROJECT_MINOR_TRADE_SUPPORT">
+			<Text>[icon:YIELD_GOLD] +12 per turn for both Leaders.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_PROJECT_MINOR_TRADE_ACCEPT">
+			<Text>[icon:YIELD_GOLD] +4 per turn.[n]{1_initialName} receives [icon:YIELD_GOLD] +8 per turn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_PROJECT_LOCAL_FESTIVALS_INITIAL">
+			<Text>Have Local Festivals with another Leader.[n]Accepted: You receive +4[icon:YIELD_HAPPINESS] Happiness per turn in all Cities. Other Leader receives +4[icon:YIELD_DIPLOMACY] Influence per turn.[n]Supported: Both Leaders receive +6[icon:YIELD_HAPPINESS] Happiness per turn in Cities.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_PROJECT_LOCAL_FESTIVALS_SUPPORT">
+			<Text>[icon:YIELD_HAPPINESS] +6 per turn in Cities for both Leaders.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_PROJECT_LOCAL_FESTIVALS_ACCEPT">
+			<Text>[icon:YIELD_DIPLOMACY] +4 per turn.[n] [icon:YIELD_HAPPINESS] +4 per turn in Cities for {1_initialName}.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_PROJECT_FARMERS_MARKET_INITIAL">
+			<Text>Share agricultural goods with another Leader.[n]Accepted: You receive +4[icon:YIELD_FOOD] Food per turn in Towns. Other Leader receives +4[icon:YIELD_GOLD] Gold per turn.[n]Supported: Both Leaders receive +6[icon:YIELD_FOOD] Food per turn in Towns.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_PROJECT_FARMERS_MARKET_SUPPORT">
+			<Text>[icon:YIELD_FOOD] +6 per turn in Towns for both Leaders.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_PROJECT_FARMERS_MARKET_ACCEPT">
+			<Text>[icon:YIELD_GOLD] +4 per turn.[n]{1_initialName} receives [icon:YIELD_FOOD] +4 per turn in Towns.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_PROJECT_TRADE_MAP_ACCEPT">
+			<Text>[icon:YIELD_GOLD] +4 per turn.[n]The other Leader has your claimed territory revealed to them over time.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_PROJECT_MILITARY_AID_ACCEPT">
+			<Text>[icon:YIELD_GOLD] +4 per turn.[n]Other Leader's Units get +2 Combat Strength.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_PROJECT_IMPROVE_TRADE_RELATIONS_ACCEPT">
+			<Text>[icon:YIELD_GOLD] +60.[n]{1_initialName} can start an additional Trade Route with you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_PROJECT_GINSING_AGREEMENT_INITIAL">
+			<Text>Have Ginseng Agreements with another Leader.[n]Accepted: You receive +8[icon:YIELD_FOOD] Food per turn in your Capital. Other Leader receives +4[icon:YIELD_FOOD] Food per turn in their Capital.[n]Supported: Both Leaders receive +12[icon:YIELD_FOOD] Food per turn in their Capitals.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_PROJECT_GINSING_AGREEMENT_SUPPORT">
+			<Text>[icon:YIELD_FOOD] +12 per turn for both Leaders in their Capitals.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_PROJECT_GINSING_AGREEMENT_ACCEPT">
+			<Text>[icon:YIELD_FOOD] +4 per turn in your Capital.[n]{1_initialName} receives [icon:YIELD_FOOD] +8 per turn in their Capital.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_PROJECT_FRIEND_OF_WA_INITIAL">
+			<Text>Make an ally into a Friend of Wei.[n]Accepted: Both Leaders receive +25%[icon:YIELD_SCIENCE] Science.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_PROJECT_FRIEND_OF_WA">
+			<Text>Make an ally into a Friend of Wei.[n]Accepted: Both Leaders receive +25%[icon:YIELD_SCIENCE] Science.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_PROJECT_FRIEND_OF_WA_ACCEPT">
+			<Text>[icon:YIELD_SCIENCE] +25%.[n]{1_initialName} receives [icon:YIELD_SCIENCE] +25%.</Text>
+		</Row>
+	</EnglishText>
+</Database>

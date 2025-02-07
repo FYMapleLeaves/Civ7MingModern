@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameEffects xmlns="GameEffects">
+	<!-- Civilization -->
+	<Modifier id="MOD_OCEAN_CONQUISTADOR" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_UNIT_ADJUST_EMBARKATION_TYPE" permanent="true">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_UNIT_TAG_MATCHES">
+				<Argument name="Tag">UNIT_CLASS_CONQUISTADOR</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="EmbarkationType">UNIT_EMBARKATION_DEEP_WATER</Argument>
+	</Modifier>
+	
+	
+	<!--Abbasids-->
+	<Modifier id="MOD_ROUND_CITY_BUILDING_PRODUCTION" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_CONSTRUCTIBLE_PRODUCTION">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_CITY_POPULATION">
+				<Argument name="MinUrbanPopulation">8</Argument>
+			</Requirement>
+			<Requirement type="REQUIREMENT_CITY_IS_CITY"/>
+		</SubjectRequirements>
+		<Argument name="Percent">50</Argument>
+		<Argument name="ConstructibleClass">BUILDING</Argument>
+		<Argument name="Tooltip">LOC_CIVIC_ROUND_CITY_NAME</Argument>
+		<String context="Description">LOC_MOD_ROUND_CITY_BUILDING_PRODUCTION_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_ROUND_CITY_SCIENCE_FOOD" collection="COLLECTION_OWNER" effect="EFFECT_PLAYER_ADJUST_CONSTRUCTIBLE_YIELD">
+		<Argument name="Amount">4</Argument>
+		<Argument name="Tag">SCIENCE</Argument>
+		<Argument name="YieldType">YIELD_FOOD</Argument>
+		<Argument name="Tooltip">LOC_CIVIC_ROUND_CITY_NAME</Argument>
+		<String context="Description">LOC_MOD_ROUND_CITY_SCIENCE_FOOD_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_MAWLA_TRADE_GOLD_TO_SCIENCE" collection="COLLECTION_OWNER" effect="EFFECT_MODIFY_PLAYER_TRADE_YIELD_CONVERSION">
+		<Argument name="Percent">25</Argument>
+		<Argument name="FromYieldType">YIELD_GOLD</Argument>
+		<Argument name="ToYieldType">YIELD_SCIENCE</Argument>
+		<Argument name="Tooltip">LOC_CIVIC_MAWLA_NAME</Argument>
+		<String context="Description">LOC_MOD_MAWLA_TRADE_GOLD_TO_SCIENCE_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_MAWLA_TEMPLE_WAREHOUSE_RESOURCE" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ACTIVATE_CONSTRUCTIBLE_WAREHOUSE_YIELD">
+		<Argument name="ConstructibleWarehouseYield">MawlaTempleResourceHappiness</Argument>
+		<String context="Description">LOC_MOD_MAWLA_TEMPLE_WAREHOUSE_RESOURCE_DESCRIPTION</String>
+	</Modifier>
+	
+	
+	
+	<Modifier id="MOD_MAWLA_MAMLUK_ABILITY_SKIRMISH" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_UNIT_ADJUST_FLANKING_ATTACK_MODIFIER">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_UNIT_TAG_MATCHES">
+				<Argument name="Tag">UNIT_CLASS_MAMLUK</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="Percent">50</Argument>
+		<String context="Description">LOC_MOD_MAWLA_MAMLUK_ABILITY_SKIRMISH_DESCRIPTION</String>
+	</Modifier>
+	
+	
+	
+	
+	<Modifier id="MOD_AL_JABR_URBAN_SCIENCE" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_YIELD">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_CITY_POPULATION">
+				<Argument name="MinUrbanPopulation">8</Argument>
+			</Requirement>
+			<Requirement type="REQUIREMENT_CITY_IS_CITY"/>
+		</SubjectRequirements>
+		<Argument name="Percent">15</Argument>
+		<Argument name="YieldType">YIELD_SCIENCE</Argument>
+		<Argument name="Tooltip">LOC_CIVIC_AL_JABR_NAME</Argument>
+		<String context="Description">LOC_MOD_AL_JABR_URBAN_SCIENCE_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_AL_JABR_WORKER_MAINTENANCE" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_WORKER_MAINTENANCE_EFFICIENCY">
+		<Argument name="YieldType">YIELD_HAPPINESS</Argument>
+		<Argument name="Percent">50</Argument>
+		<String context="Description">LOC_MOD_AL_JABR_WORKER_MAINTENANCE_DESCRIPTION</String>
+	</Modifier>
+	<!--Chola-->
+	<Modifier id="MOD_KANAKAM_GOLD_PER_ENVOY" collection="COLLECTION_OWNER" effect="EFFECT_DIPLOMACY_ADJUST_YIELD_PER_PLAYER_INVOLVED_ACTION">
+		<Argument name="Amount">1</Argument>
+		<Argument name="YieldType">YIELD_GOLD</Argument>
+		<String context="Description">LOC_MOD_KANAKAM_GOLD_PER_ENVOY_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_NAGARAM_RSOURCE_CAP" collection="COLLECTION_PLAYER_CAPITAL_CITY" effect="EFFECT_CITY_ADJUST_RESOURCE_CAP">
+		<Argument name="Amount">2</Argument>
+		<String context="Description">LOC_MOD_NAGARAM_RSOURCE_CAP_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_NAGARAM_FREE_TOKEN" collection="COLLECTION_OWNER" effect="EFFECT_DIPLOMACY_ADJUST_DIPLOMATIC_ACTION_TYPE_EFFICIENCY">
+		<Argument name="ActionType">DIPLOMACY_ACTION_IMPROVE_TRADE_RELATIONS</Argument>
+		<Argument name="Percent">50</Argument>
+		<String context="Description">LOC_MOD_NAGARAM_FREE_TOKEN_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_DIGVIJAYA_KALAM_SIGHT" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_ADJUST_UNIT_SIGHT">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_UNIT_TAG_MATCHES">
+				<Argument name="Tag">UNIT_CLASS_KALAM</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="Amount">1</Argument>
+	</Modifier>
+	<Modifier id="MOD_DIGVIJAYA_KALAM_MOVEMENT" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_UNIT_ADJUST_MOVEMENT">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_UNIT_TAG_MATCHES">
+				<Argument name="Tag">UNIT_CLASS_KALAM</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="Amount">1</Argument>
+		<String context="Description">LOC_MOD_DIGVIJAYA_KALAM_MOVEMENT_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MONSOON_WINDS_MOD_OTTRU_CONVOYS" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_GRANT_UNIT_PROMOTION">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_UNIT_TAG_MATCHES">
+				<Argument name="Tag">UNIT_CLASS_OTTRU</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="UnitPromotionType">PROMOTION_FLEET_CONVOYS</Argument>
+		<Argument name="UnitPromotionDisciplineType">DISCIPLINE_FLEET_LEADERSHIP</Argument>
+		<String context="Description">LOC_MONSOON_WINDS_MOD_OTTRU_CONVOYS_DESCRIPTION</String>
+	</Modifier>
+	<!--Hawaii -->
+	<Modifier id="MOD_MANA_CULTURE_DISASTERS" collection="COLLECTION_OWNER" effect="EFFECT_PLAYER_ADJUST_YIELD_FROM_DISTATERS">
+		<Argument name="YieldType">YIELD_CULTURE</Argument>
+		<Argument name="Amount">2</Argument>
+		<String context="Description">LOC_MOD_MANA_CULTURE_DISASTERS_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_MANA_CULTURE_KILLS_LEIOMANO" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_UNIT_ADJUST_ABILITY">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_UNIT_TAG_MATCHES">
+				<Argument name="Tag">UNIT_CLASS_LEIOMANO</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="AbilityType">ABILITY_LEIOMANO_CULTURE</Argument>
+		<String context="Description">LOC_MOD_MANA_CULTURE_KILLS_LEIOMANO_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_OHANA_PAVILION_WAREHOUSE_LOL_KALO" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ACTIVATE_CONSTRUCTIBLE_WAREHOUSE_YIELD">
+		<Argument name="ConstructibleWarehouseYield">OhanaPavilionLolKaloCulture</Argument>
+		<String context="Description">LOC_MOD_OHANA_PAVILION_WAREHOUSE_LOL_KALO_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_HE_E_NALU_TWO_RELICS" collection="COLLECTION_OWNER" effect="EFFECT_GRANT_GREAT_WORK" run-once="true" permanent="true">
+		<Argument name="Amount">2</Argument>
+		<Argument name="ObjectType">GREATWORKOBJECT_RELIC</Argument>
+		<String context="Description">LOC_MOD_HE_E_NALU_TWO_RELICS_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_RELIGION_MARINE_TILE_CULTURE" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_ATTACH_MODIFIERS">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_CITY_FOLLOWS_RELIGION"/>
+		</SubjectRequirements>
+		<Argument name="ModifierId">ATTACH_RELIGION_MARINE_TILE_CULTURE</Argument>
+		<String context="Description">LOC_MOD_RELIGION_MARINE_TILE_CULTURE_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="ATTACH_RELIGION_MARINE_TILE_CULTURE" collection="COLLECTION_CITY_PLOT_YIELDS" effect="EFFECT_PLOT_ADJUST_YIELD">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_PLOT_BIOME_TYPE_MATCHES">
+				<Argument name="BiomeType">BIOME_MARINE</Argument>
+			</Requirement>
+			<Requirement type="REQUIREMENT_PLOT_DISTRICT_CLASS" inverse="true">
+				<Argument name="DistrictClass">CITYCENTER, URBAN</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="YieldType">YIELD_CULTURE</Argument>
+		<Argument name="Amount">2</Argument>
+	</Modifier>
+	<Modifier id="MOD_KAHUNA_CHARGES" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_ADJUST_HEAL_CHARGES">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_UNIT_CLASS_MATCHES">
+				<Argument name="UnitClass">UNIT_CLASS_KAHUNA</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="Amount">1</Argument>
+		<String context="Description">LOC_MOD_KAHUNA_CHARGES_DESCRIPTION</String>
+	</Modifier>
+	<!--Inca-->
+	<Modifier id="MOD_AYLLU_TERRACE_FARM_MOUNTAIN" collection="COLLECTION_PLAYER_PLOT_YIELDS" effect="EFFECT_PLOT_ADJUST_YIELD">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_PLOT_ADJACENT_TERRAIN_TYPE_MATCHES">
+				<Argument name="TerrainType">TERRAIN_MOUNTAIN</Argument>
+			</Requirement>
+			<Requirement type="REQUIREMENT_PLOT_HAS_CONSTRUCTIBLE">
+				<Argument name="ConstructibleType">IMPROVEMENT_TERRACE_FARM</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="Amount">3</Argument>
+		<Argument name="YieldType">YIELD_FOOD</Argument>
+		<String context="Description">LOC_MOD_AYLLU_MOUNTAIN_TERRACE_FARM_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_AYLLU_FARM_MOUNTAIN" collection="COLLECTION_PLAYER_PLOT_YIELDS" effect="EFFECT_PLOT_ADJUST_YIELD">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_PLOT_ADJACENT_TERRAIN_TYPE_MATCHES">
+				<Argument name="TerrainType">TERRAIN_MOUNTAIN</Argument>
+			</Requirement>
+			<Requirement type="REQUIREMENT_PLOT_HAS_CONSTRUCTIBLE">
+				<Argument name="ConstructibleType">IMPROVEMENT_FARM</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="Amount">3</Argument>
+		<Argument name="YieldType">YIELD_FOOD</Argument>
+	</Modifier>
+	<Modifier id="MOD_MITA_MOUNTAIN_HAPPINESS" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_GRANT_WAREHOUSE_YIELD">
+		<Argument name="WarehouseYieldChange">MitaMountainHappiness</Argument>
+		<String context="Description">LOC_MOD_MITA_MOUNTAIN_HAPPINESS_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_AYLLU_GRANARY_TERRACE_FARM" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ACTIVATE_CONSTRUCTIBLE_WAREHOUSE_YIELD">
+		<Argument name="ConstructibleWarehouseYield">AylluGranaryTerraceFarmFood</Argument>
+		<String context="Description">LOC_MOD_AYLLU_GRANARY_TERRACE_FARM_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_QHAPAQ_NAN_HILL_MOVEMENT" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_UNIT_ADJUST_IGNORE_MOVEMENT_OBSTACLE">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_UNIT_DOMAIN_MATCHES">
+				<Argument name="UnitDomain">DOMAIN_LAND</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="Obstacle">TERRAIN_HILL</Argument>
+		<String context="Description">LOC_MOD_QHAPAQ_NAN_HILL_MOVEMENT_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_QHAPAQ_NAN_WARAKAQ_POISONOUS" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_UNIT_ADJUST_ABILITY">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_UNIT_TAG_MATCHES">
+				<Argument name="Tag">UNIT_CLASS_WARAKAQ</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="AbilityType">ABILITY_POISON</Argument>
+		<String context="Description">LOC_MOD_QHAPAQ_NAN_WARAKAQ_POISONOUS_DESCRIPTION</String>
+	</Modifier>
+	<!--Majapahit-->
+	<Modifier id="MOD_WAYANG_OVERBUILD_PRODUCTION" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_OVERBUILD_PRODUCTION_MOD">
+		<Argument name="Percent">25</Argument>
+		<Argument name="Tooltip">LOC_CIVIC_WAYANG_NAME</Argument>
+		<String context="Description">LOC_MOD_WAYANG_OVERBUILD_PRODUCTION_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_ALIRAN_KEPERCAYAAN_CONVERT_EXTRA_CULTURE" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_ADJUST_UNIT_INITIATION_YIELD">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_UNIT_TAG_MATCHES">
+				<Argument name="Tag">UNIT_CLASS_PEDANDA</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="Amount" type="ScaleByGameSpeed">25</Argument>
+		<Argument name="YieldType">YIELD_CULTURE</Argument>
+		<String context="Description">LOC_MOD_ALIRAN_KEPERCAYAAN_CONVERT_EXTRA_CULTURE_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_NUSUNTARA_CULTURE_COAST" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ACTIVATE_CONSTRUCTIBLE_ADJACENCY">
+		<Argument name="ConstructibleAdjacency">NusuntaraCoastCulture</Argument>
+		<String context="Description">LOC_MOD_NUSUNTARA_CULTURE_COAST_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_NUSUNTARA_SEA_VS_LAND" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_ATTACH_MODIFIERS">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_UNIT_DOMAIN_MATCHES">
+				<Argument name="UnitDomain">DOMAIN_SEA</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="ModifierId">ATTACH_NUSUNTARA_SEA_VS_LAND</Argument>
+		<String context="Description">LOC_MOD_NUSUNTARA_SEA_VS_LAND_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="ATTACH_NUSUNTARA_SEA_VS_LAND" collection="COLLECTION_UNIT_COMBAT" effect="EFFECT_ADJUST_UNIT_STRENGTH_MODIFIER">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_OPPONENT_UNIT_DOMAIN_MATCHES">
+				<Argument name="UnitDomain">DOMAIN_LAND</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="Amount">5</Argument>
+		<String context="Preview">LOC_MOD_NUSUNTARA_SEA_VS_LAND_COMBAT_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_GAMELAN_CULTURE_BUILDINGS_THIS_AGE" collection="COLLECTION_PLAYER_PLOT_YIELDS" effect="EFFECT_PLOT_ADJUST_YIELD">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_PLOT_IS_QUARTER">
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="YieldType">YIELD_CULTURE</Argument>
+		<Argument name="Amount">4</Argument>
+		<Argument name="Tooltip">LOC_CIVIC_GAMELAN_NAME</Argument>
+		<String context="Description">LOC_MOD_GAMELAN_CULTURE_BUILDINGS_THIS_AGE_DESCRIPTION</String>
+	</Modifier>
+	<!--Ming-->
+	<Modifier id="MOD_LIJIA_TOWN_BUILDING_PURCHASE" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_ADJUST_PLAYER_OR_CITY_BUILDING_PURCHASE_EFFICIENCY">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_CITY_IS_TOWN" />
+		</SubjectRequirements>
+		<Argument name="Percent">50</Argument>
+		<String context="Description">LOC_MOD_LIJIA_TOWN_BUILDING_PURCHASE_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_NINE_GARRISONS_BANK_MING_GREAT_WALL" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ACTIVATE_CONSTRUCTIBLE_WAREHOUSE_YIELD">
+		<Argument name="ConstructibleWarehouseYield">BankGreatWallGold</Argument>
+		<String context="Description">LOC_MOD_NINE_GARRISONS_BANK_MING_GREAT_WALL_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_NINE_GARRISONS_XUNLEICHONG_RANGED" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_UNIT_ADJUST_ABILITY">
+		<Argument name="AbilityType">ABILITY_XUNLEICHONG_BONUS</Argument>
+		<String context="Description">LOC_MOD_NINE_GARRISONS_XUNLEICHONG_RANGED_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_DA_MING_LU_MANDARIN_ABILITY" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_UNIT_ADJUST_ABILITY">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_UNIT_TAG_MATCHES">
+				<Argument name="Tag">UNIT_CLASS_MANDARIN</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="AbilityType">ABILITY_MANDARIN_BONUS</Argument>
+		<String context="Description">LOC_MOD_DA_MING_LU_MANDARIN_ABILITY_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_LIJIA_CAP_RESOURCE_CAP" collection="COLLECTION_PLAYER_CAPITAL_CITY" effect="EFFECT_CITY_ADJUST_RESOURCE_CAP">
+		<Argument name="Amount">2</Argument>
+		<String context="Description">LOC_MOD_LIJIA_CAP_RESOURCE_CAP_DESCORIPTION</String>
+	</Modifier>
+	<!--Mongolia-->
+	<Modifier id="MOD_MOUNTED_MOVEMENT" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_UNIT_ADJUST_MOVEMENT">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_UNIT_TAG_MATCHES">
+				<Argument name="Tag">UNIT_CLASS_MOUNTED</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="Amount">1</Argument>
+		<String context="Description">LOC_MOD_MOUNTED_MOVEMENT_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_CONQUERED_TOWN_UPGRADE_DISCOUNT" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_TOWN_UPGRADE_DISCOUNT">
+		<Argument name="RemoveCapturePenalty">true</Argument>
+		<String context="Description">LOC_MOD_CONQUERED_TOWN_UPGRADE_DISCOUNT_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_GRANT_NOYAN" collection="COLLECTION_PLAYER_CAPITAL_CITY" effect="EFFECT_CITY_GRANT_UNIT">
+		<Argument name="UnitType">UNIT_NOYAN</Argument>
+		<Argument name="Amount">1</Argument>
+		<String context="Description">LOC_MOD_GRANT_NOYAN_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_YASSA_ORTOO_MORE_GOLD" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_CONSTRUCTIBLE_YIELD">
+		<SubjectRequirements>
+			<Requirement inverse="true" type="REQUIREMENT_CITY_IS_ORIGINAL_OWNER"/>
+		</SubjectRequirements>
+		<Argument name="ConstructibleType">IMPROVEMENT_ORTOO</Argument>
+		<Argument name="YieldType">YIELD_GOLD</Argument>
+		<Argument name="Amount">4</Argument>
+		<String context="Description">LOC_MOD_YASSA_ORTOO_MORE_GOLD_DESCRIPTION</String>
+	</Modifier>
+	<!--Norman-->
+	<Modifier id="MOD_COMMON_LAW_TRADITION_SLOTS" collection="COLLECTION_OWNER" effect="EFFECT_PLAYER_GRANT_TRADITION_SLOTS">
+		<Argument name="Amount">1</Argument>
+		<String context="Description">LOC_MOD_COMMON_LAW_TRADITION_SLOTS_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_DOMESDAY_BOOK_FARM_GOLD" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_GRANT_WAREHOUSE_YIELD">
+		<SubjectRequirements>
+			<Requirement inverse="true" type="REQUIREMENT_PLAYER_IS_IN_GOLDEN_AGE"/>
+		</SubjectRequirements>
+		<Argument name="WarehouseYieldChange">DomesdayBookGoldFarms</Argument>
+		<String context="Description">LOC_MOD_DOMESDAY_BOOK_FARM_GOLD_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_DOMESDAY_BOOK_FARM_GOLD_GOLDEN_AGE" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_GRANT_WAREHOUSE_YIELD">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_PLAYER_IS_IN_GOLDEN_AGE"/>
+		</SubjectRequirements>
+		<Argument name="WarehouseYieldChange">DomesdayBookGoldFarmsGoldenAge</Argument>
+	</Modifier>
+	<Modifier id="MOD_CONSUETUDINES_ET_JUSTICIE_CHEVELAR_ABILITY" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_UNIT_ADJUST_ABILITY">
+		<Argument name="AbilityType">ABILITY_CHEVALER_CIV_TRADITIONS</Argument>
+		<String context="Description">LOC_MOD_CONSUETUDINES_ET_JUSTICIE_CHEVELAR_ABILITY_DESCRIPTION</String>
+	</Modifier>
+	<!--Songhai-->
+	<Modifier id="MOD_SHIPS_OF_THE_DESERT_BAZAAR_CARAVANSARI" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ACTIVATE_CONSTRUCTIBLE_WAREHOUSE_YIELD">
+		<Argument name="ConstructibleWarehouseYield">BazaarCaravansariGold</Argument>
+		<String context="Description">LOC_MOD_SHIPS_OF_THE_DESERT_BAZAAR_GOLD_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_HI_KOI_RIVER_COMBAT" collection="COLLECTION_PLAYER_COMBAT" effect="EFFECT_ADJUST_UNIT_STRENGTH_MODIFIER">
+		<OwnerRequirements>
+			<Requirement type="REQUIREMENT_UNIT_TAG_MATCHES">
+				<Argument name="Tag">UNIT_CLASS_COMBAT</Argument>
+			</Requirement>
+			<Requirement type="REQUIREMENT_PLOT_IS_RIVER">
+				<Argument name="Navigable">true</Argument>
+			</Requirement>
+		</OwnerRequirements>
+		<Argument name="Amount">5</Argument>
+		<String context="Preview">LOC_MOD_HI_KOI_RIVER_COMBAT_DESCRIPTION</String>
+		<String context="Description">LOC_MOD_HI_KOI_RIVER_COMBAT_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_HI_KOI_MINOR_RIVER_MOVEMENT" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_UNIT_ADJUST_IGNORE_MOVEMENT_OBSTACLE">
+		<Argument name="Obstacle">RIVER_MINOR</Argument>
+		<String context="Description">LOC_MOD_MOD_HI_KOI_RIVER_MOVEMENT_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_HI_KOI_NAVIGABLE_RIVER_MOVEMENT" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_UNIT_ADJUST_IGNORE_MOVEMENT_OBSTACLE">
+		<Argument name="Obstacle">RIVER_NAVIGABLE</Argument>
+	</Modifier>
+	<Modifier id="MOD_KANTA_AUTO_TREASURE_FLEET" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_ADJUST_CITY_AUTO_TREASURE_FLEET">
+		<SubjectRequirements type="REQUIREMENTSET_TEST_ALL">
+			<Requirement type="REQUIREMENT_PLOT_DISTRICT_CLASS">
+				<Argument name="DistrictClass">CITYCENTER</Argument>
+			</Requirement>
+			<Requirement type="REQUIREMENT_PLOT_ADJACENT_TO_RIVER">
+				<Argument name="Navigable">true</Argument>
+			</Requirement>
+			<Requirement type="REQUIREMENT_CITY_IS_CITY">
+			</Requirement>
+			<Requirement type="REQUIREMENT_PLOT_IS_HOMELANDS">
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="VP">1</Argument>
+		<String context="Description">LOC_MOD_KANTA_TREASURE_FLEET_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_KANTA_TAJIRO_ABILITY" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_UNIT_ADJUST_ABILITY">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_UNIT_TAG_MATCHES">
+				<Argument name="Tag">UNIT_CLASS_TAJIRO</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="AbilityType">ABILITY_TAJIRO_BONUS</Argument>
+		<String context="Description">LOC_MOD_KANTA_TAJIRO_ABILITY_DESCRIPTION</String>
+	</Modifier>
+	<!--Spain-->
+	<Modifier id="MOD_ARMADA_FLEET_COMMANDER_CAPACITY" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_GRANT_UNIT_PROMOTION">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_UNIT_TAG_MATCHES">
+				<Argument name="Tag">UNIT_CLASS_FLEET_COMMANDER</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="UnitPromotionDisciplineType">DISCIPLINE_FLEET_LOGISTICS</Argument>
+		<Argument name="UnitPromotionType">PROMOTION_FLEET_FLOTILLA</Argument>
+		<String context="Description">LOC_MOD_ARMADA_FLEET_COMMANDER_CAPACITY_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_ARMADA_EMBARK_MOVEMENT" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_ADJUST_UNIT_EMBARKED_MOVEMENT">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_UNIT_DOMAIN_MATCHES">
+				<Argument name="UnitDomain">DOMAIN_LAND</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="Amount">2</Argument>
+		<String context="Description">LOC_MOD_ARMADA_EMBARKED_MOVEMENT_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_NEW_WORLD_RICHES_FOREIGN_CITIES_PRODUCTION_FOOD" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_YIELD">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_CITY_IS_DISTANT_LANDS"/>
+		</SubjectRequirements>
+		<Argument name="Percent">10</Argument>
+		<Argument name="YieldType">YIELD_PRODUCTION, YIELD_FOOD</Argument>
+		<Argument name="Tooltip">LOC_CIVIC_COUNCIL_OF_THE_INDIES_NAME</Argument>
+		<String context="Description">LOC_MOD_NEW_WORLD_RICHES_FOREIGN_CITIES_PRODUCTION_FOOD_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="MOD_COUNCIL_OF_THE_INDIES_TREASURE_FLEET_MOVEMENT" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_UNIT_ADJUST_MOVEMENT">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_UNIT_TAG_MATCHES">
+				<Argument name="Tag">UNIT_CLASS_NAVAL_TREASURE</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="Amount">1</Argument>
+		<String context="Description">LOC_MOD_COUNCIL_OF_THE_INDIES_TREASURE_FLEET_MOVEMENT_DESCRIPTION</String>
+	</Modifier>
+</GameEffects>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_MODULE_MING_MODERN_NAME">
+			<Text>The Ming Dynasty in the modern era</Text>
+		</Row>
+		<Row Tag="LOC_MODULE_MING_MODERN_DESCRIPTION">
+			<Text>Contains the modern civilization "Ming Dynasty".</Text>
+		</Row>
+		<Row Tag="LOC_AUTHOR_XIAOXIAO">
+			<Text>Maple_Leaves</Text>
+		</Row>
+	</EnglishText>
+  <LocalizedText>
+    <Replace Tag="LOC_MODULE_MING_MODERN_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>包含近世时代文明-明朝。</Text>
+    </Replace>
+    <Replace Tag="LOC_MODULE_MING_MODERN_NAME" Language="zh_Hans_CN">
+      <Text>近世明朝</Text>
+    </Replace>
+	<Replace Tag="LOC_MODULE_MING_MODERN_AUTHOR" Language="zh_Hans_CN">
+      <Text>枫叶(Maple_Leaves)</Text>
+    </Replace>
+    <Replace Tag="LOC_MODULE_MING_MODERN_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>包含近世時代文明「明朝」。</Text>
+    </Replace>
+    <Replace Tag="LOC_MODULE_MING_MODERN_NAME" Language="zh_Hant_HK">
+      <Text>近世明朝</Text>
+    </Replace>
+	<Replace Tag="LOC_MODULE_MING_MODERN_AUTHOR" Language="zh_Hant_HK">
+      <Text>枫叶(Maple_Leaves)</Text>
+    </Replace>
+  </LocalizedText>
+</Database>

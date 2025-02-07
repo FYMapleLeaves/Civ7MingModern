@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<NarrativeDisplay_Civilizations>
+		<Row CivilizationType="CIVILIZATION_ABBASID_MODERN" CivilizationImage="bg-panel-abbasid.png"/>
+		<Row CivilizationType="CIVILIZATION_CHOLA_MODERN" CivilizationImage="bg-panel-chola.png"/>
+		<Row CivilizationType="CIVILIZATION_HAWAII_MODERN" CivilizationImage="bg-panel-hawaii.png"/>
+		<Row CivilizationType="CIVILIZATION_INCA_MODERN" CivilizationImage="bg-panel-inca.png"/>
+		<Row CivilizationType="CIVILIZATION_MAJAPAHIT_MODERN" CivilizationImage="bg-panel-majapahit.png"/>
+		<Row CivilizationType="CIVILIZATION_MING_MODERN" CivilizationImage="bg-panel-ming.png"/>
+		<Row CivilizationType="CIVILIZATION_MONGOLIA_MODERN" CivilizationImage="bg-panel-mongolia.png"/>
+		<Row CivilizationType="CIVILIZATION_NORMAN_MODERN" CivilizationImage="bg-panel-norman.png"/>
+		<Row CivilizationType="CIVILIZATION_SONGHAI_MODERN" CivilizationImage="bg-panel-songhai.png"/>
+		<Row CivilizationType="CIVILIZATION_SPAIN_MODERN" CivilizationImage="bg-panel-spain.png"/>
+	</NarrativeDisplay_Civilizations>
+</Database>

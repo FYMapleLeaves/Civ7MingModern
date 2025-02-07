@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<!-- Names -->
+		<Row Tag="LOC_TREE_TECHS_EX_NAME">
+			<Text>Exploration Technology</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CARTOGRAPHY_NAME">
+			<Text>Cartography</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CARTOGRAPHY_QUOTE">
+			<Text>"The map was a model for, rather than a model of, what it purported to represent."</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CARTOGRAPHY_QUOTE_AUTHOR">
+			<Text>Thongchai Winichakul</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ARCHITECTURE_NAME">
+			<Text>Architecture</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ARCHITECTURE_QUOTE">
+			<Text>"The purpose of construction is to make things hold together; of architecture to move us."</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ARCHITECTURE_QUOTE_AUTHOR">
+			<Text>Le Corbusier</Text>
+		</Row>
+		<Row Tag="LOC_TECH_PROFESSIONAL_ARMY_NAME">
+			<Text>Professional Army</Text>
+		</Row>
+		<Row Tag="LOC_TECH_PROFESSIONAL_ARMY_QUOTE">
+			<Text>"One superior soldier counts for as much as one hundred inferior."</Text>
+		</Row>
+		<Row Tag="LOC_TECH_PROFESSIONAL_ARMY_QUOTE_AUTHOR">
+			<Text>Yue Ke</Text>
+		</Row>
+		<Row Tag="LOC_TECH_EDUCATION_NAME">
+			<Text>Education</Text>
+		</Row>
+		<Row Tag="LOC_TECH_EDUCATION_QUOTE">
+			<Text>"The best investment for one year is to grow grains; the best investment for ten years is to grow trees; the best investment for a lifetime is to educate people."</Text>
+		</Row>
+		<Row Tag="LOC_TECH_EDUCATION_QUOTE_AUTHOR">
+			<Text>Guan Zhong</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FEUDALISM_NAME">
+			<Text>Feudalism</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FEUDALISM_QUOTE">
+			<Text>"The king established all his knights, gave them lands, and charged them to give mercy."</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FEUDALISM_QUOTE_AUTHOR">
+			<Text>Thomas Malory</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MACHINERY_NAME">
+			<Text>Machinery</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MACHINERY_QUOTE">
+			<Text>"I worked my wits and thoughts about shapes and figures, and I arranged these shapes one by one."</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MACHINERY_QUOTE_AUTHOR">
+			<Text>Ibn Khalaf al-Murādī</Text>
+		</Row>
+		<Row Tag="LOC_TECH_METALLURGY_NAME">
+			<Text>Metallurgy</Text>
+		</Row>
+		<Row Tag="LOC_TECH_METALLURGY_QUOTE">
+			<Text>"From the new land of gold, a sun of gold, a whole fathom wide, and a moon of silver."</Text>
+		</Row>
+		<Row Tag="LOC_TECH_METALLURGY_QUOTE_AUTHOR">
+			<Text>Albrecht Dürer</Text>
+		</Row>
+		<Row Tag="LOC_TECH_METAL_CASTING_NAME">
+			<Text>Metal Casting</Text>
+		</Row>
+		<Row Tag="LOC_TECH_METAL_CASTING_QUOTE">
+			<Text>"The bellows worked incessantly for three days and three nights, and the bronze melted down and became as water."</Text>
+		</Row>
+		<Row Tag="LOC_TECH_METAL_CASTING_QUOTE_AUTHOR">
+			<Text>Michael Kritoboulos</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ASTRONOMY_NAME">
+			<Text>Astronomy</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ASTRONOMY_QUOTE">
+			<Text>"There exists beyond the world a void without a terminal limit - a thousand thousand worlds beyond this world."</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ASTRONOMY_QUOTE_AUTHOR">
+			<Text>Fakhr al-Din al-Razi</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CASTLES_NAME">
+			<Text>Castles</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CASTLES_QUOTE">
+			<Text>"Matsuyama castle; the keep is higher than the autumn sky."</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CASTLES_QUOTE_AUTHOR">
+			<Text>Masaoka Shiki</Text>
+		</Row>
+		<Row Tag="LOC_TECH_HERALDRY_NAME">
+			<Text>Heraldry</Text>
+		</Row>
+		<Row Tag="LOC_TECH_HERALDRY_QUOTE">
+			<Text>"Yes, but...do you have a flag?"</Text>
+		</Row>
+		<Row Tag="LOC_TECH_HERALDRY_QUOTE_AUTHOR">
+			<Text>Eddie Izzard</Text>
+		</Row>
+		<Row Tag="LOC_TECH_URBAN_PLANNING_NAME">
+			<Text>Urban Planning</Text>
+		</Row>
+		<Row Tag="LOC_TECH_URBAN_PLANNING_QUOTE">
+			<Text>"The city is like a great house, and the house is like a small city."</Text>
+		</Row>
+		<Row Tag="LOC_TECH_URBAN_PLANNING_QUOTE_AUTHOR">
+			<Text>Leon Battista Alberti</Text>
+		</Row>
+		<Row Tag="LOC_TECH_GUNPOWDER_NAME">
+			<Text>Gunpowder</Text>
+		</Row>
+		<Row Tag="LOC_TECH_GUNPOWDER_QUOTE">
+			<Text>"The real use of gunpowder is to make all men tall."</Text>
+		</Row>
+		<Row Tag="LOC_TECH_GUNPOWDER_QUOTE_AUTHOR">
+			<Text>Thomas Carlyle</Text>
+		</Row>
+		<Row Tag="LOC_TECH_GUILDS_NAME">
+			<Text>Guilds</Text>
+		</Row>
+		<Row Tag="LOC_TECH_GUILDS_QUOTE">
+			<Text>"The master and apprentice love the master in different ways."</Text>
+		</Row>
+		<Row Tag="LOC_TECH_GUILDS_QUOTE_AUTHOR">
+			<Text>Friedrich Nietzsche</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SHIPBUILDING_NAME">
+			<Text>Shipbuilding</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SHIPBUILDING_QUOTE">
+			<Text>"If ship-building art were in the wood, ships would exist by nature."</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SHIPBUILDING_QUOTE_AUTHOR">
+			<Text>Aristotle</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FIREARMS_NAME">
+			<Text>Firearms</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FIREARMS_QUOTE">
+			<Text>"We deal in lead."</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FIREARMS_QUOTE_AUTHOR">
+			<Text>The Magnificent Seven</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FUTURE_TECH_NAME">
+			<Text>Future Tech</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FUTURE_TECH_QUOTE">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_TECH_FUTURE_TECH_AUTHOR">
+			<Text></Text>
+		</Row>
+		<!-- Tech Standard Modifiers -->
+		<Row Tag="LOC_MOD_TECH_OCEAN_TRAVEL_T1_NAME">
+			<Text>Naval Ocean Traversal</Text>
+		</Row>
+		<Row Tag="LOC_MOD_EXPLORATION_DEEP_OCEAN_NAVAL_DESCRIPTION">
+			<Text>All Naval Units may enter deep Ocean Terrain.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_TECH_OCEAN_TRAVEL_T2_NAME">
+			<Text>Embarked Ocean Traversal</Text>
+		</Row>
+		<Row Tag="LOC_MOD_EXPLORATION_DEEP_OCEAN_LAND_UNIT_DESCRIPTION">
+			<Text>All embarked Land Units may enter deep Ocean Terrain.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_EXPLORATION_DEEP_OCEAN_COMMANDER_DESCRIPTION">
+			<Text>Fleet Commanders may enter deep Ocean Terrain.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_OCEAN_CONQUISTADOR_DESCRIPTION">
+			<Text>Conquistadors may enter deep Ocean Terrain.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_EXPLORATION_DEEP_OCEAN_CIVILIAN_SUPPORT_DESCRIPTION">
+			<Text>All Civilian and Support Units may enter deep Ocean Terrain.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_EXPLORATION_DEEP_OCEAN_RELIGIOUS_DESCRIPTION">
+			<Text>All Religious Units may enter deep Ocean Terrain.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_EXPLORATION_NO_DEEP_OCEAN_DAMAGE_NAVAL_DESCRIPTION">
+			<Text>All Naval Units can safely travel across deep Ocean Terrain without taking damage.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_EXPLORATION_NO_DEEP_OCEAN_DAMAGE_CIVILIAN_SUPPORT_DESCRIPTION">
+			<Text>All Civilian and Support Units can safely travel across deep Ocean Terrain without taking damage.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_EXPLORATION_NO_DEEP_OCEAN_DAMAGE_LAND_UNIT_DESCRIPTION">
+			<Text>All embarked Land Units can safely travel across deep Ocean Terrain without taking damage.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_EXPLORATION_NO_DEEP_OCEAN_OBSTACLE_DESCRIPTION">
+			<Text>All units ignore movement penalties from deep Ocean Terrain.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_EX_SETTLEMENT_CAP_INCREASE_DESCRIPTION">
+			<Text>+1 Settlement Limit.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_EX_SPECIALIST_CAP_INCREASE_DESCRIPTION">
+			<Text>+1 Specialist Limit in all Cities.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_EXPLORATION_RELIC_DESCRIPTION">
+			<Text>Receive 1 Relic.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_EX_TECH_INFANTRY_STRENGTH_DESCRIPTION">
+			<Text>+3 Combat Strength for Infantry Units.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_EX_TECH_WALL_STRENGTH_PREVIEW">
+			<Text>+{1_Amount} Castles</Text>
+		</Row>
+		<Row Tag="LOC_MOD_EX_TECH_WALL_STRENGTH_DESCRIPTION">
+			<Text>+3 Combat Strength for Fortified Districts.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_EX_TECH_NAVAL_STRENGTH_DESCRIPTION">
+			<Text>+3 Combat Strength for Naval Units.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_EX_TECH_RANGED_STRENGTH_DESCRIPTION">
+			<Text>+3 Combat Strength for Ranged and Siege Units.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_EX_TECH_CAVALRY_STRENGTH_DESCRIPTION">
+			<Text>+3 Combat Strength for Cavalry Units.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_EX_TECH_CULTURE_BUILDING_DESCRIPTION">
+			<Text>+1[icon:YIELD_CULTURE] Culture on Culture Buildings.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_EX_TECH_FOOD_BUILDING_DESCRIPTION">
+			<Text>+1[icon:YIELD_FOOD] Food on Food Buildings.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_EX_TECH_GOLD_BUILDING_DESCRIPTION">
+			<Text>+1[icon:YIELD_GOLD] Gold on Gold Buildings.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_EX_TECH_HAPPINESS_BUILDING_DESCRIPTION">
+			<Text>+1[icon:YIELD_HAPPINESS] Happiness on Happiness Buildings.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_EX_TECH_MILITARY_BUILDING_DESCRIPTION">
+			<Text>+2[icon:YIELD_PRODUCTION] Production on Military Buildings.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_EX_TECH_PRODUCTION_BUILDING_DESCRIPTION">
+			<Text>+1[icon:YIELD_PRODUCTION] Production on Production Buildings.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_EX_TECH_SCIENCE_BUILDING_DESCRIPTION">
+			<Text>+1[icon:YIELD_SCIENCE] Science on Science Buildings.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_FUTURE_TECH_ATTRIBUTE_DESCRIPTION">
+			<Text>+1 Wildcard Attribute Point.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_FUTURE_TECH_BOOST_DESCRIPTION">
+			<Text>A boost for a starting Technology in the next Age.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_FUTURE_TECH_AGE_PROGRESS_DESCRIPTION">
+			<Text>+10 Age Progress.</Text>
+		</Row>
+		<!-- Tech Improvement Modifiers -->
+		<Row Tag="LOC_MOD_TECH_EX_MINE_PRODUCTION_DESCRIPTION">
+			<Text>+1[icon:YIELD_PRODUCTION] Production on Clay Pits and Mines.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_TECH_EX_FISHING_BOAT_FOOD_DESCRIPTION">
+			<Text>+1[icon:YIELD_FOOD] Food on Fishing Boats.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_TECH_EX_QUARRY_PRODUCTION_DESCRIPTION">
+			<Text>+1[icon:YIELD_PRODUCTION] Production on Quarries.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_TECH_EX_PASTURE_FOOD_DESCRIPTION">
+			<Text>+1[icon:YIELD_FOOD] Food on Farms, Pastures, and Plantations.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_TECH_EX_CAMP_PRODUCTION_DESCRIPTION">
+			<Text>+1[icon:YIELD_PRODUCTION] Production on Camps and Woodcutters.</Text>
+		</Row>
+	</EnglishText>
+</Database>

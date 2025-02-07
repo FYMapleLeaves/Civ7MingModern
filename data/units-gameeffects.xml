@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameEffects xmlns="GameEffects">
+	<!-- ==================================================	-->
+	<!--	Generic Abilities							-->
+	<!-- ==================================================	-->
+	<Modifier id="DE_FACTO_MOD_COMBAT_STRENGTH" collection="COLLECTION_UNIT_COMBAT" effect="EFFECT_ADJUST_UNIT_STRENGTH_MODIFIER">
+		<Argument name="Amount">2</Argument>
+		<String context="Preview">LOC_ABILITY_FACTO_PREVIEW</String>
+	</Modifier>
+	<Modifier id="INITIATION_MOD_GOLD_ON_CONVERSION" collection="COLLECTION_OWNER" effect="EFFECT_ADJUST_UNIT_INITIATION_YIELD">
+		<Argument name="Amount" type="ScaleByGameSpeed">25</Argument>
+		<Argument name="YieldType">YIELD_GOLD</Argument>
+	</Modifier>
+	<Modifier id="EX_TECH_INFANTRY_MOD_COMBAT_STRENGTH" collection="COLLECTION_UNIT_COMBAT" effect="EFFECT_ADJUST_UNIT_STRENGTH_MODIFIER">
+		<Argument name="Amount">3</Argument>
+		<String context="Preview">LOC_ABILITY_EX_TECH_INFANTRY_PREVIEW</String>
+	</Modifier>
+	<Modifier id="EX_TECH_NAVAL_MOD_COMBAT_STRENGTH" collection="COLLECTION_UNIT_COMBAT" effect="EFFECT_ADJUST_UNIT_STRENGTH_MODIFIER">
+		<Argument name="Amount">3</Argument>
+		<String context="Preview">LOC_ABILITY_EX_TECH_NAVAL_PREVIEW</String>
+	</Modifier>
+	<Modifier id="EX_TECH_SIEGE_MOD_COMBAT_STRENGTH" collection="COLLECTION_UNIT_COMBAT" effect="EFFECT_ADJUST_UNIT_STRENGTH_MODIFIER">
+		<Argument name="Amount">3</Argument>
+		<String context="Preview">LOC_ABILITY_EX_TECH_SIEGE_PREVIEW</String>
+	</Modifier>
+	<Modifier id="EX_TECH_CAVALRY_MOD_COMBAT_STRENGTH" collection="COLLECTION_UNIT_COMBAT" effect="EFFECT_ADJUST_UNIT_STRENGTH_MODIFIER">
+		<Argument name="Amount">3</Argument>
+		<String context="Preview">LOC_ABILITY_EX_TECH_CAVALRY_PREVIEW</String>
+	</Modifier>
+	<Modifier id="EX_TECH_RANGED_MOD_COMBAT_STRENGTH" collection="COLLECTION_UNIT_COMBAT" effect="EFFECT_ADJUST_UNIT_STRENGTH_MODIFIER">
+		<Argument name="Amount">3</Argument>
+		<String context="Preview">LOC_ABILITY_EX_TECH_RANGED_PREVIEW</String>
+	</Modifier>
+	<Modifier id="CRISIS_COMBAT_MINOR_PENALTY_MOD_ADJUST_UNIT_COMBAT_STRENGTH_MODIFIER" collection="COLLECTION_UNIT_COMBAT" effect="EFFECT_ADJUST_UNIT_STRENGTH_MODIFIER">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_UNIT_TAG_MATCHES">
+				<Argument name="Tag">UNIT_CLASS_COMBAT</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="Amount">-6</Argument>
+		<String context="Preview">LOC_ABILITY_CRISIS_COMBAT_MINOR_PENALTY_PREVIEW</String>
+	</Modifier>
+	<!-- ==================================================	-->
+	<!--	Unique Abilities							-->
+	<!-- ==================================================	-->
+	<Modifier id="CORSAIR_MOD_CAPTURE" collection="COLLECTION_OWNER" effect="EFFECT_ADJUST_UNIT_COMBAT_CAPTURE">
+		<Argument name="CanCapture">true</Argument>
+	</Modifier>
+	<Modifier id="TREASURE_FLEET_MOD_CAPTURE" collection="COLLECTION_OWNER" effect="EFFECT_ADJUST_UNIT_COMBAT_CAPTURE">
+		<Argument name="AlwaysCaptured">true</Argument>
+	</Modifier>
+	<Modifier id="CHASQUI_MOD_IGNORE_TERRAIN" collection="COLLECTION_OWNER" effect="EFFECT_ADJUST_UNIT_SEE_THROUGH_TERRAIN">
+		<Argument name="CanSee">true</Argument>
+	</Modifier>
+	<Modifier id="CHEVALER_MOD_COMBAT_SLOWER" collection="COLLECTION_UNIT_COMBAT" effect="EFFECT_ADJUST_UNIT_STRENGTH_MODIFIER">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_OPPONENT_IS_SLOWER"></Requirement>
+		</SubjectRequirements>
+		<Argument name="Amount">3</Argument>
+		<String context="Preview">LOC_ABILITY_CHEVALER_PREVIEW</String>
+	</Modifier>
+	<Modifier id="CHEVALER_MOD_CIV_UNIQUE_TRADITION_COMBAT" collection="COLLECTION_OWNER" effect="EFFECT_ADJUST_UNIT_CIV_UNIQUE_TRADITION_COMBAT_MODIFIER">
+		<Argument name="Amount">1</Argument>
+		<String context="Preview">LOC_ABILITY_CHEVALER_CIV_TRADITIONS_PREVIEW</String>
+	</Modifier>
+	<Modifier id="CETBANG_MOD_COMBAT_VS_NAVAL" collection="COLLECTION_UNIT_COMBAT" effect="EFFECT_ADJUST_UNIT_STRENGTH_MODIFIER">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_OPPONENT_UNIT_TAG_MATCHES">
+				<Argument name="Tag">UNIT_CLASS_NAVAL</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="Amount">5</Argument>
+		<String context="Preview">LOC_ABILITY_CETBANG_PREVIEW</String>
+	</Modifier>
+	<Modifier id="CETBANG_MOD_ADVANCED_PILLAGE" collection="COLLECTION_OWNER" effect="EFFECT_ADJUST_UNIT_ADVANCED_PILLAGING">
+		<Argument name="UseAdvancedPillaging">true</Argument>
+		<Argument name="Range">2</Argument>
+	</Modifier>
+	<Modifier id="GOLD_BANGLES_COMBAT_STRENGTH" collection="COLLECTION_UNIT_COMBAT" effect="EFFECT_ADJUST_UNIT_STRENGTH_MODIFIER">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_PLOT_RESOURCE_VISIBLE">
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="Amount">5</Argument>
+		<String context="Preview">LOC_ABILITY_GOLD_BANGLES_PREVIEW</String>
+	</Modifier>
+	<Modifier id="GOLD_BANGLES_PLUNDER" collection="COLLECTION_OWNER" effect="EFFECT_ADJUST_UNIT_PLUNDER_YIELDS">
+		<Argument name="Amount">100</Argument>
+	</Modifier>
+	<Modifier id="KALAM_MOD_TWO_ATTACKS" collection="COLLECTION_OWNER" effect="EFFECT_ADJUST_UNIT_NUM_ATTACKS">
+		<Argument name="Amount">1</Argument>
+		<String context="Preview">LOC_KALAM_MOD_TWO_ATTACKS_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="OTTRU_GRANT_MODIFIER" collection="COLLECTION_ALL_UNITS" effect="EFFECT_ATTACH_MODIFIERS">
+		<SubjectRequirements type="REQUIREMENTSET_TEST_ALL">
+			<Requirement type="REQUIREMENT_PLOT_IN_COMMAND_RADIUS">
+			</Requirement>
+			<Requirement type="REQUIREMENT_UNIT_IS_ENEMY_OF_OWNER"/>
+		</SubjectRequirements>
+		<Argument name="ModifierId">OTTRU_MOD_COMBAT</Argument>
+	</Modifier>
+	<Modifier id="OTTRU_MOD_COMBAT" collection="COLLECTION_UNIT_COMBAT" effect="EFFECT_ADJUST_UNIT_STRENGTH_MODIFIER">
+		<Argument name="Amount">-3</Argument>
+		<String context="Preview">LOC_ABILITY_OTTRU_PREVIEW</String>
+	</Modifier>
+	<Modifier id="KESHIG_HEAL_AFTER_KILL" collection="COLLECTION_OWNER" effect="EFFECT_ADJUST_UNIT_POST_COMBAT_HEAL">
+		<Argument name="AttackAmount">15</Argument>
+	</Modifier>
+	<Modifier id="LEIOMANO_MOD_COMBAT_MELEE" collection="COLLECTION_UNIT_COMBAT" effect="EFFECT_ADJUST_UNIT_STRENGTH_MODIFIER">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_OPPONENT_UNIT_TAG_MATCHES">
+				<Argument name="Tag">UNIT_CLASS_MELEE</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="Amount">3</Argument>
+		<String context="Preview">LOC_ABILITY_LEIOMANO_PREVIEW</String>
+	</Modifier>
+	<Modifier id="CULTURE_KILLS_LEIOMANO" collection="COLLECTION_UNIT_COMBAT" effect="EFFECT_ADJUST_UNIT_POST_COMBAT_YIELD">
+		<Argument name="YieldType">YIELD_CULTURE</Argument>
+		<Argument name="PercentDefeatedStrength">25</Argument>
+	</Modifier>
+	<Modifier id="MAMLUK_MOD_COMBAT_URBAN_POP_ADD_ABILITY" collection="COLLECTION_OWNER" effect="EFFECT_UNIT_ADJUST_ABILITY">
+		<OwnerRequirements>
+			<Requirement type="REQUIREMENT_UNIT_IN_OWNER_TERRITORY"/>
+		</OwnerRequirements>
+		<Argument name="AbilityType">ABILITY_MAMLUK</Argument>
+	</Modifier>
+	<Modifier id="MAMLUK_MOD_COMBAT_URBAN_POP" collection="COLLECTION_OWNER" effect="EFFECT_ADJUST_UNIT_URBAN_POPULATION_COMBAT_MODIFIER">
+		<Argument name="Amount">1</Argument>
+		<String context="Preview">LOC_ABILITY_MAMLUK_PREVIEW</String>
+	</Modifier>
+	<Modifier id="NOYAN_MOD_GRANT_ABILITY_IN_COMMAND_RADIUS" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_UNIT_ADJUST_ABILITY">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_PLOT_IN_COMMAND_RADIUS"/>
+		</SubjectRequirements>
+		<Argument name="AbilityType">ABILITY_NOYAN_MOUNTED_COMBAT</Argument>
+	</Modifier>
+	<Modifier id="NOYAN_MOD_INCREASE_COMBAT_STRENGTH" collection="COLLECTION_OWNER" effect="EFFECT_UNIT_ADJUST_FLANKING_ATTACK_MODIFIER">
+		<Argument name="Percent">50</Argument>
+		<String context="Preview">LOC_ABILITY_NOYAN_MOUNTED_COMBAT_PREVIEW</String>
+	</Modifier>
+	<Modifier id="PEDANDA_MOD_CULTURE_ON_CONVERSION" collection="COLLECTION_OWNER" effect="EFFECT_ADJUST_UNIT_INITIATION_YIELD">
+		<Argument name="Amount" type="ScaleByGameSpeed">25</Argument>
+		<Argument name="YieldType">YIELD_CULTURE</Argument>
+	</Modifier>
+	<Modifier id="WARAKAQ_MOD_COMBAT_ATTACKING_HILL" collection="COLLECTION_OWNER" effect="EFFECT_ATTACH_MODIFIERS">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_PLOT_TERRAIN_TYPE_MATCHES">
+				<Argument name="TerrainType">TERRAIN_HILL</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="ModifierId">WARAKAQ_MOD_COMBAT_ATTACKING_HILL_ATTACH_MOD</Argument>
+	</Modifier>
+	<Modifier id="WARAKAQ_MOD_COMBAT_ATTACKING_HILL_ATTACH_MOD" collection="COLLECTION_UNIT_COMBAT" effect="EFFECT_ADJUST_UNIT_STRENGTH_MODIFIER">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_PLAYER_IS_ATTACKING"/>
+		</SubjectRequirements>
+		<Argument name="Amount">5</Argument>
+		<String context="Preview">LOC_ABILITY_WARAKAQ_PREVIEW</String>
+	</Modifier>
+	<Modifier id="WARAKAQ_IGNORE_HILL" collection="COLLECTION_OWNER" effect="EFFECT_UNIT_ADJUST_IGNORE_MOVEMENT_OBSTACLE">
+		<Argument name="Obstacle">TERRAIN_HILL</Argument>
+	</Modifier>
+	<Modifier id="XUNLEICHONG_MOD_NO_FEATURE_STRENGTH_ABILITY" collection="COLLECTION_OWNER" effect="EFFECT_UNIT_ADJUST_ABILITY">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_PLOT_HAS_ANY_FEATURE" inverse="true"/>
+		</SubjectRequirements>
+		<Argument name="AbilityType">ABILITY_XUNLEICHONG_NO_FEATURE_STRENGTH</Argument>
+	</Modifier>
+	<Modifier id="XUNLEICHONG_MOD_COMBAT_NO_FEATURE_COMBAT_STRENGTH" collection="COLLECTION_UNIT_COMBAT" effect="EFFECT_ADJUST_UNIT_STRENGTH_MODIFIER">
+		<Argument name="Amount">4</Argument>
+		<String context="Preview">LOC_ABILITY_XUNLEICHONG_PREVIEW</String>
+	</Modifier>
+	<Modifier id="XUNLEICHONG_MOD_RANGED" collection="COLLECTION_UNIT_COMBAT" effect="EFFECT_ADJUST_UNIT_STRENGTH_MODIFIER">
+		<OwnerRequirements>
+			<Requirement type="REQUIREMENT_PLOT_ADJACENT_UNIT_TAG_MATCHES">
+				<Argument name="Tag">UNIT_CLASS_XUNLEICHONG</Argument>
+				<Argument name="IncludeCenter">false</Argument>
+			</Requirement>
+		</OwnerRequirements>
+		<Argument name="Amount">3</Argument>
+		<String context="Preview">LOC_ABILITY_XUNLEICHONG_BONUS_PREVIEW</String>
+	</Modifier>
+	<Modifier id="MANDARIN_MOD_TRADE_CREATION_YIELD" collection="COLLECTION_OWNER" effect="EFFECT_UNIT_ADJUST_COMMAND_AWARD">
+		<Argument name="YieldType">YIELD_GOLD</Argument>
+		<Argument name="Amount" type="ScaleByGameSpeed">100</Argument>
+		<Argument name="PerResource">true</Argument>
+		<Argument name="CommandType">UNITCOMMAND_CONNECT_WITH_ROAD</Argument>
+	</Modifier>
+	<Modifier id="MANDARIN_BONUS_MOD_TRADE_CREATION_YIELD" collection="COLLECTION_OWNER" effect="EFFECT_UNIT_ADJUST_COMMAND_AWARD">
+		<Argument name="YieldType">YIELD_SCIENCE</Argument>
+		<Argument name="Amount" type="ScaleByGameSpeed">25</Argument>
+		<Argument name="PerResource">true</Argument>
+		<Argument name="CommandType">UNITCOMMAND_CONNECT_WITH_ROAD</Argument>
+	</Modifier>
+	<Modifier id="TAJIRO_MOD_TRADE_CREATION_YIELD" collection="COLLECTION_OWNER" effect="EFFECT_UNIT_ADJUST_COMMAND_AWARD">
+		<Argument name="YieldType">YIELD_GOLD</Argument>
+		<Argument name="Amount" type="ScaleByGameSpeed">100</Argument>
+		<Argument name="IncludesNavigableRiver">true</Argument>
+		<Argument name="CommandType">UNITCOMMAND_MAKE_TRADE_ROUTE</Argument>
+	</Modifier>
+	<Modifier id="TAJIRO_BONUS_MOD_TRADE_CREATION_YIELD" collection="COLLECTION_OWNER" effect="EFFECT_UNIT_ADJUST_COMMAND_AWARD">
+		<Argument name="YieldType">YIELD_GOLD</Argument>
+		<Argument name="Amount" type="ScaleByGameSpeed">100</Argument>
+		<Argument name="IncludesNavigableRiver">true</Argument>
+		<Argument name="CommandType">UNITCOMMAND_MAKE_TRADE_ROUTE</Argument>
+	</Modifier>
+	<Modifier id="TRADE_UNIT_MOD_NAVIGABLE_RIVER_PROTECTION" collection="COLLECTION_OWNER" effect="EFFECT_UNIT_SET_TRADE_ROUTE_PROTECTED">
+	</Modifier>
+	<Modifier id="TERCIO_ADJACENT_COMBAT" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_UNIT_ADJUST_ABILITY">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_PLOT_ADJACENT_TO_OWNER"/>
+		</SubjectRequirements>
+		<Argument name="AbilityType">ABILITY_TERCIO_CAVALRY_STRENGTH</Argument>
+	</Modifier>
+	<Modifier id="TERCIO_ADJACENT_COMBAT_MODIFIER" collection="COLLECTION_UNIT_COMBAT" effect="EFFECT_ADJUST_UNIT_STRENGTH_MODIFIER">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_OPPONENT_UNIT_TAG_MATCHES">
+				<Argument name="Tag">UNIT_CLASS_MOUNTED</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="Amount">3</Argument>
+		<String context="Preview">LOC_ABILITY_TERCIO_PREVIEW</String>
+	</Modifier>
+	<Modifier id="PHYSICIAN_MOD_TREAT_SICK_CHARGES" collection="COLLECTION_OWNER" effect="EFFECT_GRANT_UNIT_ABILITY_CHARGE" permanent="true">
+		<Argument name="ChargedAbilityType">CHARGED_ABILITY_TREAT_SICK</Argument>
+		<Argument name="Amount">1</Argument>
+		<String context="Preview">LOC_ABILITY_PHYSICIAN_HAPPINESS_DESCRIPTION</String>
+	</Modifier>
+</GameEffects>

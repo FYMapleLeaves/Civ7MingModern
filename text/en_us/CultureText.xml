@@ -1,0 +1,1079 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<!-- ==================================================	-->
+		<!--	MAIN TREE							-->
+		<!-- ==================================================	-->
+		<Row Tag="LOC_CIVIC_ECONOMICS_NAME">
+			<Text>Economics</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ECONOMICS_QUOTE">
+			<Text>"Wealth circulates like blood, all parts partake."</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ECONOMICS_QUOTE_AUTHOR">
+			<Text>William Penn</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_PIETY_NAME">
+			<Text>Piety</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_PIETY_QUOTE">
+			<Text>"I take refuge in the Buddha. I take refuge in the Dharma. I take refuge in the Sangha."</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_PIETY_QUOTE_AUTHOR">
+			<Text>Ratanattaya Chant</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MERCANTILISM_NAME">
+			<Text>Mercantilism</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MERCANTILISM_QUOTE">
+			<Text>"Plenty of money maketh generally things dear, and scarcity of money maketh likewise generally things good cheape."</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MERCANTILISM_QUOTE_AUTHOR">
+			<Text>Gerard de Malynes</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_AUTHORITY_NAME">
+			<Text>Authority</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_AUTHORITY_QUOTE">
+			<Text>"I have collected all the writings and burnt those which were of no use."</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_AUTHORITY_QUOTE_AUTHOR">
+			<Text>Qin Shi Huang</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_INSPIRATION_NAME">
+			<Text>Inspiration</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_INSPIRATION_QUOTE">
+			<Text>"O for a muse of fire."</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_INSPIRATION_QUOTE_AUTHOR">
+			<Text>William Shakespeare</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_COLONIALISM_NAME">
+			<Text>Colonialism</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_COLONIALISM_QUOTE">
+			<Text>"Colonialism is not satisfied merely with holding a people in its grip, but it turns to the past of the oppressed people, and destroys it."</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_COLONIALISM_QUOTE_AUTHOR">
+			<Text>Frantz Fanon</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_BUREAUCRACY_NAME">
+			<Text>Bureaucracy</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_BUREAUCRACY_QUOTE">
+			<Text>"A bureaucracy always tends to become a pedantocracy."</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_BUREAUCRACY_QUOTE_AUTHOR">
+			<Text>John Stuart Mill</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DIPLOMATIC_SERVICE_NAME">
+			<Text>Diplomatic Service</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DIPLOMATIC_SERVICE_QUOTE">
+			<Text>"Since words are not fine, fine words are not sincere."</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DIPLOMATIC_SERVICE_QUOTE_AUTHOR">
+			<Text>Lao Tzu</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SOCIETY_NAME">
+			<Text>Society</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SOCIETY_QUOTE">
+			<Text>"The social pact ensures that men become equal by covenant and by right."</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SOCIETY_QUOTE_AUTHOR">
+			<Text>Jean-Jacques Rousseau</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_IMPERIALISM_NAME">
+			<Text>Imperialism</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_IMPERIALISM_QUOTE">
+			<Text>"Every empire tells itself that its mission is not to plunder and control but to educate and liberate."</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_IMPERIALISM_QUOTE_AUTHOR">
+			<Text>Edward Said</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SOVEREIGNTY_NAME">
+			<Text>Sovereignty</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SOVEREIGNTY_QUOTE">
+			<Text>"The spear and the title go together."</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SOVEREIGNTY_QUOTE_AUTHOR">
+			<Text>Nuer Saying</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SOCIAL_CLASS_NAME">
+			<Text>Social Class</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SOCIAL_CLASS_QUOTE">
+			<Text>"When monks are righteous, rajahs are righteous. When ministers are righteous, brahmins and householders are righteous. Thus townsfolk and villagers are righteous."</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SOCIAL_CLASS_QUOTE_AUTHOR">
+			<Text>The Book of Gradual Sayings</Text>
+		</Row>
+		<!-- ==================================================	-->
+		<!--	BRANCH TREES							-->
+		<!-- ==================================================	-->
+		<!-- Branch Tree Reveal -->
+		<Row Tag="LOC_REQ_THEOLOGY_HAS_HOLY_CITY_REVEAL_STATUS">
+			<Text>Have a Holy City</Text>
+		</Row>
+		<!-- Branch Tree Nodes -->
+		<Row Tag="LOC_CIVIC_THEOLOGY_NAME">
+			<Text>Theology</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_THEOLOGY_QUOTE">
+			<Text>"By knowing things in their true nature, one knows the divine."</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_THEOLOGY_QUOTE_AUTHOR">
+			<Text>The Book of Causes</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_REFORMATION_NAME">
+			<Text>Reformation</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_REFORMATION_QUOTE">
+			<Text>"The gospel cannot be truly preached without offense and tumult."</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_REFORMATION_QUOTE_AUTHOR">
+			<Text>Martin Luther</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_FUTURE_CIVIC_EX_NAME">
+			<Text>Future Civic</Text>
+		</Row>
+		<!-- ==================================================	-->
+		<!--	MODIFIER STRINGS							-->
+		<!-- ==================================================	-->
+		<Row Tag="LOC_MOD_EXPLORATION_TRADITION_SLOT_DESCRIPTION">
+			<Text>+1 Social Policy slot.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_REFORMATION_BELIEF_DESCRIPTION">
+			<Text>Receive 1 additional Belief.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_FUTURE_CIVIC_ATTRIBUTE_EX_DESCRIPTION">
+			<Text>+1 Wildcard Attribute Point.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_FUTURE_CIVIC_BOOST_EX_DESCRIPTION">
+			<Text>A boost for a non-Civilization unique starting Civic in the next Age.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_EXP_FUTURE_CIVIC_AGE_PROGRESS_DESCRIPTION">
+			<Text>+10 Age Progress.</Text>
+		</Row>
+		<!-- ==================================================	-->
+		<!--	TRADITIONS							-->
+		<!-- ==================================================	-->
+		<Row Tag="LOC_TRADITION_BOURGEOISIE_NAME">
+			<Text>Bourgeoisie</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_BOURGEOISIE_DESCRIPTION">
+			<Text>+4[icon:YIELD_CULTURE] Culture and[icon:YIELD_GOLD] Gold in Cities in your Homelands.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_CHARTERS_NAME">
+			<Text>Charters</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_CHARTERS_DESCRIPTION">
+			<Text>+1[icon:YIELD_GOLD] Gold on each Gold adjacency.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_CHIVALRY_NAME">
+			<Text>Chivalry</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_CHIVALRY_DESCRIPTION">
+			<Text>+40%[icon:YIELD_PRODUCTION] Production towards training Cavalry Units.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_COLONIAL_SURPLUS_NAME">
+			<Text>Colonial Surplus</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_COLONIAL_SURPLUS_DESCRIPTION">
+			<Text>+1[icon:YIELD_PRODUCTION] Production on each Production adjacency.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_COMMISSIONED_OFFICERS_NAME">
+			<Text>Commissioned Officers</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_COMMISSIONED_OFFICERS_DESCRIPTION">
+			<Text>+30% Commander Experience. +1 movement for Fleets and Armies.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_COMMUNE_NAME">
+			<Text>Commune</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_COMMUNE_DESCRIPTION">
+			<Text>+20%[icon:YIELD_PRODUCTION] Production towards Overbuilding. +3 Combat Strength for Fortified Districts.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_CONSTITUTION_NAME">
+			<Text>Constitution</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_CONSTITUTION_DESCRIPTION">
+			<Text>+50%[icon:YIELD_FOOD] Food and[icon:YIELD_HAPPINESS] Happiness towards maintaining Specialists.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_DE_FACTO_NAME">
+			<Text>De Facto</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_DE_FACTO_DESCRIPTION">
+			<Text>+3 Combat Strength for all Units in Distant Lands. Units heal +5 HP.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_DE_JURE_NAME">
+			<Text>De Jure</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_DE_JURE_DESCRIPTION">
+			<Text>+3 Combat Strength for all Units in Homelands.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_DIVINE_RIGHT_NAME">
+			<Text>Divine Right</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_DIVINE_RIGHT_DESCRIPTION">
+			<Text>+10[icon:YIELD_HAPPINESS] Happiness and +4[icon:YIELD_DIPLOMACY] Influence on the Palace.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_ENLIGHTENMENT_NAME">
+			<Text>Enlightenment</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_ENLIGHTENMENT_DESCRIPTION">
+			<Text>+1[icon:YIELD_SCIENCE] Science on each Science adjacency.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_EVANGELISM_NAME">
+			<Text>Evangelism</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_EVANGELISM_DESCRIPTION">
+			<Text>+1 Civilian movement. +1 charge for Missionaries.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_HEQIN_NAME">
+			<Text>Heqin</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_HEQIN_DESCRIPTION">
+			<Text>+5[icon:YIELD_CULTURE] Culture per Alliance.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_INDENTURE_NAME">
+			<Text>Indenture</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_INDENTURE_DESCRIPTION">
+			<Text>+1[icon:YIELD_FOOD] Food on each Food adjacency.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_LEVIES_NAME">
+			<Text>Levies</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_LEVIES_DESCRIPTION">
+			<Text>+25%[icon:YIELD_GOLD] Gold towards purchasing Military Units. -1[icon:YIELD_GOLD] Gold maintenance for Units.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_MARITIME_LAW_NAME">
+			<Text>Maritime Law</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_MARITIME_LAW_DESCRIPTION">
+			<Text>+30%[icon:YIELD_PRODUCTION] Production towards training Naval Units.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_METROPOLE_NAME">
+			<Text>Metropole</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_METROPOLE_DESCRIPTION">
+			<Text>+1 Resource Capacity in all Cities in Homelands. +10 range for all Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_PATRONAGE_NAME">
+			<Text>Patronage</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_PATRONAGE_DESCRIPTION">
+			<Text>+1[icon:YIELD_CULTURE] Culture on each Culture adjacency.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_RATIONALISM_NAME">
+			<Text>Rationalism</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_RATIONALISM_DESCRIPTION">
+			<Text>+15%[icon:YIELD_GOLD] Gold and[icon:YIELD_SCIENCE] Science in your own Cities that are converted to your Religion.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_REGULARS_NAME">
+			<Text>Regulars</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_REGULARS_DESCRIPTION">
+			<Text>+40%[icon:YIELD_PRODUCTION] Production towards training Infantry and Ranged Units.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_RELIGIOUS_ORDERS_NAME">
+			<Text>Religious Orders</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_RELIGIOUS_ORDERS_DESCRIPTION">
+			<Text>+15%[icon:YIELD_CULTURE] Culture and[icon:YIELD_HAPPINESS] Happiness in your own Cities that are converted to your Religion.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_RENAISSANCE_NAME">
+			<Text>Renaissance</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_RENAISSANCE_DESCRIPTION">
+			<Text>+10%[icon:YIELD_PRODUCTION] Production towards constructing Wonders. +2[icon:YIELD_CULTURE] Culture on displayed Great Works.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_TARIFFS_NAME">
+			<Text>Tariffs</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_TARIFFS_DESCRIPTION">
+			<Text>+50% Trade Income, but -3[icon:YIELD_HAPPINESS] Happiness in Cities.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_TRADE_WINDS_NAME">
+			<Text>Trade Winds</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_TRADE_WINDS_DESCRIPTION">
+			<Text>+1[icon:YIELD_GOLD] Gold and[icon:YIELD_HAPPINESS] Happiness for every imported Resource.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_UPOSATHA_NAME">
+			<Text>Uposatha</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_UPOSATHA_DESCRIPTION">
+			<Text>+1[icon:YIELD_HAPPINESS] Happiness on each Happiness adjacency.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_VASSALAGE_NAME">
+			<Text>Vassalage</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_VASSALAGE_DESCRIPTION">
+			<Text>+3[icon:YIELD_CULTURE] Culture and[icon:YIELD_GOLD] Gold for every City-State you are Suzerain of.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_YEOMANRY_NAME">
+			<Text>Yeomanry</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_YEOMANRY_DESCRIPTION">
+			<Text>+4[icon:YIELD_FOOD] Food and[icon:YIELD_PRODUCTION] Production in Towns in Distant Lands.</Text>
+		</Row>
+		<!-- ==================================================	-->
+		<!--	CRISIS POLICIES							-->
+		<!-- ==================================================	-->
+		<Row Tag="LOC_TRADITION_CONSCRIPTION_RIOTS_NAME">
+			<Text>Conscription Riots</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_CONSCRIPTION_RIOTS_DESCRIPTION">
+			<Text>-10[icon:YIELD_HAPPINESS] Happiness in all Cities while at war.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_GENDARMERIE_NAME">
+			<Text>Gendarmerie</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_GENDARMERIE_DESCRIPTION">
+			<Text>-4[icon:YIELD_HAPPINESS] Happiness in each Settlement without a garrison.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_IMPOVERISHED_NOBILITY_NAME">
+			<Text>Impoverished Nobility</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_IMPOVERISHED_NOBILITY_DESCRIPTION">
+			<Text>+1[icon:YIELD_GOLD] Gold maintenance for Military Units.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_NOUVEAU_RICHE_NAME">
+			<Text>Nouveau Riche</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_NOUVEAU_RICHE_DESCRIPTION">
+			<Text>+50%[icon:YIELD_FOOD] Food and[icon:YIELD_HAPPINESS] Happiness maintenance for Specialists.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_OPPRESSIVE_TARIFFS_NAME">
+			<Text>Oppressive Tariffs</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_OPPRESSIVE_TARIFFS_DESCRIPTION">
+			<Text>-1[icon:YIELD_GOLD] Gold per Specialist.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_PURGED_OFFICER_CORP_NAME">
+			<Text>Purged Officer Corp</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_PURGED_OFFICER_CORP_DESCRIPTION">
+			<Text>-6 Combat Strength on all Military Units.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_REVOLUTIONARY_TRIBUNAL_NAME">
+			<Text>Revolutionary Tribunal</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_REVOLUTIONARY_TRIBUNAL_DESCRIPTION">
+			<Text>-2 Settlement Limit.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_RELIGIOUS_EXEMPTIONS_NAME">
+			<Text>Religious Tax Exemptions</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_RELIGIOUS_EXEMPTIONS_DESCRIPTION">
+			<Text>-2[icon:YIELD_GOLD] Gold per displayed Relic.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_STRICT_CENSORSHIP_NAME">
+			<Text>Strict Censorship</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_STRICT_CENSORSHIP_DESCRIPTION">
+			<Text>-10[icon:YIELD_CULTURE] Culture and[icon:YIELD_SCIENCE] Science in Cities.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_TAX_FARMING_NAME">
+			<Text>Tax Farming</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_TAX_FARMING_DESCRIPTION">
+			<Text>-50%[icon:YIELD_GOLD] Gold in Towns.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_WEAK_BUREAUCRACY_NAME">
+			<Text>Weak Bureaucracy</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_WEAK_BUREAUCRACY_DESCRIPTION">
+			<Text>-8[icon:YIELD_DIPLOMACY] Influence.</Text>
+		</Row>
+		<!-- Plague Crisis -->
+		<Row Tag="LOC_TRADITION_DIVINE_PUNISHMENT_NAME">
+			<Text>Divine Punishment</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_DIVINE_PUNISHMENT_DESCRIPTION">
+			<Text>+5[icon:YIELD_HAPPINESS] Happiness in infected settlements that follow your religion. These settlements gain a Migrant when infected.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_DIVINE_MERCY_NAME">
+			<Text>Divine Mercy</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_DIVINE_MERCY_DESCRIPTION">
+			<Text>Districts, Buildings and Improvements in Settlements that follow your religion are not damaged by Minor Outbreaks.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_HUMORALISM_NAME">
+			<Text>Humoralism</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_HUMORALISM_DESCRIPTION">
+			<Text>Gain [Icon:YIELD_SCIENCE] Science when Physicians Treat the Sick on a tile with a Hospital.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_PLAGUE_CULTS_NAME">
+			<Text>Plague Cults</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_PLAGUE_CULTS_DESCRIPTION">
+			<Text>Gain [Icon:YIELD_CULTURE] Culture when Physicians Treat the Sick on a tile with a Temple.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_LAZARETTOS_NAME">
+			<Text>Lazarettos</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_LAZARETTOS_DESCRIPTION">
+			<Text>Buildings, Improvements and Districts in Coastal settlements with a Dungeon are not damaged by Major Outbreaks.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_CORDON_SANITAIRE_NAME">
+			<Text>Cordon Sanitaire</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_CORDON_SANITAIRE_DESCRIPTION">
+			<Text>Buildings, Improvements and Districts in Settlements with a Commander Stationed are not damaged by Major Outbreaks.</Text>
+		</Row>
+		<!-- Religion Crisis -->
+		<Row Tag="LOC_TRADITION_RELIGIOUS_TOLERANCE_NAME">
+			<Text>Religious Tolerance</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_RELIGIOUS_TOLERANCE_DESCRIPTION">
+			<Text>+8[icon:YIELD_HAPPINESS] Happiness in settlements that do not follow your religion. -2 Charges on new Missionaries.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_RELIGIOUS_ZEAL_NAME">
+			<Text>Religious Zeal</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_RELIGIOUS_ZEAL_DESCRIPTION">
+			<Text>-8[icon:YIELD_HAPPINESS] Happiness in settlements that do not follow your religion. +2 Charges on new Missionaries.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_RELIGIOUS_ESPIONAGE_NAME">
+			<Text>Inquisition</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_RELIGIOUS_ESPIONAGE_DESCRIPTION">
+			<Text>+50%[icon:YIELD_DIPLOMACY] Influence towards Convert Settlement Espionage actions. -4[icon:YIELD_HAPPINESS] Happiness in Homelands settlements.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_RELIGIOUS_MERCHANTS_NAME">
+			<Text>Jizya</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_RELIGIOUS_MERCHANTS_DESCRIPTION">
+			<Text>+4[icon:YIELD_GOLD] Gold in Settlements not following your religion. -4[icon:YIELD_HAPPINESS] Happiness in Distant Lands settlements.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_RELIGIOUS_MOVEMENT_NAME">
+			<Text>Bhanaka</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_RELIGIOUS_MOVEMENT_DESCRIPTION">
+			<Text>All Missionaries in your territory gain +1 Movement.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_IUS_REFORMANDI_NAME">
+			<Text>Ius Reformandi</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_IUS_REFORMANDI_DESCRIPTION">
+			<Text>When you convert a settlement you own, gain a Migrant and damage 3 buildings in that settlement.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_LITURGICAL_DISPUTES_NAME">
+			<Text>Liturgical Disputes</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_LITURGICAL_DISPUTES_DESCRIPTION">
+			<Text>-4[icon:YIELD_HAPPINESS] Happiness in all settlements following your religion.</Text>
+		</Row>
+		<!-- ==================================================	-->
+		<!--	GOVERNMENTS							-->
+		<!-- ==================================================	-->
+		<Row Tag="LOC_GOVERNMENT_FEUDAL_MONARCHY_NAME">
+			<Text>Feudal Monarchy</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_FEUDAL_MONARCHY_DESCRIPTION">
+			<Text>Your Government grants you a choice between these effects during a Celebration.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_FEUDAL_MONARCHY_PASSIVE_DESCRIPTION">
+			<Text>+1 Population in new Settlements that you found in Distant Lands.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_FEUDAL_MONARCHY_CELEBRATION_NAME">
+			<Text>We Love The Monarch Day!</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_PLUTOCRACY_NAME">
+			<Text>Plutocracy</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_PLUTOCRACY_DESCRIPTION">
+			<Text>Your Government grants you a choice between these effects during a Celebration.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_PLUTOCRACY_PASSIVE_DESCRIPTION">
+			<Text>When you Overbuild a Building, gain[icon:YIELD_GOLD] Gold equal to 25% of the Building's Production cost.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_PLUTOCRACY_CELEBRATION_NAME">
+			<Text>We Love The Guilds Day!</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_THEOCRACY_NAME">
+			<Text>Theocracy</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_THEOCRACY_DESCRIPTION">
+			<Text>Your Government grants you a choice between these effects during a Celebration.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_THEOCRACY_PASSIVE_DESCRIPTION">
+			<Text>+1[icon:YIELD_CULTURE] Culture for every Settlement following your Religion.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_THEOCRACY_CELEBRATION_NAME">
+			<Text>We Love The Demiurge Day!</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_REVOLUTIONARY_AUTHORITARIANISM_NAME">
+			<Text>Revolutionary Authoritarianism</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_REVOLUTIONARY_AUTHORITARIANISM_DESCRIPTION">
+			<Text>Your Government grants you a choice between these effects during a Celebration.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_REVOLUTIONARY_AUTHORITARIANISM_PASSIVE_DESCRIPTION">
+			<Text>+3 Combat Strength for Military Units.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_REVOLUTIONARY_AUTHORITARIANISM_CELEBRATION_NAME">
+			<Text>Long Live the Regime!</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_CONSTITUTIONAL_MONARCHY_NAME">
+			<Text>Constitutional Monarchy</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_CONSTITUTIONAL_MONARCHY_DESCRIPTION">
+			<Text>Your Government grants you a choice between these effects during a Celebration.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_CONSTITUTIONAL_MONARCHY_PASSIVE_DESCRIPTION">
+			<Text>+2[icon:YIELD_GOLD] Gold for each active Endeavor and Sanction you initiated or supported.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_CONSTITUTIONAL_MONARCHY_CELEBRATION_NAME">
+			<Text>Long Live the Monarchy!</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_REVOLUTIONARY_REPUBLIC_NAME">
+			<Text>Revolutionary Republic</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_REVOLUTIONARY_REPUBLIC_DESCRIPTION">
+			<Text>Your Government grants you a choice between these effects during a Celebration.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_REVOLUTIONARY_REPUBLIC_PASSIVE_DESCRIPTION">
+			<Text>+1[icon:YIELD_CULTURE] Culture from displayed Great Works.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_REVOLUTIONARY_REPUBLIC_CELEBRATION_NAME">
+			<Text>Long Live the Republic!</Text>
+		</Row>
+		<!-- ==================================================	-->
+		<!--	ABBASID							-->
+		<!-- ==================================================	-->
+		<Row Tag="LOC_TREE_CIVICS_EX_ABBASID_NAME">
+			<Text>Abbasid Civics</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ROUND_CITY_NAME">
+			<Text>Round City</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ROUND_CITY_QUOTE">
+			<Text>Baghdad was a city of palaces, not of stucco and mortar, but of marble.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ROUND_CITY_AUTHOR">
+			<Text>The Yakut</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MAWLA_NAME">
+			<Text>Mawla</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MAWLA_QUOTE">
+			<Text>Know that God has assigned a leader for you - nomad and city resident, Arab and non-Arab, free or slave, young or old.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MAWLA_AUTHOR">
+			<Text>The Hadith of Ghadir Khumm</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_AL_JABR_NAME">
+			<Text>Al-Jabr</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_AL_JABR_QUOTE">
+			<Text>When I considered what people generally want in calculating, I found that it always is a number.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_AL_JABR_AUTHOR">
+			<Text>Al-Khwarizmi</Text>
+		</Row>
+		<!-- Abbasid Civic Description -->
+		<Row Tag="LOC_MOD_ROUND_CITY_BUILDING_PRODUCTION_DESCRIPTION">
+			<Text>+50% Production towards constructing Buildings in Cities with at least 8 Urban Population. </Text>
+		</Row>
+		<Row Tag="LOC_MOD_ROUND_CITY_SCIENCE_FOOD_DESCRIPTION">
+			<Text>+4[icon:YIELD_FOOD] Food on Science Buildings.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_MAWLA_TEMPLE_WAREHOUSE_RESOURCE_DESCRIPTION">
+			<Text>+2[icon:YIELD_HAPPINESS] Happiness on Resources in Settlements with a Temple.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_MAWLA_TRADE_GOLD_TO_SCIENCE_DESCRIPTION">
+			<Text>Earn[icon:YIELD_SCIENCE] Science equal to 25% of Trade Income.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_MAWLA_MAMLUK_ABILITY_SKIRMISH_DESCRIPTION">
+			<Text>Mamluks gain the Skirmish ability, +50% bonus from Flanking.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_AL_JABR_URBAN_SCIENCE_DESCRIPTION">
+			<Text>+15%[icon:YIELD_SCIENCE] Science in Cities with at least 8 Urban Population. </Text>
+		</Row>
+		<Row Tag="LOC_MOD_AL_JABR_WORKER_MAINTENANCE_DESCRIPTION">
+			<Text>+33%[icon:YIELD_HAPPINESS] Happiness towards maintaining Specialists.</Text>
+		</Row>
+		<!-- ==================================================	-->
+		<!--	CHOLA							-->
+		<!-- ==================================================	-->
+		<Row Tag="LOC_TREE_CIVICS_EX_CHOLA_NAME">
+			<Text>Chola Civics</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NAGARAM_NAME">
+			<Text>Nagaram</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NAGARAM_QUOTE">
+			<Text>Swifter than the monsoon rains, I hurry home, thinking only of you.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NAGARAM_AUTHOR">
+			<Text>Ainkurunooru</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_KANAKAM_NAME">
+			<Text>Kanakam</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_KANAKAM_QUOTE">
+			<Text>If the goddess wills it, wealth will multiply. When she departs, these gifts vanish.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_KANAKAM_AUTHOR">
+			<Text>Naanmanik Kadigai</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DIGVIJAYA_NAME">
+			<Text>Digvijaya</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DIGVIJAYA_QUOTE">
+			<Text>The ten heads of Ravana lay like the mountains holding the earth, his shoulders like tides, without movement.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DIGVIJAYA_AUTHOR">
+			<Text>Ramavataram</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MONSOON_WINDS_NAME">
+			<Text>Monsoon Winds</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MONSOON_WINDS_QUOTE">
+			<Text>It is preceded by desolation; it brings with it the hopes of spring.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MONSOON_WINDS_AUTHOR">
+			<Text>Khushwant Singh</Text>
+		</Row>
+		<!-- Chola Civic Description -->
+		<Row Tag="LOC_MOD_KANAKAM_GOLD_PER_ENVOY_DESCRIPTION">
+			<Text>+1[icon:YIELD_GOLD] Gold from active Diplomatic Actions they started or supported.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_NAGARAM_FREE_TOKEN_DESCRIPTION">
+			<Text>+50%[icon:YIELD_DIPLOMACY] Influence towards initiating the Improve Trade Relations Action.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_NAGARAM_TOWN_TRADE_GOLD_DESCRIPTION">
+			<Text>+50% Town Trade Income.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_NAGARAM_RSOURCE_CAP_DESCRIPTION">
+			<Text>+2 Resource Capacity in the Capital.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_DIGVIJAYA_KALAM_MOVEMENT_DESCRIPTION">
+			<Text>The Kalam receives +1 Movement and Sight. </Text>
+		</Row>
+		<Row Tag="LOC_MONSOON_WINDS_MOD_OTTRU_CONVOYS_DESCRIPTION">
+			<Text>Ottru receives the Convoys Promotion. </Text>
+		</Row>
+		<!-- ==================================================	-->
+		<!--	HAWAII							-->
+		<!-- ==================================================	-->
+		<Row Tag="LOC_TREE_CIVICS_EX_HAWAII_NAME">
+			<Text>Hawai'i Civics</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MANA_NAME">
+			<Text>Mana</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MANA_AUTHOR">
+			<Text>Bradd Shore</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MANA_QUOTE">
+			<Text>Mana is a part of the spiritual world, but felt in the physical.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_OHANA_NAME">
+			<Text>Ohana</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_OHANA_QUOTE">
+			<Text>Nānā i ke kumu. Look to the source.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_OHANA_AUTHOR">
+			<Text>Hawaiian Saying</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_HE_E_NALU_NAME">
+			<Text>He'e nalu</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_HE_E_NALU_QUOTE">
+			<Text>Just take your time - wave comes. Let the other guys go.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_HE_E_NALU_AUTHOR">
+			<Text>Duke Kahanamoku</Text>
+		</Row>
+		<!-- Hawaii Civic Description -->
+		<Row Tag="LOC_MOD_MANA_CULTURE_DISASTERS_DESCRIPTION">
+			<Text>+2[icon:YIELD_CULTURE] Culture for every time a Storm, Flood, or Volcanic Eruption has provided Fertility this Age.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_MANA_CULTURE_KILLS_LEIOMANO_DESCRIPTION">
+			<Text>When you defeat an enemy Unit with a Leiomano, gain[icon:YIELD_CULTURE] Culture equal to 25% of the defeated Unit's strength.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_OHANA_PAVILION_WAREHOUSE_LOL_KALO_DESCRIPTION">
+			<Text>+2[icon:YIELD_CULTURE] Culture for Lo’I Kalo Improvements in Settlements with a Pavilion.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_HE_E_NALU_TWO_RELICS_DESCRIPTION">
+			<Text>+2 Relics.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_RELIGION_MARINE_TILE_CULTURE_DESCRIPTION">
+			<Text>+2[icon:YIELD_CULTURE] Culture on Marine Terrain in Settlements following your Religion.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_KAHUNA_CHARGES_DESCRIPTION">
+			<Text>The Kahuna Receives a Second Healing Charge.</Text>
+		</Row>
+		<!-- ==================================================	-->
+		<!--	INCA							-->
+		<!-- ==================================================	-->
+		<Row Tag="LOC_TREE_CIVICS_EX_INCA_NAME">
+			<Text>Inca Civics</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CHAKITAQLLA_NAME">
+			<Text>Chakitaqlla</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CHAKITAQLLA_QUOTE">
+			<Text>Governors must first understand the common resources and particular care for their people in each province.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CHAKITAQLLA_AUTHOR">
+			<Text>Pachacuti</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_AYLLU_NAME">
+			<Text>Ayllu</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_AYLLU_QUOTE">
+			<Text>The valley sings with the voice of the morning, of the noontide, of the afternoon, of the evening.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_AYLLU_AUTHOR">
+			<Text>José María Arguedas</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MITA_NAME">
+			<Text>Mit'a</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MITA_QUOTE">
+			<Text>Labor service is generally considered to be the critical means by which the Inca state funded its activities.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MITA_AUTHOR">
+			<Text>Terry Yarov LeVine </Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_QHAPAQ_NAN_NAME">
+			<Text>Qhapaq Ñan</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_QHAPAQ_NAN_QUOTE">
+			<Text>The Earth and the Places watch human consumption jealously and demand their part in it.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_QHAPAQ_NAN_AUTHOR">
+			<Text>Catherine Allen</Text>
+		</Row>
+		<!-- Inca Civic Description -->
+		<Row Tag="LOC_MOD_MITA_PALACE_MOUNTAIN_HAPPINESS_DESCRIPTION">
+			<Text>+1[icon:YIELD_HAPPINESS] Happiness on Mountain Terrain.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_AYLLU_GRANARY_TERRACE_FARM_DESCRIPTION">
+			<Text>+2[icon:YIELD_FOOD] Food on Terrace Farms in Settlements with a Granary.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_AYLLU_MOUNTAIN_TERRACE_FARM_DESCRIPTION">
+			<Text>Farms and Terrace Farms receive +3[icon:YIELD_FOOD] Food if adjacent to at least one Mountain.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_MITA_MOUNTAIN_HAPPINESS_DESCRIPTION">
+			<Text>+1[icon:YIELD_HAPPINESS] Happinesss to Mountain tiles.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_QHAPAQ_NAN_HILL_MOVEMENT_DESCRIPTION">
+			<Text>Rough Terrain does not end the movement of any Inca Unit.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_QHAPAQ_NAN_WARAKAQ_POISONOUS_DESCRIPTION">
+			<Text>The Warak'aq gains the Poison ability, +5 Combat Strength against wounded Units.</Text>
+		</Row>
+		<!-- ==================================================	-->
+		<!--	MAJAPAHIT						-->
+		<!-- ==================================================	-->
+		<Row Tag="LOC_TREE_CIVICS_EX_MAJAPAHIT_NAME">
+			<Text>Majapahit Civics</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_WAYANG_NAME">
+			<Text>Wayang</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_WAYANG_QUOTE">
+			<Text>A set of betel nut offerings and incense shivers in the clear stillness of the world.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_WAYANG_AUTHOR">
+			<Text>I. Wayan Arthawa</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ALIRAN_KEPERCAYAAN_NAME">
+			<Text>Aliran Kepercayaan</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ALIRAN_KEPERCAYAAN_QUOTE">
+			<Text>Whoever is given compassion will return love.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ALIRAN_KEPERCAYAAN_AUTHOR">
+			<Text>Gagak Mwang Sarpa Pejah Dening Yuyu</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NUSUNTARA_NAME">
+			<Text>Nusuntara</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NUSUNTARA_QUOTE">
+			<Text>Wherever you go, we will follow, and share in joy and sorrow.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NUSUNTARA_AUTHOR">
+			<Text>Cakrangga Mwang Durbuddhi</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_GAMELAN_NAME">
+			<Text>Gamelan</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_GAMELAN_QUOTE">
+			<Text>The king of the gods descended with a loud noise from instruments ringing in the sky.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_GAMELAN_AUTHOR">
+			<Text>Arjunawiwāha</Text>
+		</Row>
+		<!-- Majapahit Civic Description -->
+		<Row Tag="LOC_MOD_WAYANG_OVERBUILD_PRODUCTION_DESCRIPTION">
+			<Text>+25%[icon:YIELD_PRODUCTION] Production towards Overbuilding.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_NUSUNTARA_CULTURE_COAST_DESCRIPTION">
+			<Text>Exploration Age Culture Buildings receive a[icon:YIELD_CULTURE] Culture adjacency for Coast.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_NUSUNTARA_SEA_VS_LAND_DESCRIPTION">
+			<Text>+5 Combat Strength to Naval Units against Land Units.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_NUSUNTARA_SEA_VS_LAND_COMBAT_DESCRIPTION">
+			<Text>Naval Units receive +5 Combat Strength against Land Units</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALIRAN_KEPERCAYAAN_CONVERT_EXTRA_CULTURE_DESCRIPTION">
+			<Text>The Pedanda grants an extra [icon:YIELD_CULTURE] 25 Culture when it converts a Settlement.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_GAMELAN_CULTURE_BUILDINGS_THIS_AGE_DESCRIPTION">
+			<Text>+4[icon:YIELD_CULTURE] Culture on Quarters.</Text>
+		</Row>
+		<!-- ==================================================	-->
+		<!--	MING							-->
+		<!-- ==================================================	-->
+		<Row Tag="LOC_TREE_CIVICS_EX_MING_NAME">
+			<Text>Ming Civics</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_LIJIA_NAME">
+			<Text>Lijia</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_LIJIA_QUOTE">
+			<Text>Bright are the city walls of the capital; red-robed officials shout on broad streets.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_LIJIA_AUTHOR">
+			<Text>Yuan Hongdao</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NINE_GARRISONS_NAME">
+			<Text>Nine Garrisons</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NINE_GARRISONS_QUOTE">
+			<Text>If we do not destroy our enemies, what are armies for?</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NINE_GARRISONS_AUTHOR">
+			<Text>The Yongle Emperor</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DA_MING_LU_NAME">
+			<Text>Da Ming Lu</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DA_MING_LU_QUOTE">
+			<Text>Rituals guide the people; law codes restrain the wayward.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DA_MING_LU_AUTHOR">
+			<Text>The Hongwu Emperor</Text>
+		</Row>
+		<!-- Ming Civic Description -->
+		<Row Tag="LOC_MOD_LIJIA_TOWN_BUILDING_PURCHASE_DESCRIPTION">
+			<Text>+25%[icon:YIELD_GOLD] Gold towards purchasing Buildings in Towns.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_NINE_GARRISONS_BANK_MING_GREAT_WALL_DESCRIPTION">
+			<Text>The Ming Great Wall receives +2[icon:YIELD_GOLD] Gold in Settlements with a Bank.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_NINE_GARRISONS_XUNLEICHONG_RANGED_DESCRIPTION">
+			<Text>+3 Combat Strength to Ranged Units adjacent to the Xunleichong.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_DA_MING_LU_MANDARIN_ABILITY_DESCRIPTION">
+			<Text>Mandarins receive +25[icon:YIELD_SCIENCE] Science when they use the Create a Road Action. </Text>
+		</Row>
+		<Row Tag="LOC_MOD_LIJIA_CAP_RESOURCE_CAP_DESCORIPTION">
+			<Text>+2 Resource Capacity in the Capital. </Text>
+		</Row>
+		<!-- ==================================================	-->
+		<!--	MONGOLIA							-->
+		<!-- ==================================================	-->
+		<Row Tag="LOC_TREE_CIVICS_EX_MONGOLIA_NAME">
+			<Text>Mongolian Civics</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ULUS_NAME">
+			<Text>Ulus</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ULUS_QUOTE">
+			<Text>The Mongols did not find honor in fighting; they found honor in winning.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ULUS_AUTHOR">
+			<Text>Jack Weatherford</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_FOUR_HOUNDS_NAME">
+			<Text>Four Hounds</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_FOUR_HOUNDS_QUOTE">
+			<Text>Chisels for snouts and awls for tongues, iron for hearts and whips for swords, drinking the dew and racing the wind - they go.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_FOUR_HOUNDS_AUTHOR">
+			<Text>The Secret History of the Mongols</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_YASSA_NAME">
+			<Text>Yassa</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_YASSA_QUOTE">
+			<Text>It is forbidden to make peace with a monarch who has not submitted.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_YASSA_AUTHOR">
+			<Text>The Yassa</Text>
+		</Row>
+		<!-- Mongolia Civic Description -->
+		<Row Tag="LOC_MOD_CONQUERED_TOWN_UPGRADE_DISCOUNT_DESCRIPTION">
+			<Text>Captured Towns do not cost double to convert into Cities.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ULUS_HAPPINESS_NOT_FOUNDED_DESCRIPTION">
+			<Text>Settlements you did not found receive +1[icon:YIELD_HAPPINESS] Happiness per different Resource assigned to them.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_MOUNTED_MOVEMENT_DESCRIPTION">
+			<Text>+1 Movement to Cavalry Units.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_GRANT_NOYAN_DESCRIPTION">
+			<Text>Receive 1 Noyan in your Capital.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_YASSA_ORTOO_MORE_GOLD_DESCRIPTION">
+			<Text>The Örtöö receives +4[icon:YIELD_GOLD] Gold in Settlements you did not found.</Text>
+		</Row>
+		<!-- ==================================================	-->
+		<!--	NORMAN							-->
+		<!-- ==================================================	-->
+		<Row Tag="LOC_TREE_CIVICS_EX_NORMAN_NAME">
+			<Text>Norman Civics</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CONSUETUDINES_ET_JUSTICIE_NAME">
+			<Text>Consuetudines et Justicie</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CONSUETUDINES_ET_JUSTICIE_QUOTE">
+			<Text>Never promise anything except what you are willing to give.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CONSUETUDINES_ET_JUSTICIE_AUTHOR">
+			<Text>The Book of Good Manners</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_COMMON_LAW_NAME">
+			<Text>Common Law</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_COMMON_LAW_QUOTE">
+			<Text>They cover their sins with excuses of error and ignorance.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_COMMON_LAW_AUTHOR">
+			<Text>The Mirror of Justices</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DOMESDAY_BOOK_NAME">
+			<Text>Domesday Book</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DOMESDAY_BOOK_QUOTE">
+			<Text>It has been a city since ancient times.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DOMESDAY_BOOK_AUTHOR">
+			<Text>Description of England</Text>
+		</Row>
+		<!-- Norman Civic Description -->
+		<Row Tag="LOC_MOD_COMMON_LAW_TRADITION_SLOTS_DESCRIPTION">
+			<Text>+1 Social Policy slot.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_DOMESDAY_BOOK_FARM_GOLD_DESCRIPTION">
+			<Text>+2[icon:YIELD_GOLD] Gold from Farms. This is doubled during a Celebration.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_CONSUETUDINES_ET_JUSTICIE_CHEVELAR_ABILITY_DESCRIPTION">
+			<Text>+1 Combat Strength to the Chevelar for every Tradition slotted in your Government.</Text>
+		</Row>
+		<!-- ==================================================	-->
+		<!--	SONGHAI							-->
+		<!-- ==================================================	-->
+		<Row Tag="LOC_TREE_CIVICS_EX_SONGHAI_NAME">
+			<Text>Songhai Civics</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SHIPS_OF_THE_DESERT_NAME">
+			<Text>Ships of the Desert</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SHIPS_OF_THE_DESERT_QUOTE">
+			<Text>He knew the desert routes and watering places, the stars at night, the scent and touch of sand.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SHIPS_OF_THE_DESERT_AUTHOR">
+			<Text>H. J. Fisher</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_HI_KOI_NAME">
+			<Text>Hi-Koi</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_HI_KOI_QUOTE">
+			<Text>One finds oneself on the path already traveled and one foresees what remains to be done.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_HI_KOI_AUTHOR">
+			<Text>Jean-Marie Gibbal</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_KANTA_NAME">
+			<Text>Kanta</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_KANTA_QUOTE">
+			<Text>Every village that follows his wishes, he conquers them. He moves on. Every village that refuses, he conquers it, he burns it, he moves on.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_KANTA_AUTHOR">
+			<Text>The Epic of Askia Mohammed</Text>
+		</Row>
+		<!-- Songhai Civic Description -->
+		<Row Tag="LOC_MOD_SHIPS_OF_THE_DESERT_BAZAAR_GOLD_DESCRIPTION">
+			<Text>The Caravansari receives +2[icon:YIELD_GOLD] Gold in Settlements with a Bazaar.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_KANTA_TAJIRO_ABILITY_DESCRIPTION">
+			<Text>Tajiro's[icon:YIELD_GOLD] Gold becomes 200.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_HI_KOI_RIVER_COMBAT_DESCRIPTION">
+			<Text>Combat Units receive +5 Combat Strength on Navigable Rivers</Text>
+		</Row>
+		<Row Tag="LOC_MOD_MOD_HI_KOI_RIVER_MOVEMENT_DESCRIPTION">
+			<Text>Rivers do not end movement.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_KANTA_TREASURE_FLEET_DESCRIPTION">
+			<Text>Cities in Homelands on Navigable Rivers generate Treasure Fleets worth 1 Treasure Fleet point each.</Text>
+		</Row>
+		<!--Songhai Unique Traditions-->
+		<!-- ==================================================	-->
+		<!--	SPAIN							-->
+		<!-- ==================================================	-->
+		<Row Tag="LOC_TREE_CIVICS_EX_SPAIN_NAME">
+			<Text>Spanish Civics</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_COUNCIL_OF_THE_INDIES_NAME">
+			<Text>Council of the Indies</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_COUNCIL_OF_THE_INDIES_QUOTE">
+			<Text>I have a glove into which I can put your whole city.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_COUNCIL_OF_THE_INDIES_AUTHOR">
+			<Text>Charles V</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ARMADA_NAME">
+			<Text>Armada</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ARMADA_QUOTE">
+			<Text>I sent the Armada against men, not God's winds and waves.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ARMADA_AUTHOR">
+			<Text>Philip II</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NEW_WORLD_RICHES_NAME">
+			<Text>New World Riches</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NEW_WORLD_RICHES_QUOTE">
+			<Text>We came to serve God - and get rich.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NEW_WORLD_RICHES_AUTHOR">
+			<Text>Bernal Díaz del Castillo</Text>
+		</Row>
+		<!-- Spain Civic Description -->
+		<Row Tag="LOC_MOD_COUNCIL_OF_THE_INDIES_TREASURE_FLEET_MOVEMENT_DESCRIPTION">
+			<Text>+1 movement to Treasure Fleets.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_NEW_WORLD_RICHES_FOREIGN_CITIES_PRODUCTION_FOOD_DESCRIPTION">
+			<Text>+10%[icon:YIELD_FOOD] Food and[icon:YIELD_PRODUCTION] Production in Settlements in Distant Lands.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ARMADA_FLEET_COMMANDER_CAPACITY_DESCRIPTION">
+			<Text>Fleet Commanders receive the Flotilla Promotion.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ARMADA_EMBARKED_MOVEMENT_DESCRIPTION">
+			<Text>All Land Units receive +2 Movement when Embarked.</Text>
+		</Row>
+	</EnglishText>
+</Database>

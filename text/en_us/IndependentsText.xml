@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<!-- Entries 1-10 -->
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_1_MINOR_NAME">
+			<Text>Soninke</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_2_MINOR_NAME">
+			<Text>Mande</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_3_MINOR_NAME">
+			<Text>Shona</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_4_MINOR_NAME">
+			<Text>Kilwa</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_5_MINOR_NAME">
+			<Text>Kanem</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_6_MINOR_NAME">
+			<Text>Shilluk</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_7_MINOR_NAME">
+			<Text>Tuareg</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_8_MINOR_NAME">
+			<Text>Garamantian</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_9_MINOR_NAME">
+			<Text>Bulgar</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_10_MINOR_NAME">
+			<Text>Vietnamese</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_1_MAJOR_NAME">
+			<Text>Awdaghust</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_2_MAJOR_NAME">
+			<Text>Niani</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_3_MAJOR_NAME">
+			<Text>Zimbabwe</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_4_MAJOR_NAME">
+			<Text>Kilwa</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_5_MAJOR_NAME">
+			<Text>Nijmi</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_6_MAJOR_NAME">
+			<Text>Fashoda</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_7_MAJOR_NAME">
+			<Text>Abalessa</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_8_MAJOR_NAME">
+			<Text>Garama</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_9_MAJOR_NAME">
+			<Text>Tarnovo</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_10_MAJOR_NAME">
+			<Text>Thang Long</Text>
+		</Row>
+		<!-- Entries 11-20 -->
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_11_MINOR_NAME">
+			<Text>Sasanian</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_12_MINOR_NAME">
+			<Text>Pratihara</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_13_MINOR_NAME">
+			<Text>Japanese</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_14_MINOR_NAME">
+			<Text>Jurchen</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_15_MINOR_NAME">
+			<Text>Goryeo</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_16_MINOR_NAME">
+			<Text>Karakhanid</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_17_MINOR_NAME">
+			<Text>Srivijayan</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_18_MINOR_NAME">
+			<Text>Oirat</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_19_MINOR_NAME">
+			<Text>Rus'</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_20_MINOR_NAME">
+			<Text>Danish</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_11_MAJOR_NAME">
+			<Text>Istakhr</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_12_MAJOR_NAME">
+			<Text>Kannauj</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_13_MAJOR_NAME">
+			<Text>Kamakura</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_14_MAJOR_NAME">
+			<Text>Shangjing</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_15_MAJOR_NAME">
+			<Text>Gaegyeong</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_16_MAJOR_NAME">
+			<Text>Samarkand</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_17_MAJOR_NAME">
+			<Text>Muara Jambi</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_18_MAJOR_NAME">
+			<Text>Dzungaria</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_19_MAJOR_NAME">
+			<Text>Kiev</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_20_MAJOR_NAME">
+			<Text>Roskilde</Text>
+		</Row>
+		<!-- Entries 21-30 -->
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_21_MINOR_NAME">
+			<Text>Burgundian</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_22_MINOR_NAME">
+			<Text>Venetian</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_23_MINOR_NAME">
+			<Text>Papal State</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_24_MINOR_NAME">
+			<Text>Magyar</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_25_MINOR_NAME">
+			<Text>Lithuanian</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_26_MINOR_NAME">
+			<Text>Swedish</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_27_MINOR_NAME">
+			<Text>Sican</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_28_MINOR_NAME">
+			<Text>Slavic</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_29_MINOR_NAME">
+			<Text>Ilkhanid</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_30_MINOR_NAME">
+			<Text>Gujaradesa</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_21_MAJOR_NAME">
+			<Text>Arles</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_22_MAJOR_NAME">
+			<Text>Venice</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_23_MAJOR_NAME">
+			<Text>Vatican City</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_24_MAJOR_NAME">
+			<Text>Etelköz</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_25_MAJOR_NAME">
+			<Text>Vilnius</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_26_MAJOR_NAME">
+			<Text>Stockholm</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_27_MAJOR_NAME">
+			<Text>Tucume</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_28_MAJOR_NAME">
+			<Text>Karantanija</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_29_MAJOR_NAME">
+			<Text>Tabriz</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_30_MAJOR_NAME">
+			<Text>Avanti</Text>
+		</Row>
+		<!-- Entries 31-40 -->
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_31_MINOR_NAME">
+			<Text>Pallava</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_32_MINOR_NAME">
+			<Text>Byzantine</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_33_MINOR_NAME">
+			<Text>Umayyad</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_34_MINOR_NAME">
+			<Text>Ottoman</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_35_MINOR_NAME">
+			<Text>Rashidun</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_36_MINOR_NAME">
+			<Text>Seljuk</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_37_MINOR_NAME">
+			<Text>Safavid</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_38_MINOR_NAME">
+			<Text>Khwarazm</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_39_MINOR_NAME">
+			<Text>Mixtec</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_40_MINOR_NAME">
+			<Text>Zapotec</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_31_MAJOR_NAME">
+			<Text>Mamallapuram</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_32_MAJOR_NAME">
+			<Text>Constantinople</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_33_MAJOR_NAME">
+			<Text>Damascus</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_34_MAJOR_NAME">
+			<Text>Istanbul</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_35_MAJOR_NAME">
+			<Text>Medina</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_36_MAJOR_NAME">
+			<Text>Nishapur</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_37_MAJOR_NAME">
+			<Text>Isfahan</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_38_MAJOR_NAME">
+			<Text>Kath</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_39_MAJOR_NAME">
+			<Text>Tilantongo</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_40_MAJOR_NAME">
+			<Text>Monte Albán</Text>
+		</Row>
+		<!-- Entries 41-50 -->
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_41_MINOR_NAME">
+			<Text>Powhatan</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_42_MINOR_NAME">
+			<Text>Taíno</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_43_MINOR_NAME">
+			<Text>Wyandot</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_44_MINOR_NAME">
+			<Text>Haudenosaunee</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_45_MINOR_NAME">
+			<Text>Kalinago</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_46_MINOR_NAME">
+			<Text>Seminole</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_47_MINOR_NAME">
+			<Text>Flying Gang</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_48_MINOR_NAME">
+			<Text>Mexica</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_49_MINOR_NAME">
+			<Text>Muisca</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_50_MINOR_NAME">
+			<Text>Mapuche</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_41_MAJOR_NAME">
+			<Text>Werowocomoco</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_42_MAJOR_NAME">
+			<Text>Camagüey</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_43_MAJOR_NAME">
+			<Text>Ossossané</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_44_MAJOR_NAME">
+			<Text>Onondaga</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_45_MAJOR_NAME">
+			<Text>Wai'tu Kubuli</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_46_MAJOR_NAME">
+			<Text>Alachua</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_47_MAJOR_NAME">
+			<Text>Nassau</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_48_MAJOR_NAME">
+			<Text>Tenochtitlan</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_49_MAJOR_NAME">
+			<Text>Hunza</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_50_MAJOR_NAME">
+			<Text>Ngulu Mapu</Text>
+		</Row>
+		<!-- Entries 51-60 -->
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_51_MINOR_NAME">
+			<Text>Dayak</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_52_MINOR_NAME">
+			<Text>Ava</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_53_MINOR_NAME">
+			<Text>Pagan</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_54_MINOR_NAME">
+			<Text>Sulu</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_55_MINOR_NAME">
+			<Text>Lanna</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_56_MINOR_NAME">
+			<Text>Tondo</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_57_MINOR_NAME">
+			<Text>Lan Xang</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_58_MINOR_NAME">
+			<Text>Ayutthaya</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_59_MINOR_NAME">
+			<Text>Kulin</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_60_MINOR_NAME">
+			<Text>Arrernte</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_51_MAJOR_NAME">
+			<Text>Nansarunai</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_52_MAJOR_NAME">
+			<Text>Ava</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_53_MAJOR_NAME">
+			<Text>Pagan</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_54_MAJOR_NAME">
+			<Text>Buansa</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_55_MAJOR_NAME">
+			<Text>Chiang Mai</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_56_MAJOR_NAME">
+			<Text>Tondo</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_57_MAJOR_NAME">
+			<Text>Luang Prabang</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_58_MAJOR_NAME">
+			<Text>Ayutthaya</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_59_MAJOR_NAME">
+			<Text>Birrarung</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_60_MAJOR_NAME">
+			<Text>Mparntwe</Text>
+		</Row>
+		<!-- Entries 61-->
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_61_MINOR_NAME">
+			<Text>Rapa Nui</Text>
+		</Row>
+		<Row Tag="LOC_INDEPENDENT_EXPLORATION_61_MAJOR_NAME">
+			<Text>Anakena</Text>
+		</Row>
+		<!-- City-State Bonuses-->
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_1_NAME">
+			<Text>Kasbah</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_2_NAME">
+			<Text>Expeditionary Warfare</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_3_NAME">
+			<Text>Longbow</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_4_NAME">
+			<Text>Corsair</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_5_NAME">
+			<Text>Free Companies</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_6_NAME">
+			<Text>Stone Head</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_7_NAME">
+			<Text>Suai</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_8_NAME">
+			<Text>Philatory</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_9_NAME">
+			<Text>Dhimmi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_10_NAME">
+			<Text>Church Hierarchy</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_11_NAME">
+			<Text>Company Post</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_12_NAME">
+			<Text>Gbara</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_13_NAME">
+			<Text>Spice Islands</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_14_NAME">
+			<Text>Territorial Claims</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_15_NAME">
+			<Text>Guosuo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_16_NAME">
+			<Text>Monastery</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_17_NAME">
+			<Text>Free Inquiry</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_18_NAME">
+			<Text>Natural Law</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_19_NAME">
+			<Text>Eureka!</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_20_NAME">
+			<Text>Reichskreise</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_1_DESCRIPTION">
+			<Text>Allows the construction of the Kasbah Unique Improvement. The Kasbah provides +1[icon:YIELD_CULTURE] Culture,[icon:YIELD_GOLD] Gold,[icon:YIELD_SCIENCE] and Science. +3 Combat Strength to Units in this tile. Must be placed in Desert.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_2_DESCRIPTION">
+			<Text>Commanders in Distant Lands earn double experience.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_3_DESCRIPTION">
+			<Text>+1 Ranged Combat Strength to Ranged and Siege Units for every City-State you are Suzerain of.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_4_DESCRIPTION">
+			<Text>Allows the training of the Corsair Naval Unit. The Corsair captures opposing Units.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_5_DESCRIPTION">
+			<Text>+1 Combat Strength to Infantry and Naval Units for every City-State you are Suzerain of.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_6_DESCRIPTION">
+			<Text>Allows the construction of the Stone Head Unique Improvement. The Stonehead provides +4[icon:YIELD_CULTURE] Culture. +1[icon:YIELD_CULTURE] Culture for every adjacent Stone Head. Must be placed on tiles with a natural Happiness yield.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_7_DESCRIPTION">
+			<Text>Culture Buildings receive +1[icon:YIELD_CULTURE] Culture for every City-State you are Suzerain of.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_8_DESCRIPTION">
+			<Text>Receive a Relic.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_9_DESCRIPTION">
+			<Text>+1 Social Policy slot.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_10_DESCRIPTION">
+			<Text>+20%[icon:YIELD_PRODUCTION] Production towards constructing Temples for every City-State you are Suzerain of.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_11_DESCRIPTION">
+			<Text>Allows the construction of the Company Post Unique Improvement. The Company Post provides +4[icon:YIELD_GOLD] Gold. +1[icon:YIELD_FOOD] Food and[icon:YIELD_PRODUCTION] Production in Distant Lands. +2 Gold if there is at least one Resource assigned to this Settlement. Cannot be adjacent to another Company Post.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_12_DESCRIPTION">
+			<Text>Gold Buildings receive +1[icon:YIELD_GOLD] Gold for every City-State you are Suzerain of.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_13_DESCRIPTION">
+			<Text>Receive the Cloves Resource in the Capital. Cloves provides +6[icon:YIELD_FOOD] Food and +10%[icon:YIELD_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_14_DESCRIPTION">
+			<Text>+5%[icon:YIELD_GOLD] Gold for every City-State you are Suzerain of.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_15_DESCRIPTION">
+			<Text>+5 Trade Route range for every City-State you are Suzerain of.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_16_DESCRIPTION">
+			<Text>Allows the construction of the Monastery Unique Improvement. The Monastery provides +4[icon:YIELD_SCIENCE] Science. +3[icon:YIELD_HAPPINESS] Happiness if this Settlement follows your Religion. Cannot be placed adjacent to a District.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_17_DESCRIPTION">
+			<Text>Science Buildings receive +1[icon:YIELD_SCIENCE] Science for every City-State you are Suzerain of.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_18_DESCRIPTION">
+			<Text>+5%[icon:YIELD_SCIENCE] Science for every City-State you are Suzerain of.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_19_DESCRIPTION">
+			<Text>Receive a Population in your Capital when you become Suzerain of a City-State, including this one.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_BONUS_EXPLORATION_20_DESCRIPTION">
+			<Text>Receive a free Technology when you become Suzerain of a City-State, including this one.</Text>
+		</Row>
+	</EnglishText>
+</Database>

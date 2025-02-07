@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_RELIGION_BUDDHISM_NAME">
+			<Text>Buddhism</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_CATHOLICISM_NAME">
+			<Text>Catholicism</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_CONFUCIANISM_NAME">
+			<Text>Confucianism</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_HINDUISM_NAME">
+			<Text>Hinduism</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_ISLAM_NAME">
+			<Text>Islam</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_JUDAISM_NAME">
+			<Text>Judaism</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_ORTHODOXY_NAME">
+			<Text>Orthodoxy</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_PROTESTANTISM_NAME">
+			<Text>Protestantism</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_SHINTO_NAME">
+			<Text>Shinto</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_SIKHISM_NAME">
+			<Text>Sikhism</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_TAOISM_NAME">
+			<Text>Taoism</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_ZOROASTRIANISM_NAME">
+			<Text>Zoroastrianism</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_CUSTOM_NAME">
+			<Text>Custom Religion</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_EDIT_CUSTOM_NAME">
+			<Text>Create Name for Religion</Text>
+		</Row>
+		<!--BELIEF CLASSES-->
+		<Row Tag="LOC_BELIEF_CLASS_FOUNDER_NAME">
+			<Text>Founder</Text>
+		</Row>
+		<!--BELIEF CHOOSER TEXT-->
+		<Row Tag="LOC_UI_BELIEF_CHOOSER_TITLE">
+			<Text>Choose 1 Belief</Text>
+		</Row>
+		<Row Tag="LOC_UI_BELIEF_CHOOSER_SUBTITLE">
+			<Text>Religion</Text>
+		</Row>
+		<Row Tag="LOC_UI_BELIEF_CHOOSER_CONFIRM">
+			<Text>Use this Belief</Text>
+		</Row>
+		<!--Belief Names Enhancer-->
+		<Row Tag="LOC_BELIEF_BONUS_1_NAME">
+			<Text>Conversion</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_2_NAME">
+			<Text>Stella Maris</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_3_NAME">
+			<Text>Defender of the Faith</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_4_NAME">
+			<Text>Millenarianism</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_5_NAME">
+			<Text>Dawah</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_6_NAME">
+			<Text>Zeal</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_7_NAME">
+			<Text>Scripture</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_8_NAME">
+			<Text>Sanctum</Text>
+		</Row>
+		<!--Belief Names Reliquary-->
+		<Row Tag="LOC_BELIEF_BONUS_9_NAME">
+			<Text>Icons</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_10_NAME">
+			<Text>Brahmanism</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_11_NAME">
+			<Text>Reliquaries</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_12_NAME">
+			<Text>Apostolism</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_13_NAME">
+			<Text>Evangelism</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_14_NAME">
+			<Text>Charoen</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_15_NAME">
+			<Text>Lay Followers</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_16_NAME">
+			<Text>Ecclesiasticism</Text>
+		</Row>
+		<!--Belief Names Founder-->
+		<Row Tag="LOC_BELIEF_BONUS_17_NAME">
+			<Text>Interfaith Dialogue</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_18_NAME">
+			<Text>Stewardship</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_19_NAME">
+			<Text>Shrines of the Kami</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_20_NAME">
+			<Text>Tithe</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_21_NAME">
+			<Text>Holy Ecumene</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_22_NAME">
+			<Text>Reincarnation</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_23_NAME">
+			<Text>Shamanism </Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_24_NAME">
+			<Text>Desert Faith</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_25_NAME">
+			<Text>Vipassana</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_26_NAME">
+			<Text>Holy Waters</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_27_NAME">
+			<Text>Sacred Herds </Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_28_NAME">
+			<Text>Sky Gods</Text>
+		</Row>
+		<!--Belief Descriptions Enhancer-->
+		<Row Tag="LOC_BELIEF_BONUS_1_DESCRIPTION">
+			<Text>Newly founded Towns in Distant Lands start with this Religion in place.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_2_DESCRIPTION">
+			<Text>+2 movement to Missionaries when Embarked. All Naval and Embarked Units receive +1 movement.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_3_DESCRIPTION">
+			<Text>Units gain +5 Combat Strength in friendly Settlements that follow this Religion.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_3_COMBAT_PREVIEW">
+			<Text>+{1_Amount} Defender of the Faith Belief</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_4_DESCRIPTION">
+			<Text>Conquered Settlements are converted to your Religion.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_5_DESCRIPTION">
+			<Text>When a Trade Route is established to a Settlement, it is converted to your Religion.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_6_DESCRIPTION">
+			<Text>Missionaries receive +1 Charge.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_7_DESCRIPTION">
+			<Text>+10% [icon:YIELD_PRODUCTION] Production towards training Missionaries for every Relic.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_8_DESCRIPTION">
+			<Text>+1 Relic Slot in Temples in Cities</Text>
+		</Row>
+		<!--Belief Descriptions Reliquary-->
+		<Row Tag="LOC_BELIEF_BONUS_9_DESCRIPTION">
+			<Text>+2 Relic for first-time conversion of a City-State</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_10_DESCRIPTION">
+			<Text>+2 Relics for first-time conversion of another Civilization’s Capital city</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_11_DESCRIPTION">
+			<Text>+1 Relic for first-time conversion of another Civilization’s settlement with a Temple or Altar</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_12_DESCRIPTION">
+			<Text>+2 Relic for first-time conversion of another Civilization's settlement with a Wonder from any Age</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_13_DESCRIPTION">
+			<Text>+1 Relic for first-time conversion of another Civilization's settlement in Distant Lands that is not a City-State</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_14_DESCRIPTION">
+			<Text>+2 Relic for first-time conversion of another Civilization's settlement producing Treasure Fleets</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_15_DESCRIPTION">
+			<Text>+1 Relic for the first time conversion of another Civilization's settlement with at least 10 Rural Population</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_16_DESCRIPTION">
+			<Text>+1 Relic for the first time conversion of another Civilization's settlement with at least 10 Urban Population</Text>
+		</Row>
+		<!--Belief Descriptions Founder-->
+		<Row Tag="LOC_BELIEF_BONUS_17_DESCRIPTION">
+			<Text>+4[icon:YIELD_SCIENCE] Science for every foreign Settlement following your Religion. </Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_18_DESCRIPTION">
+			<Text>+8[icon:YIELD_CULTURE] Culture,[icon:YIELD_GOLD] Gold, and[icon:YIELD_SCIENCE] Science for every tile that has a Natural Wonder in  other Civilizations’ Settlements following your Religion.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_19_DESCRIPTION">
+			<Text>+4[icon:YIELD_CULTURE] Culture,[icon:YIELD_GOLD] Gold,[icon:YIELD_SCIENCE] and Science for every Wonder in other Civilizations’ Settlements following your Religion.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_20_DESCRIPTION">
+			<Text>+4[icon:YIELD_GOLD] Gold for every foreign Settlement following your Religion.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_21_DESCRIPTION">
+			<Text>+4[icon:YIELD_CULTURE] Culture for every foreign Settlement following your Religion.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_22_DESCRIPTION">
+			<Text>+2[icon:YIELD_SCIENCE] Science for every Tropical tile in other Civilizations’ Settlements following your Religion.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_23_DESCRIPTION">
+			<Text>+2[icon:YIELD_CULTURE] Culture for every Tundra tile in other Civilizations’ Settlements following your Religion.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_24_DESCRIPTION">
+			<Text>+2[icon:YIELD_GOLD] Gold for every Desert tile in other Civilizations’ Settlements following your Religion.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_25_DESCRIPTION">
+			<Text>+4[icon:YIELD_HAPPINESS] Happiness for every foreign Settlement following your Religion.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_26_DESCRIPTION">
+			<Text>+1[icon:YIELD_HAPPINESS] Happiness for every Marine tile in other Civilizations’ Settlements following your Religion.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_27_DESCRIPTION">
+			<Text>+1[icon:YIELD_SCIENCE] Science for every Grassland tile in other Civilizations’ Settlements following your Religion.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BONUS_28_DESCRIPTION">
+			<Text>+1[icon:YIELD_CULTURE] Culture for every Plains tile in other Civilizations’ Settlements following your Religion.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_REQUNLOCK_BONUS_17_DESCRIPTION">
+			<Text>Have the [B]Interfaith Dialogue [/B] Belief</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_REQUNLOCK_BONUS_18_DESCRIPTION">
+			<Text>Have the [B]Stewardship [/B] Belief</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_REQUNLOCK_BONUS_19_DESCRIPTION">
+			<Text>Have the [B]Shrines of the Kami [/B] Belief</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_REQUNLOCK_BONUS_20_DESCRIPTION">
+			<Text>Have the [B]Tithe [/B] Belief</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_REQUNLOCK_BONUS_21_DESCRIPTION">
+			<Text>Have the [B]Holy Ecumene [/B] Belief</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_REQUNLOCK_BONUS_22_DESCRIPTION">
+			<Text>Have the [B]Reincarnation [/B] Belief</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_REQUNLOCK_BONUS_23_DESCRIPTION">
+			<Text>Have the [B]Shamanism [/B] Belief</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_REQUNLOCK_BONUS_24_DESCRIPTION">
+			<Text>Have the [B]Desert Faith [/B] Belief</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_REQUNLOCK_BONUS_25_DESCRIPTION">
+			<Text>Have the [B]Vipassana [/B] Belief</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_REQUNLOCK_BONUS_26_DESCRIPTION">
+			<Text>Have the [B]Holy Waters [/B] Belief</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_REQUNLOCK_BONUS_27_DESCRIPTION">
+			<Text>Have the [B]Sacred Herds [/B] Belief</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_REQUNLOCK_BONUS_28_DESCRIPTION">
+			<Text>Have the [B]Sky Gods [/B] Belief</Text>
+		</Row>
+		<!--Religion Float Text-->
+		<Row Tag="LOC_WORLD_RELIGION_URBAN_FLOATER">
+			<Text>{1_ReligionName} Urban</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RELIGION_RURAL_FLOATER">
+			<Text>{1_ReligionName} Rural</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RELIGION_INCREASE_FLOATER">
+			<Text>{1_ReligionName} Majority</Text>
+		</Row>
+	</EnglishText>
+</Database>

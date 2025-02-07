@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<!-- Feudal Monarchy -->
+		<Row Tag="LOC_GOLDEN_AGE_FEUDAL_MONARCHY_NAME">
+			<Text>Feudal Monarchy</Text>
+		</Row>
+		<Row Tag="LOC_GOLDEN_AGE_FEUDAL_MONARCHY_1_DESCRIPTION">
+			<Text>+20%[icon:YIELD_FOOD] Food for {1_numTurns} Turns.</Text>
+		</Row>
+		<Row Tag="LOC_GOLDEN_AGE_FEUDAL_MONARCHY_2_DESCRIPTION">
+			<Text>+30%[icon:YIELD_PRODUCTION] Production towards training Cavalry and Naval Units for {1_numTurns} Turns.</Text>
+		</Row>
+		<!-- Plutocracy -->
+		<Row Tag="LOC_GOLDEN_AGE_PLUTOCRACY_NAME">
+			<Text>Plutocracy</Text>
+		</Row>
+		<Row Tag="LOC_GOLDEN_AGE_PLUTOCRACY_1_DESCRIPTION">
+			<Text>+20%[icon:YIELD_GOLD] Gold for {1_numTurns} Turns.</Text>
+		</Row>
+		<Row Tag="LOC_GOLDEN_AGE_PLUTOCRACY_2_DESCRIPTION">
+			<Text>+30%[icon:YIELD_PRODUCTION] Production towards Overbuilding for {1_numTurns} Turns.</Text>
+		</Row>
+		<!-- Theocracy -->
+		<Row Tag="LOC_GOLDEN_AGE_THEOCRACY_NAME">
+			<Text>Theocracy</Text>
+		</Row>
+		<Row Tag="LOC_GOLDEN_AGE_THEOCRACY_1_DESCRIPTION">
+			<Text>+20%[icon:YIELD_CULTURE] Culture for {1_numTurns} Turns.</Text>
+		</Row>
+		<Row Tag="LOC_GOLDEN_AGE_THEOCRACY_2_DESCRIPTION">
+			<Text>+40%[icon:YIELD_PRODUCTION] Production towards Civilian and Support Units for {1_numTurns} Turns.</Text>
+		</Row>
+		<!-- Crisis Governments -->
+		<Row Tag="LOC_GOLDEN_AGE_REVOLUTIONARY_AUTHORITARIANISM_NAME">
+			<Text>Revolutionary Authoritarianism</Text>
+		</Row>
+		<Row Tag="LOC_GOLDEN_AGE_CONSTITUTIONAL_MONARCHY_NAME">
+			<Text>Constitutional Monarchy</Text>
+		</Row>
+		<Row Tag="LOC_GOLDEN_AGE_REVOLUTIONARY_REPUBLIC_NAME">
+			<Text>Revolutionary Republic</Text>
+		</Row>
+		<Row Tag="LOC_GOLDEN_AGE_REVOLUTIONARY_AUTHORITARIANISM_1_DESCRIPTION">
+			<Text>+100%[icon:YIELD_PRODUCTION] Production towards training Military Units for {1_numTurns} Turns.</Text>
+		</Row>
+		<Row Tag="LOC_GOLDEN_AGE_REVOLUTIONARY_AUTHORITARIANISM_2_DESCRIPTION">
+			<Text>+6 War Support on wars you declare for {1_numTurns} Turns.</Text>
+		</Row>
+		<Row Tag="LOC_GOLDEN_AGE_CONSTITUTIONAL_MONARCHY_1_DESCRIPTION">
+			<Text>+40%[icon:YIELD_GOLD] Gold for {1_numTurns} Turns.</Text>
+		</Row>
+		<Row Tag="LOC_GOLDEN_AGE_CONSTITUTIONAL_MONARCHY_2_DESCRIPTION">
+			<Text>+100%[icon:YIELD_DIPLOMACY] Influence towards initiating Diplomatic Endeavors for {1_numTurns} Turns.</Text>
+		</Row>
+		<Row Tag="LOC_GOLDEN_AGE_REVOLUTIONARY_REPUBLIC_1_DESCRIPTION">
+			<Text>+20%[icon:YIELD_CULTURE] Culture and[icon:YIELD_SCIENCE] Science for {1_numTurns} Turns.</Text>
+		</Row>
+		<Row Tag="LOC_GOLDEN_AGE_REVOLUTIONARY_REPUBLIC_2_DESCRIPTION">
+			<Text>+100%[icon:YIELD_DIPLOMACY] Influence towards initiating Diplomatic Sanctions for {1_numTurns} Turns.</Text>
+		</Row>
+	</EnglishText>
+</Database>

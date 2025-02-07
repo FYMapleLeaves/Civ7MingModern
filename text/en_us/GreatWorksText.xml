@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<!--Relics-->
+		<Row Tag="LOC_GREATWORK_RELIC_NAME">
+			<Text>Relic</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_DESCRIPTION">
+			<Text>+2 Culture and +2 Happiness</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_AMIDA_NAME">
+			<Text>Amida Buddha</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_BLOODSTAINEDRAG_NAME">
+			<Text>Bloodstained Rag</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CHAINS_NAME">
+			<Text>Chains</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CASKET1_NAME">
+			<Text>Casket</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_FOOTPRINT_NAME">
+			<Text>Footprint</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CROSS_NAME">
+			<Text>Grapevine Cross</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KAPALACUP_NAME">
+			<Text>Kapala Cup</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KRISKNIFE_NAME">
+			<Text>Kris Knife</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MEDICINEBAG_NAME">
+			<Text>Medicine Bag</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SPLINTER_NAME">
+			<Text>Wooden Cross</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ROBES_NAME">
+			<Text>Robes</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CASKET2_NAME">
+			<Text>Casket</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SANDALS_NAME">
+			<Text>Sandals</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SHOFAR_NAME">
+			<Text>Shofar</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SKULL_NAME">
+			<Text>Skull</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_STAFF_NAME">
+			<Text>Staff</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_THERAVADABUDDHA_NAME">
+			<Text>Theravada Buddha</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TJURUNGA_NAME">
+			<Text>Tjurunga Stone</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TOOTH_NAME">
+			<Text>Tooth</Text>
+		</Row>
+		<!-- Uniquely Named Great Works-->
+		<Row Tag="LOC_GREATWORK_RELIC_BRASS_PLATES_NAME">
+			<Text>Brass Plates</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_SHROUD_NAME">
+			<Text>Secret Shroud</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_LOST_GOLD_RELIC_NAME">
+			<Text>Lost Gold Relic</Text>
+		</Row>
+	</EnglishText>
+</Database>

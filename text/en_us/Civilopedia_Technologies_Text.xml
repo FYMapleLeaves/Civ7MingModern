@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+
+		<!-- Exploration Technologies -->
+		<!-- TECHNOLOGY_CARTOGRAPHY -->
+		<Row Tag="LOC_PEDIA_PAGE_NODE_TECH_EX_CARTOGRAPHY_CHAPTER_HISTORY_PARA_1">
+			<Text>In many places, early maps were not attempts to make a hand-drawn representation of Earth's landscapes as could have been observed by ancient satellites. Rather, they were heuristics for how to get from one place to another. Ancient maps have been found carved on mammoth ivory or in stelae since the Pleistocene. Other maps were religious representations, featuring a divine leader or cosmos at the center of the world orbited by lesser places and powers. With a calculation of the Earth’s circumference in classical antiquity in China and the Mediterranean, early mapmakers sought to depict land, water, mountains, and deserts from a top-down perspective. Arab cartographers (from whom we get the term “mile”) were especially interested in being accurate, making maps an increasingly indispensable tool for travel and conquest.</Text>
+		</Row>
+		<!-- TECHNOLOGY_ARCHITECTURE -->
+		<Row Tag="LOC_PEDIA_PAGE_NODE_TECH_EX_ARCHITECTURE_CHAPTER_HISTORY_PARA_1">
+			<Text>Architecture has been practiced since our ancestors first raised houses of mammoth bone and hides. For millennia, humans have been determining how to lift a roof thick enough to keep snow out and heat in, how to raise walls strong enough to keep intruders out, and how to inspire each other in this overall design. Architecture during the Middle Ages included the innovations of the flying buttress (support columns that existed outside of a structure), which allowed for thinner walls; expansive cathedral windows; the massive domes of the Islamic world; giant pagodas; and functional planned cities. While engineers such as the Egyptian tjaty Imhotep designed the wonders of the ancient world, new materials allowed for new styles of construction, and the scale of global interconnection meant that European cathedrals integrated Islamic elements while Chinese styles influenced Vietnamese and Japanese construction. Architects became professional planners, incorporating mathematical concepts in a direct way to create new innovations.</Text>
+		</Row>
+		<!-- TECHNOLOGY_EDUCATION -->
+		<Row Tag="LOC_PEDIA_PAGE_NODE_TECH_EX_EDUCATION_CHAPTER_HISTORY_PARA_1">
+			<Text>Recounting a history of education is impossible. Humans have always taught and are always learning. Schools were formed in ancient Egypt and Mesopotamia, and educational institutions broadened through the years, often associated with religious education (e.g. the Muslim madrasa) or entrance into a formalized trade (e.g. the Confucian academy). Buddhist schools in Southeast Asia ensured a high literacy rate – at least for boys. In the 19th century, the growth of urbanization and industrialization provided a simultaneous growth of education for all.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_NODE_TECH_EX_EDUCATION_CHAPTER_HISTORY_PARA_2">
+			<Text>But what is the function of education? Monastic education stressed the religious values and practices of particular groups, whereas education in authoritarian regimes focused on inculcating pride in the nation. Vocational or guild-based apprenticeship taught a particular trade, with the goal of creating productive workers. It was only later, with the advent of liberalism and humanism, that the idea that all citizens should have a basic understanding of the world took root.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_NODE_TECH_EX_EDUCATION_CHAPTER_HISTORY_PARA_3">
+			<Text>“Education” here reflects a middle ground. This is not (but perhaps the beginnings of) the vast public school system that became a standard feature of industrialized societies. Nor is it the early specialized schools or apprenticeship programs, but rather a midway point in between.</Text>
+		</Row>
+		<!-- TECHNOLOGY_FEUDALISM -->
+		<Row Tag="LOC_PEDIA_PAGE_NODE_TECH_EX_FEUDALISM_CHAPTER_HISTORY_PARA_1">
+			<Text>Monarchical systems place one person – or family – at the head of the state. These positions can be elective or inherited, but the notion is that the state is being placed into the hands of the best possible person to manage it. A feudal monarchy is a fractalized version of this – the monarch rules lesser lords, who in turn may rule minor nobles (e.g. an emperor rules kings, kings rule dukes, dukes rule earls, earls rule counts, and counts rule barons). Each seat on this scale is responsible for military upkeep – the king only has to send out the rallying call, and loyalty dictates that each minor noble shows up with his or her own army.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_NODE_TECH_EX_FEUDALISM_CHAPTER_HISTORY_PARA_2">
+			<Text>In a feudal model, people are linked to land as feudalism is an agricultural model of governance. In turn, people have particular duties to the land – a serf’s family manages agriculture (and provides labor for royal projects or during war), whereas a lord offers protection and links the serfs to the state. Some may escape this system through a life of travel, such as merchants or journeyman artisans, figures who become more and more important as feudal systems collapse. As trade grew more prosperous, non-serfs grew more powerful and demanded a system that was less confining.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_NODE_TECH_EX_FEUDALISM_CHAPTER_HISTORY_PARA_3">
+			<Text>Medieval Europe and Japan are classic examples of the feudal model. South Asia was dominated by other systems, sometimes also labeled “feudal,” where nobles controlled populations, not necessarily land, and nobility wasn't always tied to an old family from a particular place, but were increasingly distant blood relations with a central court.</Text>
+		</Row>
+		<!-- TECHNOLOGY_MACHINERY -->
+		<Row Tag="LOC_PEDIA_PAGE_NODE_TECH_EX_MACHINERY_CHAPTER_HISTORY_PARA_1">
+			<Text>Machines alter force. For example, a pulley converts downward motion into upward motion. A lever magnifies force upon a fixed point. A wedge (an axe) transfers downward motion (a chop) into lateral motion (the splitting of wood). These three systems, along with the wheel, the inclined plane, and the screw, are the “six simple machines” identified by Renaissance-era engineers that arose early in human history. The technology of machinery here refers to the use of simple machines in everyday life. For instance, a crossbow with a winch employs a wheel to produce greater tensile strength than a hand-drawn bow, but the same basic concept could be used on a larger scale to hoist a heavy stone block or wind an onager. Machinery, and the science of engineering, allows humans to escape the limitations of our muscles (which also work on mechanical principles such as leverage and tensile strength) and build things that are otherwise impossible.</Text>
+		</Row>
+		<!-- TECHNOLOGY_METALLURGY -->
+		<Row Tag="LOC_PEDIA_PAGE_NODE_TECH_EX_METALLURGY_CHAPTER_HISTORY_PARA_1">
+			<Text>The Iron Age and the Bronze Age are common terms, but these metals do not come out of the ground in this pure state (except with the rare instance of meteoric iron). Only gold, silver, and copper (metals often used in coinage) are found in undiluted forms. Humans had to smelt metals like iron and bronze to make the most of them. As technology advanced, our methods of doing this improved. Steel, an alloy of iron and carbon, is one of the most significant developments of advanced metallurgy, requiring a furnace of extremely high heat to form sharper, more durable instruments. Early ironworking sometimes created metals with some quantity of steel, such as the famed wootz steel of South Asia (called Damascus steel in Europe) but intensive metallurgy really took off in Song China in the medieval period.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_NODE_TECH_EX_METALLURGY_CHAPTER_HISTORY_PARA_2">
+			<Text>Metallurgy offered other benefits. Alchemists may have sought the mythical philosopher’s stone, but their metalworking techniques brought them notoriety that surpassed the accusations of magic and witchcraft – messing with a country’s coinage base is dangerous work.</Text>
+		</Row>
+		<!-- TECHNOLOGY_METAL_CASTING -->
+		<Row Tag="LOC_PEDIA_PAGE_NODE_TECH_EX_METAL_CASTING_CHAPTER_HISTORY_PARA_1">
+			<Text>The process of casting metal isn’t new to the early modern period; it took off in the later part of the second millennium BCE. The process involves pouring molten metal into molds to form complex shapes that are difficult to achieve via the old process of hammering, heating, and bending. While forged metal is generally stronger than cast metal, casting is easy to mass produce, which has become increasingly important as populations expand.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_NODE_TECH_EX_METAL_CASTING_CHAPTER_HISTORY_PARA_2">
+			<Text>Shang, Zhou, and Qin Dynasties – the earliest Chinese dynasties – cast metal, and the Colossus of Rhodes was even cast of bronze. The boom in cathedral construction in medieval Europe relied heavily upon cast metal pieces, leading to an increase in experimentation. In 1313, this took a dark turn with the casting of the first iron cannon (by, ironically, a monk).</Text>
+		</Row>
+		<!-- TECHNOLOGY_ASTRONOMY -->
+		<Row Tag="LOC_PEDIA_PAGE_NODE_TECH_EX_ASTRONOMY_CHAPTER_HISTORY_PARA_1">
+			<Text>Imagine the night sky in a world lit by fire. Above all the dirt exists the heavens – pinpricks of flawless light moving in a constant pattern. It is little wonder that astronomy and astrology were linked by people such as the Greeks and Maya. The movement of the stars had to mean something important – had to be connected to the ineffable systems of reality: fate, disease, weather, fortune. In the ancient era, astronomy was performed with the naked eye, often using artificial structures (e.g. the rocks at Stonehenge or the markers on Maya observatories) to observe the rising points of significant astronomical features. Once astronomers noticed a pattern in the sky's movements, new calculations could be made, which required ever more advanced mathematical theories. These theories would eventually bear fruit during the Islamic Golden Age and form the basis of much of our mathematical knowledge today.</Text>
+		</Row>
+		<!-- TECHNOLOGY_CASTLES -->
+		<Row Tag="LOC_PEDIA_PAGE_NODE_TECH_EX_CASTLES_CHAPTER_HISTORY_PARA_1">
+			<Text>It is very hard to knock down a stone fortress with only a sword. Castles were the solution to a landscape plagued by enemies and threats. While the lands outside a castle's walls could be despoiled, everything really valuable, including peasants and livestock, could be gathered inside those walls. This system was intimately connected with feudalism, as the responsibility for local protection fell upon local lords, especially in times when a centralized state was weak.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_NODE_TECH_EX_CASTLES_CHAPTER_HISTORY_PARA_2">
+			<Text>Castles are traditionally defined as fortified private residences. Historically, the stereotypical castle emerged in the later part of the first millennium CE, and the Norman practice of bringing stone castle technology to England was a key factor in their conquest. In Asia, where feudal systems predominated (e.g. Sengoku Japan), castles also became important features of the political landscape.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_NODE_TECH_EX_CASTLES_CHAPTER_HISTORY_PARA_3">
+			<Text>While castles provided ample protection against swords, they were less effective against gunpowder. As weaponry became more and more advanced, larger and larger fortifications were required for security; when weapons took to the skies, castles were rendered entirely obsolete.</Text>
+		</Row>
+		<!-- TECHNOLOGY_HERALDRY -->
+		<Row Tag="LOC_PEDIA_PAGE_NODE_TECH_EX_HERALDRY_CHAPTER_HISTORY_PARA_1">
+			<Text>In feudal systems, loyalty was tied to family – a single dynasty might control a section of land, be pledged to a particular king, and produce second sons or other branches of the family tree with their own ambitions. Certain nobles might gain particular honors or recognition, and incorporating these into coats-of-arms provided a family legacy. These coats-of-arms, or at least their colors, informed the dress of the people (e.g. soldiers) in a lord’s employ, as they invested authority onto a retainer or soldier, allowing others to recognize their political affiliation at a glance.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_NODE_TECH_EX_HERALDRY_CHAPTER_HISTORY_PARA_2">
+			<Text>Commonly understood heraldic systems emerged during the Middle Ages in Europe, but other feudal systems existed elsewhere, such as the Japanese clan symbols (mon) or the Turkic tamga, a less elaborated but otherwise similar way to associate a family to an image.</Text>
+		</Row>
+		<!-- TECHNOLOGY_URBAN_PLANNING -->
+		<Row Tag="LOC_PEDIA_PAGE_NODE_TECH_EX_URBAN_PLANNING_CHAPTER_HISTORY_PARA_1">
+			<Text>In the mid-19th century, Baron Haussmann took out a pen and sliced Paris to shreds. Rambling alleys were replaced with broad avenues, cholera-plagued slums gained new sewage systems, and barricade-prone streets were replaced with open spaces. His detractors believed he'd laid the foundations for autocracy under a would-be autocrat; his defenders felt he had created the “City of Light” out of a dark and pestilential medieval city. Haussmann had devised the quintessential modern urban plan. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_NODE_TECH_EX_URBAN_PLANNING_CHAPTER_HISTORY_PARA_2">
+			<Text>And yet, urban plans have long existed, from the regulated districts of ancient Harappa to the mandala configurations of Kandy to the grid of Heian-era Kyoto to the Persian capital at Parsa. Here, urban planning identifies urban design as a science, governed by a system of rationality, incorporating infrastructure, sanitation, housing, etc. However, when comparing older cities with Brasilia or other high-modern cities, one wonders if modernism is its own religion.</Text>
+		</Row>
+		<!-- TECHNOLOGY_GUNPOWDER -->
+		<Row Tag="LOC_PEDIA_PAGE_NODE_TECH_EX_GUNPOWDER_CHAPTER_HISTORY_PARA_1">
+			<Text>Black powder – a combination of charcoal, sulfur, and saltpeter – first underwent experimentation in Tang China in the ninth century. Its initial application was in medicine, and its Chinese name, “fire medicine,” reflects this origin. However, its fame came in weapons: fire arrows initially, rockets during the Song Dynasty, and the innovations of Ming’s “divine engine” laboratory later. Chinese states warred against each other with new weapons – the fire lance, then various kinds of hard-shell bombs lobbed by trebuchet. Centuries of innovation and experimentation, and their deadly effects, landed like a bomb (appropriately enough) on the Eurasian field when the Mongols brought along gunpowder during their invasions. Suddenly, the military landscape was transformed, and Arab powers began using gunpowder as early as 1240. During the Ottoman campaigns into Europe, this technology moved even farther west, and by the 15th century, onagers and ballistae were quickly replaced by bombards and eventually cannons.</Text>
+		</Row>
+		<!-- TECHNOLOGY_GUILDS -->
+		<Row Tag="LOC_PEDIA_PAGE_NODE_TECH_EX_GUILDS_CHAPTER_HISTORY_PARA_1">
+			<Text>How do we evaluate the work of specialized trades? Can an engineer’s work be assessed by a panel of non-engineers? Can a historian’s? A judge’s? Should we leave such judgments to one person, or assess success based on immediate profit? The guild system attempted to move the regulation and organization of specialized trades into the hands of the artisans themselves. Workers of a craft used their specialized knowledge to train, evaluate, and regulate those entering the trade. Guilds arose in early Mesopotamia but became dominant during the Middle Ages. In the traditional system, an unskilled person, or apprentice, worked for a master for a time and was then released to ply the trade on their own as a journeyman before finally settling down to open their own shop. Guilds often controlled a monopoly on their trade and ran afoul of new, free-market notions that arose during the 16th and 17th centuries. Guilds operate in a very limited capacity today, although guild-like features are seen in a few industries, namely academia, where apprentices (graduate students) are trained and then released to wander (postdoctoral fellows or junior faculty) before settling down (tenured faculty). However, this system also is under pressure from market forces.</Text>
+		</Row>
+		<!-- TECHNOLOGY_SHIPBUILDING -->
+		<Row Tag="LOC_PEDIA_PAGE_NODE_TECH_EX_SHIPBUILDING_CHAPTER_HISTORY_PARA_1">
+			<Text>Just as sailing advanced in different ways throughout antiquity, the development of shipbuilding looked different in various places throughout the first millennium and a half CE. Polynesia remains one of the most impressive regions in history for shipbuilding: double-hulled Polynesian catamarans with crab-claw sails enabled people to journey vast distances across the Pacific – to Hawai’i, Rapa Nui, and perhaps beyond. While such voyages took place for thousands of years (Samoa was reached around 800 BCE) the expanses of the open ocean presented a serious challenge – for instance, consider the distances between the Cook Islands and Aotearoa (New Zealand) or even Hawai’i.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_NODE_TECH_EX_SHIPBUILDING_CHAPTER_HISTORY_PARA_2">
+			<Text>If the Pacific offered the challenge of distance, the waters of Europe presented other hardships – and opportunities. Norse longships featured benches for oarsmen and “clinker” hulls (made from overlapping planks). Their keels were flexible enough to ride the waves during a North Atlantic storm, but shallow enough to enable river travel and beach landings. These ships helped catapult the Norse into several centuries of raiding, trading, and widespread exploration. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_NODE_TECH_EX_SHIPBUILDING_CHAPTER_HISTORY_PARA_3">
+			<Text>But the Age of Sail was launched on the decks of caravels, carracks, and galleons. The Portuguese carrack (nau) was a massive ship for its time, eschewing oar power for expanded sails and speed, ditching shallow water maneuverability for the chance to withstand open water storms. Notably, such impressive ships were often singular; in the 1500s, the Portuguese empire had only a handful of ships connecting a global trade route – a handful of holds carrying pepper, spices, and gold across a vast sea.</Text>
+		</Row>
+		<!-- TECHNOLOGY_FUTURE_TECH -->
+		<Row Tag="LOC_PEDIA_PAGE_NODE_TECH_EX_FUTURE_TECH_CHAPTER_HISTORY_PARA_1">
+			<Text>Ernst Bloch, in writing on hope, describes what he calls the “Not-Yet.” It is a thing which is felt, but not realized; imagined, but not seen. Strides in technology and political life rely upon this horizon of hope, and an ability to reach for and imagine the possibilities of what lies just beyond. This is the hope – and perhaps also fear – in imagining the unknown, but it is a hope that has allowed humanity to leave the confines of the Earth’s orbit, to unlock the secrets of our genetic code, and to seek to (perhaps so far unsuccessfully) create societies in which we can all flourish. Here is your future tech – now go study another.</Text>
+		</Row>
+	</EnglishText>
+</Database>

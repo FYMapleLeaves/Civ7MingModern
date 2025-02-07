@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameEffects xmlns="GameEffects">
+
+    <!-- Dark Age Effects -->
+    <Modifier id="CARD_AT_DARK_AGE_SCIENCE_1" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_PLAYER_GRANT_NARRATIVE_TAG" permanent="true">
+        <Argument name="NarrativeTagType">NARRATIVE_TAG_DARK_AGE_ALCHEMIST</Argument>
+        <Argument name="Amount">1</Argument>
+    </Modifier>
+    <Modifier id="CARD_AT_DARK_AGE_SCIENCE_2" collection="COLLECTION_OWNER" effect="EFFECT_PLAYER_ADJUST_YIELD">
+        <Argument name="YieldType">YIELD_SCIENCE</Argument>
+        <Argument name="Percent">-50</Argument>
+    </Modifier>
+    <Modifier id="CARD_AT_DARK_AGE_CULTURE_1" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_ADJUST_UNIT_SPREAD_CHARGES">
+        <Argument name="Amount">1</Argument>
+    </Modifier>
+    <Modifier id="CARD_AT_DARK_AGE_CULTURE_2" collection="COLLECTION_ALL_UNITS" effect="EFFECT_UNIT_ADJUST_MOVEMENT">
+        <SubjectRequirements>
+            <Requirement type="REQUIREMENT_UNIT_TAG_MATCHES">
+                <Argument name="Tag">UNIT_CLASS_RELIGIOUS</Argument>
+            </Requirement>
+        </SubjectRequirements>
+        <Argument name="Amount">1</Argument>
+    </Modifier>
+    <Modifier id="CARD_AT_DARK_AGE_CULTURE_3" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_YIELD">
+        <SubjectRequirements>
+            <Requirement type="REQUIREMENT_PLAYER_FOUNDED_RELIGION"/>
+        </SubjectRequirements>
+        <Argument name="YieldType">YIELD_HAPPINESS</Argument>
+        <Argument name="Amount">-3</Argument>
+    </Modifier>
+    <Modifier id="CARD_AT_DARK_AGE_CULTURE_4" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_YIELD">
+        <SubjectRequirements>
+            <Requirement type="REQUIREMENT_PLAYER_FOUNDED_RELIGION"/>
+            <Requirement type="REQUIREMENT_CITY_FOLLOWS_RELIGION" inverse="true">
+                <Argument name="hasReligion">true</Argument>
+            </Requirement>
+        </SubjectRequirements>
+        <Argument name="YieldType">YIELD_HAPPINESS</Argument>
+        <Argument name="Amount">-3</Argument>
+    </Modifier>
+    <Modifier id="CARD_AT_DARK_AGE_ECONOMIC_1" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_UNIT_ADJUST_ABILITY">
+        <SubjectRequirements>
+            <Requirement type="REQUIREMENT_UNIT_TYPE_MATCHES">
+                <Argument name="UnitType">UNIT_FLEET_COMMANDER</Argument>
+            </Requirement>
+        </SubjectRequirements>
+        <Argument name="AbilityType">ABILITY_ECONOMIC_DARK_AGE</Argument>
+    </Modifier>
+    <Modifier id="CARD_AT_DARK_AGE_ECONOMIC_1_ABILITY" collection="COLLECTION_OWNER" effect="EFFECT_GRANT_UNIT_ABILITY_CHARGE">
+        <SubjectRequirements>
+            <Requirement type="REQUIREMENT_COMMANDER_HAS_X_PROMOTIONS">
+                <Argument name="Amount">2</Argument>
+                <Argument name="OnPromotionInterval">true</Argument>
+            </Requirement>
+        </SubjectRequirements>
+        <Argument name="ChargedAbilityType">CHARGED_ABILITY_LAND_CLAIM</Argument>
+        <Argument name="Amount">1</Argument>
+    </Modifier>
+    <Modifier id="CARD_AT_DARK_AGE_ECONOMIC_2" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_UNIT_PRODUCTION">
+        <Argument name="Apply">Rate</Argument>
+        <Argument name="Percent">-50</Argument>
+        <Argument name="UnitType">UNIT_SETTLER</Argument>
+    </Modifier>
+    <Modifier id="CARD_AT_DARK_AGE_ECONOMIC_3" collection="COLLECTION_OWNER" effect="EFFECT_ADJUST_PLAYER_OR_CITY_UNIT_PURCHASE_EFFICIENCY">
+        <Argument name="UnitTag">UNIT_CLASS_CREATE_TOWN</Argument>
+        <Argument name="Percent">-50</Argument>
+    </Modifier>
+   
+    
+
+    <!-- Legend Cards -->
+    <!-- shared game effects found in advanced-start-gameeffects.xml for exploration -->
+
+</GameEffects>

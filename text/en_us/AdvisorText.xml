@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<Database>
+	<EnglishText>
+		<!--Watch Out Moments-->
+		<Row Tag="LOC_WARNING_OPPONENT_FIRST_TREASURE_MESSAGE">
+			<Text>The first of {1_LeaderName}'s Treasure Fleets has just reached their port safely. This is a step down the {LOC_LEGACY_PATH_EXPLORATION_ECONOMIC_NAME} Legacy Path for them; if we hope to succeed, we must establish our own Distant Lands settlements.</Text>
+		</Row>
+		<Row Tag="LOC_WARNING_OPPONENT_FIRST_TREASURE_SUMMARY">
+			<Text>Foreign Leader is Returning Treasure</Text>
+		</Row>
+		<Row Tag="LOC_WARNING_OPPONENT_FOREIGN_COLONIZATION_MESSAGE">
+			<Text>Our operatives report that {2_LeaderName} has established the settlement of {1_City} in Distant Lands. They may make pursuing {LOC_LEGACY_PATH_EXPLORATION_ECONOMIC_NAME} and {LOC_LEGACY_PATH_EXPLORATION_MILITARY_NAME} Legacy Paths more difficult. We must stay vigilant — rivalry can be fertile ground for war.</Text>
+		</Row>
+		<Row Tag="LOC_WARNING_OPPONENT_FOREIGN_COLONIZATION_SUMMARY">
+			<Text>Competing Power in Distant Lands</Text>
+		</Row>
+		<Row Tag="LOC_WARNING_DISTANT_LAND_CONVERSION_MESSAGE">
+			<Text>Another religion has taken root in {1_City} in Distant Lands, the populace rejecting the influence of our own priests. If we bring them back to the fold, we can continue down the {LOC_LEGACY_PATH_EXPLORATION_MILITARY_NAME} Legacy Path.</Text>
+		</Row>
+		<Row Tag="LOC_WARNING_DISTANT_LAND_CONVERSION_SUMMARY">
+			<Text>Losing Distant Land Religious Presence</Text>
+		</Row>
+		<Row Tag="LOC_WARNING_FIRST_CONVERSION_MESSAGE">
+			<Text>Missionaries from abroad have captivated the inhabitants of {1_City} — an ill portent. If we lose our people's hearts, we may lose more.</Text>
+		</Row>
+		<Row Tag="LOC_WARNING_FIRST_CONVERSION_SUMMARY">
+			<Text>Competing Religion</Text>
+		</Row>
+	</EnglishText>
+</Database>

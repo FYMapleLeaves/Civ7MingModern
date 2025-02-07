@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+
+		<!-- Exploration Civilizations -->
+		<!-- CIVILIZATION_ABBASID -->
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_ABBASID_CHAPTER_HISTORY_PARA_1">
+			<Text>Before Islam, Arabia was a space divided. Bedouin nomad networks connected and clashed with settled peoples, and many were torn between families and clans. It was a land of deep interconnection, with trade routes linking India and Europe, down through the Red Sea and the east coast of Africa. Religions were diversely arranged; local polytheism coexisted with Judaism and, in time, Christianity. However, the events of the early 600s truly shaped the region – and the world.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_ABBASID_CHAPTER_HISTORY_PARA_2">
+			<Text>Islam grew from a synthesis of Arab polytheism, Judaism, and Christianity, especially in ascetic movements (hanif). Followers attribute Muhammad with divine revelation around 610 CE. As a leader, he sought to unify fractious tribes under the banner of his new, monotheistic religion. Naturally, this brooked opposition from other cities and other tribes, provoking wars of expansion outside of Arabia and into Byzantine and Persian lands.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_ABBASID_CHAPTER_HISTORY_PARA_3">
+			<Text>Upon Muhammad’s death, a question arose: who would succeed him? This query is often faced by empires born from a single person, plaguing the successors of Genghis Khan, Julius Caesar, and Alexander the Great. The interplay between Muslim caliphates (and the split between Sunni and Shi’a Islam) continuously revolved around debates over who was closest to the Prophet, in lineage and behavior. Another issue with which early caliphates struggled was the role of non-Arabs and non-Muslims within their ranks.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_ABBASID_CHAPTER_HISTORY_PARA_4">
+			<Text>This diversity grew as the caliphates expanded. Large numbers of Christians were moving into Byzantine territory, and those entering Persian lands found a wealthy and educated Persian elite who were resistant to speaking Arabic. Caliphates wondered: could non-Arabs convert? What about Muslims who did not hold centrist beliefs, a problem that increased as the descendants of Muhammad (the Shi’a) split from the descendants of his appointed rulers (the Sunni)? Under the second great caliphate, the Umayyads, clear hierarchies were established: non-Arabs lived as second-class citizens, and the Shi’a were actively repressed. Discontent grew, especially in the Persian east.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_ABBASID_CHAPTER_HISTORY_PARA_5">
+			<Text>The Abbasid Revolution (750 CE) was a strategic play. Assassins filtered out across the Umayyad empire, disguised as missionaries and agitators. Descendants of Muhammad’s uncle, Abbas ibn Abd al-Muttalib, spearheaded the movement, using their familial link to convince the Shi’a of their closer ties. To non-Arabs, they promised equal legitimacy for all Muslims regardless of ethnicity, permitting non-Muslims to live in the empire so long as they paid the jizya, a special tax.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_ABBASID_CHAPTER_HISTORY_PARA_6">
+			<Text>After their defeat, the Umayyads fled west, to Spain, and the focus of the Muslim world turned east, becoming far more Persified, while still heavily Arab.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_ABBASID_CHAPTER_HISTORY_PARA_7">
+			<Text>The Abbasids moved the capital of the Caliphate from Damascus to Baghdad – a city they built, and which imbued added Persian character to the empire. Then the Abbasids expanded, incorporating new non-Arab peoples from the southern Somali coast and eastern Persian lands. At first, the Abbasids clashed with Tang China, but they later established warm relations, fighting alongside Tang dynasty soldiers against rebellions. Even Charlemagne sent delegates to Baghdad, and they were awed by Abbasid technology and culture (a clock they brought back was famously deemed a work of magic, as Frankish scholars could not discern how it worked). Such friendly relations should not be surprising even given Charlemagne’s strong anti-Muslim push – recall that Charlemagne sought to usurp Byzantine claims to the title of Rome and aimed to expel the Umayyad domination of Spain – both key Abbasid enemies.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_ABBASID_CHAPTER_HISTORY_PARA_8">
+			<Text>By the ninth century, continued expansion required deeper thought on how to administer these far-flung provinces. The Abbasids came to rely upon existing Persian bureaucratic systems as a solution. And within Baghdad, prosperity reigned. The golden age of the empire came under Haroun Al-Rashid, a reign that established the Abbasids as the center of the world – a claim that others from Constantinople or Xi’an might contest.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_ABBASID_CHAPTER_HISTORY_PARA_9">
+			<Text>But expansion proved to be the dynasty’s undoing. Given enough autonomy, the distant provinces saw a chance for complete independence. Accordingly, Persian states in the east, mamluks (Turkish mercenaries) in Egypt, and Arab Morocco all broke off to go their separate ways; by 1000 CE, North Africa had been entirely lost to the Fatimids, a Shi’a dynasty based in Egypt. The Abbasids had also inherited the Persians’ perennial war with the Byzantines – Byzantine/Arab battles over Anatolia were a constant back-and-forth that sapped the coffers of both empires and contributed to constant instability.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_ABBASID_CHAPTER_HISTORY_PARA_10">
+			<Text>These factors led to an overall decline as the Abbasids fell to outside powers. The first blow came from the Buyid Emirs, a Persian Shi’a dynasty that slowly rose to power in the east, eventually coming to control Baghdad and holding the Abbasid court under its “protection.” Then the Seljuk Turks invaded in the late 900s, prompting a bitter struggle over control of Baghdad between the Buyids, Abbasid remnants, and Turks. Compared to these events, the European invasions known as the Crusades mattered little – they were seen from Baghdad as another tiresome assault by Byzantine mercenaries (ones that could be opportunistically mobilized against their enemies, the Seljuks).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_ABBASID_CHAPTER_HISTORY_PARA_11">
+			<Text>The Abbasids briefly regained control of Baghdad in the 12th century, a struggling, shuddering period that only really achieved power for a few decades before a calamity from the east arrived. Genghis Khan swept into Baghdad in 1258, ending the Abbasid period. The Mongols were so in awe of Abbasid wealth that they balked at spilling the Caliph’s blood – so they wrapped him in a carpet and had horses trample him to death.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_ABBASID_CHAPTER_HISTORY_PARA_12">
+			<Text>However, the Abbasid Dynasty was not broken. They re-formed under mamluk control in Egypt, where they reigned until the 16th century. Still, their moment at the center of the world had been shattered.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_ABBASID_CHAPTER_HISTORY_PARA_13">
+			<Text>An Abbasid hadith (holy saying) states, “the ink of a scholar is more holy than the blood of a martyr,” and Abbasid society made this aspiration a reality. The Abbasids were consummate inventors. It is an Abbasid legacy that so many mathematic and astronomic terms have Arabic origins (e.g. algebra, algorithm, nadir, zenith, etc.). Works in literature and philosophy, as well as more concrete sciences such as architecture, were perfected in the Abbasid court; Gothic cathedrals in Europe mimic styles developed in the Middle East. The city of Baghdad was a wonder – a round, planned city that awed travelers and other visitors from all regions. Baghdad’s center of knowledge was the pinnacle of its time: the House of Wisdom, a place that welcomed scholars from all religious backgrounds to pursue science, medicine, philosophy, and the like.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_ABBASID_CHAPTER_HISTORY_PARA_14">
+			<Text>The Abbasids occupied the crossroads of the world. As such it imported raw materials from East and West while exporting finished goods; silk, glass, ivory, and jewels flowed in and out of the artisan workshops and markets of Baghdad and Cairo during Abbasid times. While Western discourses on the Renaissance emphasized the discovery of classical Antiquity through Western scholars, Muslims were actively involved in translating and elaborating upon the works of Greek writers, especially Aristotle.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_ABBASID_CHAPTER_HISTORY_PARA_15">
+			<Text>Despite the initial Persian focus, over time the Abbasids moved their conquered lands toward greater Arabization, including a relative decline in the status of women and non-Muslims. Under the Abbasids, Islam also became disassociated from the Caliphate. Whereas in previous caliphates the ruler could claim to rule the entirety of Islam, with the flight of the Umayyads and the expansion of Islam to other realms (including Southeast Asia and Africa), the Abbasids were only one of many Muslim domains.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_ABBASID_CHAPTER_HISTORY_PARA_16">
+			<Text>In short, the legacy of the Abbasids was in the Arabization of the Middle East and beyond; the preservation and elaboration of Classical texts; and massive advancements in science, mathematics, and technology. We continue to see their legacy in our math and astronomy, and their presence formed the world’s heartbeat during their not-too-brief time on it.</Text>
+		</Row>
+		<!-- CIVILIZATION_CHOLA -->
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_CHOLA_CHAPTER_HISTORY_PARA_1">
+			<Text>Many often fail to understand the sheer diversity of India. A significant divide exists between the north and the south, with Indo-European languages (Urdu, Hindi, etc.) flourishing in the north and Dravidian languages (a separate family) in the south. Chola represents the south, specifically the Tamil and Telugu language groups, among others.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_CHOLA_CHAPTER_HISTORY_PARA_2">
+			<Text>In an ancient stelae (circa 200 BCE), the emperor Ashoka mentions the southern Indian kingdom of Tamilakam. Its “Three Crowned Kings” (Chera, Chola, and Pandya) lived at the very southern tip of the subcontinent, and from them, the Tamil people trace their origins. During this period, myth interspersed with history; according to records, the kingdoms and empires of the south carved rivers and built mountains, and each of the Three Crowned Kings embodied a particular element: the Cheras represented fire, the Cholas the sun, and the Pandyas the moon. The archaeological record reports a basic feudal system. Life in the south involved constant conflict with larger kingdoms to the north as well as rival kingdoms within the southern region – until the beginnings of the Chola dynasty around 700 CE, a time contemporaneous with the rise of Islam to the west and the Khmer to the east.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_CHOLA_CHAPTER_HISTORY_PARA_3">
+			<Text>The Chola dynasty emerged on the world stage with Vijayalaya Chola in the mid-ninth century CE. The Chola became increasingly prosperous over time but remained vassals of neighboring kingdoms. As the region descended into yet another war, Vijayalaya proclaimed his independence and slowly carved out a space for the Chola between rival groups (e.g. the Pandyas and Pallavas). One by one, Chola’s neighbors submitted to the dynasty’s expansion, which increased steadily under Rajaraja Chola and Rajendra Chola. Territorially, the Cholas extended in a diagonal slash from eastern India to southwestern India, including the entire southern tip and the northern bit of Sri Lanka. But Chola influence continued into Southeast Asia. The empire can be viewed in contrast to the Mongols; whereas the Mongols extended direct control over a large territory without too much cultural influence (we are currently writing in Roman script, not Mongol), the Chola extended their cultural influence far beyond their borders, including a sizeable impact on the Khmer and Majapahit. Chola had direct control over parts of Burma and island Southeast Asia and battled in areas as far-flung as Cambodia and the Philippines.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_CHOLA_CHAPTER_HISTORY_PARA_4">
+			<Text>Still, Chola influence extended primarily via trade – the sea route out from India to Sumatra (Srivijaya), through the Straits of Malacca, and then north to Tang China became a powerful alternative to the overland Silk Road and presaged European attempts at global trade. The Chola linked the Abbasid and Tang via the sea. Using powerful merchant guilds, they traded a variety of goods (wisely supplying their clients with horses and elephants – if you sell horses to foreign powers, their cavalry is unlikely to be used against you).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_CHOLA_CHAPTER_HISTORY_PARA_5">
+			<Text>Domestically, the Chola focused on irrigation, especially on water tanks and reservoirs (including the Solagangam, a massive tank supplying the city of Gangaikonda Cholapuram). But domestic politics were a problem. Any scholar of medieval dynasties knows how this story goes. Aristocratic families that held power within the Chola empire initially acquired their power and wealth by supporting the empire. However, over time, these families became self-sufficient and poured their energy into preserving their own heritage and territory rather than contributing to the larger state. As the empire stumbled, these smaller kingdoms broke off and declared independence, a process that chipped away at Chola's power.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_CHOLA_CHAPTER_HISTORY_PARA_6">
+			<Text>The Cholas were ousted in the 13th century, but some of the dynasty survived. The last recorded Chola king was in Cebu, in the Philippines. Legends of the establishment of kingdoms via Indian rulers displaced from home are commonplace across island Southeast Asia and in the Rajanate of Cebu, so perhaps the stories hold some truth. Cebu lasted until the Spanish showed up in the 16th century.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_CHOLA_CHAPTER_HISTORY_PARA_7">
+			<Text>Chola literature and art left a profound impact on South and Southeast Asian languages and cultures. When we speak of Indian influence in Southeast Asia, we mean Chola influence. The Chola sparked the efflorescence of Southeast Asian culture which supplies its Indic character today: divine monarchy, Buddhism, etc. The glory of the Cholas remains a point of pride for Tamil and other South Indian peoples today.</Text>
+		</Row>
+		<!-- CIVILIZATION_HAWAII -->
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_HAWAII_CHAPTER_HISTORY_PARA_1">
+			<Text>Many think of Hawai’i as a tropical vacation spot. Few consider its history as an independent nation…or as a colony of the United States. Somewhere between 100 and 1000 CE, Polynesians settled on the islands of Hawai’i. Local histories describe a holy man from Tahiti who brought a new order to Hawai’i, establishing a class system of chiefs, nobles, priests, commoners, and the lowest grade (kaua), all divided by a system of kapu (taboo). Thriving in this system involved mana. While the term has become commonplace in fantasy games, the word is Hawaiian in origin. It describes a spiritual energy and healing power that exists within the universe. Sacred people and sites have concretions of mana, especially chiefs or those of chiefly bloodlines. Mana is also inherent to acts like sex, violence, storms, etc. Mana and kapu are linked. By correctly observing the rules of kapu, and through the intercession of priests (kahuna), one can expand their mana. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_HAWAII_CHAPTER_HISTORY_PARA_2">
+			<Text>Hawaiian religion had four main gods: Kane (procreation, creation), Ku (rain, war, sorcery), Lono (nice rain, fertility, agriculture), and Kanaloa (squids, the underworld), along with a host of lesser gods and goddesses, notably the volcano Pele. Worship of these figures was complex and could involve human sacrifice.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_HAWAII_CHAPTER_HISTORY_PARA_3">
+			<Text>Even in Hawai’i, no kingdom is an island. James Cook arrived on the islands at a very strange time. His appearance in 1779 coincided with a festival for Lono, and elements of his visit (the sailing ship, his progression around the island) coincided with the festival. This might be like if a strange explorer flew out of the sky in a red sleigh-like ship on Christmas Eve and moved from house to house offering gifts. According to some historians, the Hawaiians thought Cook was Lono, and treated him extremely well. Whatever the reason for his welcome reception, Cook sailed away happy. When a storm later crippled Cook’s ships, he returned for repairs. This was a mistake. Lono or not, he wasn’t supposed to come back. Moreover, Cook took several liberties with the Hawaiians, stealing sacred wood and kidnapping then ransoming the king. A fight broke out, and Cook was killed.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_HAWAII_CHAPTER_HISTORY_PARA_4">
+			<Text>Civil war followed, though its causes seem to have more to do with kingly succession than the fallout of Cook’s death. Within the family of the usurper, a man named Kamehameha received a prophecy that he was to rule the entire Polynesian Pacific. At this point the Europeans interceded, bringing guns that enabled the solidification of power. A British officer granted Kamehameha the Union Jack, which Kamehameha incorporated into his Hawaiian flag.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_HAWAII_CHAPTER_HISTORY_PARA_5">
+			<Text>Kamehameha solidified control over the islands, which had previously retained individual kings. He also established the “Law of the Splintered Paddle,” named after a botched murder attempt that had him stunned and left for dead next to the murder weapon (a broken paddle). This law stated that everyone, no matter their position in society, had a right to defend their personal safety, even against the most powerful rulers. Kamehameha claimed that the men who tried to kill him had feared him, so this was a lesson in forgiveness.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_HAWAII_CHAPTER_HISTORY_PARA_6">
+			<Text>Kamehameha left a lasting legacy, and he was committed to altering the course of Hawaiian history. His primary wife, Ka’ahumanu, welcomed foreigners into the island, especially missionaries. She also abolished the kapu system, ritually destroying the berries that were sacred to mana by tossing them into the fires of Pele. Before long, the island was largely Christian.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_HAWAII_CHAPTER_HISTORY_PARA_7">
+			<Text>Foreign nations recognized Hawai’i as an independent power, with a catch. As the typical cycle of foreign epidemics decimated the indigenous population and an expansionist France looked to take over new colonies, Hawai’i became vulnerable. In 1849, after the French sacked Honolulu, the Hawaiians looked to the United States for protection. The U.S. based several naval ships there, although who was the threat and who was protected became less clear. While France and England later acknowledged the independence of Hawai’i, the United States never agreed to such terms.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_HAWAII_CHAPTER_HISTORY_PARA_8">
+			<Text>Thus, Hawai’i became an important destination for America as it looked to expand its influence westward across the Pacific, and American planters and merchants flooded to the island throughout the 19th century. Along with missionaries, they became important in local politics, pushing against the rule of the kings and for increased capitalist opportunities. American planters wanted to own their land.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_HAWAII_CHAPTER_HISTORY_PARA_9">
+			<Text>Private land ownership is a thorny issue in colonialism. The power differential between poor indigenous people and wealthy landowners encourages those in debt to sell property in large numbers. As plantations grow, planters seek cheaper labor from abroad; locals are often less willing to endure the same working conditions faced by foreign laborers with fewer avenues of escape. Further, produce from large plantation farms often undercuts goods from smaller land holdings. Therefore, Hawai’i increasingly became a place of landless Hawaiians, wealthy (white) American landowners, and a rapidly growing Asian (Japanese, Okinawan, Chinese, Filipino) workforce. Land ownership pressures were tied to trade with the U.S.; tariff-free trade was vital to keep Hawai’i running, and the U.S. could always threaten to take it away to increase the power of landowners.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_HAWAII_CHAPTER_HISTORY_PARA_10">
+			<Text>As plantation owners gained power, they pressured the monarchy to increase their rights – significantly, to increase their representation in Hawai’i’s government. Hawai’i had maintained a constitutional monarchy since the 1840s, but in 1887, under threat of force, Hawai’i adopted a constitution that curtailed the rights of Asians, limiting voting to Hawaiians and whites. This measure was crucial to the eventual fall of the kingdom.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_HAWAII_CHAPTER_HISTORY_PARA_11">
+			<Text>Lili’uokalani took power in 1891, as the sister of a king. She sought to reinstate the absolute monarchy and place control of the islands in her family’s hands. This was the last straw for the white settlers in Hawai’i, who forcibly overthrew her and declared Hawai’i a republic – then immediately lobbied the United States for statehood. The U.S. wasn’t having any of it and pushed for Lili’uokalani’s reinstatement, along with Japan and the U.K. A counter-revolution occurred and the Republic of Hawai’i survived. But not for long. After a new president, McKinley, took office, Hawai’i was annexed to the United States in 1898.</Text>
+		</Row>
+		<!-- CIVILIZATION_INCA -->
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_INCA_CHAPTER_HISTORY_PARA_1">
+			<Text>The Andes have a long history of settlement. Caral, for instance, is a site comprising around thirty major cities, including massive pyramids and plazas. Caral arrived at an astoundingly early date – as early as 3700 BCE. Its pyramids likely date to around the same time as the Great Pyramid of Giza (in fact, Caral appears to predate Giza by around 100 years). The Andes have been home to large-scale states and monumental architecture for millennia.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_INCA_CHAPTER_HISTORY_PARA_2">
+			<Text>This all happened without written records. Andean civilization, up to the time of the Spanish conquest, was an oral tradition where certain people were tasked with remembering the past. People in oral cultures (which includes all human cultures at some point) develop a tremendous capacity for remembering stories and songs. Later Andean societies could make notations using rows of tied strings, called quipu, but these appeared to be for accounting purposes rather than narrative (though there is some debate on the matter).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_INCA_CHAPTER_HISTORY_PARA_3">
+			<Text>Andean societies also thrived in inhospitable environments. The Andes are caught between dense rainforests and deserts. Still, this environment has advantages as its people had access to a wider variety of resources, and the Pacific Ocean was a rich source of food.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_INCA_CHAPTER_HISTORY_PARA_4">
+			<Text>The Inca Empire rose in the 12th century CE in Cusco, and their history before that remains shrouded in myth. Under Pachacuti (1438-1471), the empire began a campaign of expansion and consolidation, subjugating conquered people through forceful resettling. Conquered people were conscripted into forced labor or drafted as warriors, fueling the mountain war machine.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_INCA_CHAPTER_HISTORY_PARA_5">
+			<Text>The term “Inca” refers to the rulers of this society and was not necessarily a name for the larger society. Instead, they were Quechua speakers, and likely referred to themselves as “runa,” which simply means “people.” Their kingdom was called Tawantinsuyu, the “kingdom of the four parts,” referring to the four cardinal directions. Originally, this society was based in the capital of Cuzco, but the Inca expanded via conquest, overtaking other Quechua and non-Quechua-speaking neighbors, eventually ruling over an area from the edge of modern-day Colombia through Ecuador, Peru, Bolivia, Chile, and western parts of Argentina. Impressively, they did all this not only without writing, but also without wheels, using a system of maintained mountain roads and llama pack animals.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_INCA_CHAPTER_HISTORY_PARA_6">
+			<Text>Quechua religion involved, and still involves, the veneration of deities, sacred spaces, mountains, etc. However, simply calling these “sacred” does not do them justice. Mountains and the like were active personalities, intimately involved in the lives of those around them. The sun also made its mark; the Incan leader was “the son of the sun,” giving natural legitimacy to the Incan social project.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_INCA_CHAPTER_HISTORY_PARA_7">
+			<Text>The Inca industry involved advanced textile production, and they could cut stone so precisely that larger stone works held together without the use of mortar. While earlier Andean societies focused on maritime goods, the Inca cultivated potatoes, beans, tomatoes, and other produce en masse in terraced farms and canals. In warfare, the Inca used weapons of copper or bronze as well as hardened wooden spears – they were also adept at using the terrain to their advantage, rolling boulders downhill toward their enemies when they could.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_INCA_CHAPTER_HISTORY_PARA_8">
+			<Text>The Inca had an abundance of silver and gold, a wealth that would eventually doom them as Europeans sought these precious metals. The mountain of Potosi held vast quantities of such ore, allowing the Inca to decorate their temples and their kings with stunning works of art. For the Inca, gold was the sweat of the sun, produced by the sweat of their workers.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_INCA_CHAPTER_HISTORY_PARA_9">
+			<Text>The Sapa Inca was the descendant of the sun and ruled the people. Like the Egyptians, the Inca practiced brother/sister marriage to keep this bloodline pure. Royalty was set apart by class distinctions, as were the nobility, and this hierarchical structure was transposed onto the rest of the empire.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_INCA_CHAPTER_HISTORY_PARA_10">
+			<Text>Ruin fell on the empire before the Europeans appeared, as smallpox and other diseases ravaged the peaks. In 1532, Pizarro arrived with his runa quicachac (“destroyers of people”), as the Inca described them, and he found the empire on the brink of collapse. At first, the Spanish attempted to communicate with the Inca, but that failed. In frustration, Pizarro seized the Sapa Inca, holding him hostage while demanding ever-increasing quantities of gold for his release. That release never came.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_INCA_CHAPTER_HISTORY_PARA_11">
+			<Text>The ruler's death prompted a period of rebellion as the Spanish attempted to install puppet kings, but the empire continued to fall into chaos. This turmoil existed on all fronts as Pizarro’s conquistador, Diego de Almagro, claimed the region for himself, sparking a larger war – conquistador versus conquistador, indigenous versus indigenous. The fight was settled – on the Spanish side – when Almagro was promised Chile and Pizarro carved out Peru for himself. The war had claimed over 10 million indigenous lives and was so catastrophic that it altered the geography of Peru: the indigenous people stopped making shell deposits along the shore, exposing the coast to the Pacific.</Text>
+		</Row>
+		<!-- CIVILIZATION_MAJAPAHIT -->
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MAJAPAHIT_CHAPTER_HISTORY_PARA_1">
+			<Text>In the beginning, kings were divine. Vishnu, Shiva, and all the other gods were intimately involved in human affairs. But as history progressed, this connection with the divine diminished, and later kings were a degree less impressive than former kings. History is a story of that steady journey away from the light towards a dark future – with a hope that one day the gods will return.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MAJAPAHIT_CHAPTER_HISTORY_PARA_2">
+			<Text>This notion of diminishing light also contains a spatial element. In what George Cœdès calls “the Indianized states of Southeast Asia,” divinity rests in the body of the monarch at the center of things, while peripheral locations are drawn to the center or split away. In such a state, ritual and charisma preserve its people, fetching tribute through labor and goods. Majapahit (and Khmer) were such states, and while the mainland states (e.g. Khmer, early Siam) focused on controlling land, island states aimed for the control of sea-based trade. Unfortunately, this was also the seed of their downfall.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MAJAPAHIT_CHAPTER_HISTORY_PARA_3">
+			<Text>Several great city-states existed before Majapahit. Srivijaya is one example. This kingdom arose near the present-day city of Palembang and controlled a vast amount of regional trade until it was invaded and destroyed by the Cholas of South India. The Shailendra kingdom arose next. In the eighth century CE, this Javanese Hindu-Buddhist kingdom built the monument at Borobudur and fought the Mongols. These kinds of kingdoms rose and fell along with their dynasty; new dynasties would often found a new capital and begin an entirely new empire.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MAJAPAHIT_CHAPTER_HISTORY_PARA_4">
+			<Text>This also happened to the Shailendras. They were in the process of halting the Mongol advance when a man – later known as Kertarajasa – sided with the Mongols and defeated the new usurper-king of the Shailendras. Kertarajasa then turned on the Mongols and drove them out. After defeating all rivals, he founded a capital in the place of the bitter maja fruit: Majapahit.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MAJAPAHIT_CHAPTER_HISTORY_PARA_5">
+			<Text>Kertarajasa began a process of consolidation, which was difficult as many provinces revolted against the new administration. This was made worse by his son, a notoriously immoral and lascivious man who sought to make his half-sisters his wives. Apparently, he also had plans for his physician’s wife, which, if we may give personal advice, is not a very good idea. He died undergoing surgery. His prime minister, Gajah Mada, murdered the physician in a rage (though this may have been an attempt to cover an assassination).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MAJAPAHIT_CHAPTER_HISTORY_PARA_6">
+			<Text>Gajah Mada began an expansion. The empire spread across Java, Sumatra, Bali, and other areas in the archipelago. This was a spreading of fame as much as soldiers. When a state such as Melayu sent a delegation to Ming China, offering tribute, Majapahit would also arrive and convince the Chinese that the Melayu delegation was untrustworthy – that Majapahit was sovereign.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MAJAPAHIT_CHAPTER_HISTORY_PARA_7">
+			<Text>By 1400, Majapahit began to decline. This was around the time of Zheng He, the Chinese naval explorer, who arrived and detailed the kingdom in a surviving account. Zheng He is significant for a few reasons; his presence alone highlighted the rising power of the Ming in the region (their empire had just formed after fighting against the remnants of the Mongols). Over the next century, increasingly strong former vassals and neighbors chipped away at Majapahit. Islam was also spreading in the region, and Muslim rulers immediately favored access to Western trade routes, again challenging Majapahit’s past-oriented stance. The declaration of independence by the Sultan of Demak, a former vassal of Majapahit, marked the real end of the kingdom and the capital was moved in 1527.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MAJAPAHIT_CHAPTER_HISTORY_PARA_8">
+			<Text>However, Majapahit lives on. The queen Gitarja established a Majapahit dynasty in Bali, and Balinese kings still assert descent from those old Javanese kings (though they were officially deposed by the Dutch). The type of Hinduism practiced in Majapahit has been preserved there – a blend of indigenous, animist beliefs with a very old version of Southeast Asian Hinduism, built around cultivating and preserving power in an epoch of steady decline. The end of Majapahit was the rise of a Muslim thalassocratic system in Southeast Asia. Islam fused with Hinduism in particular ways, making the unique character of Javanese practice.</Text>
+		</Row>
+		<!-- CIVILIZATION_MING -->
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MING_CHAPTER_HISTORY_PARA_1">
+			<Text>Between 1368-1644 CE, Ming China was the richest and most powerful country of its time. The opulent stories about Florence, Renaissance Italy, or Shakespeare-era London pale in comparison. In the eras to follow, colonization was largely an attempt to gain access to China. Yet the Ming grew complacent. Peace and stability led to stagnation. By the end of the empire, the Europeans had gained the upper hand on the world stage.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MING_CHAPTER_HISTORY_PARA_2">
+			<Text>Ming was a vast empire driven by scholar-officials, eunuchs, sprawling bureaucracies, massive riches, political stagnation, and insularity. During this time, Confucianism turned to neo-Confucianism, secret societies formed and pulled the strings behind the scenes, and neighboring states bowed to the awesomeness of the court.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MING_CHAPTER_HISTORY_PARA_3">
+			<Text>Isolation is never good, and it was unpopular within China, so when the empire began to suffer from disasters (namely plague and famine), revolution was not far behind. In the 14th century, a group of Song loyalists helped install a new emperor, Hongwu, who razed Dadu, the old capital of the former Yuan dynasty (which would also eventually be a new capital in a new era, under the name Beijing). He rechristened Chilenfu as Nanjing (“south capital”), the new capital of China.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MING_CHAPTER_HISTORY_PARA_4">
+			<Text>The early Ming era focused on rebuilding relationships both internally and externally. This process involved rebuilding infrastructure that the Yuan rulers had neglected, establishing advisory and tributary relationships with neighbors, and retaining features that the Mongols had introduced (like the famous Mongol cavalry). Hongwu also introduced the Da Ming Lu, the Ming code of laws, as well as a secret police (jinyiwei) to enforce them and preserve the position of the emperor.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MING_CHAPTER_HISTORY_PARA_5">
+			<Text>Determining Ming territory is difficult. The Ming maintained unique relationships with neighbors, and settlements had varying degrees of allegiance depending on their proximity to the capital. The Manchu, for instance, were a group of non-Chinese agriculturalists that the Ming controlled via a range of small garrisons and tribal alliances. So the Ming controlled them, but were they “part of Ming”? That is unclear.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MING_CHAPTER_HISTORY_PARA_6">
+			<Text>Areas like Korea were even farther afield. States such as these would sometimes send gifts to the Ming in exchange for protection. This was not a formal alliance but was akin to an agreement. It remains unclear if both sides understood the agreement in the same way – when Ayutthaya sent tribute, they may have simply thought they were sending gifts, whereas the Ming understood them to be pledges of loyalty.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MING_CHAPTER_HISTORY_PARA_7">
+			<Text>Other borders were clearly delineated. In the west, the Great Wall achieved its most impressive stretch, a wise move considering the fall of the Song Dynasty to Mongol invasion.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MING_CHAPTER_HISTORY_PARA_8">
+			<Text>Under Ming, society was divided into a few broad classes: shi (gentry), nong (farmers), gong (artisans), and shang (merchants). The shang rose in relation to the others, just as merchants began to wield more power in European and Japanese society.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MING_CHAPTER_HISTORY_PARA_9">
+			<Text>The term “mandarin” is most associated with Chinese, but the word is Portuguese and is a corruption of “menteri,” a Malay word derived from “mantri,” in turn a Sanskrit word that means “advisor” or “scholar-official.” The title defined men who studied Confucian texts carefully and passed various grades of examinations. They were usually from the gentry (shi), but there was room for mobility among other classes. Either way, they were profoundly associated with Confucianism.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MING_CHAPTER_HISTORY_PARA_10">
+			<Text>Eunuchs also grew increasingly powerful under Ming and came primarily from conquered regions. Castration became a common punishment for captured soldiers from opposing armies. However, once castrated, eunuchs might find some degree of gainful employment. They were perceived as non-threatening and thus loyal to the emperor; they also pushed back against the power of the mandarins. Tension between the groups persisted, reflecting previous debates in Chinese society about the power of the emperor versus the power of the Confucian bureaucracy. While Hongwu (the first emperor) forbade eunuchs to study and emphasized the merits of traditional continuity, many achieved great fame nonetheless.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MING_CHAPTER_HISTORY_PARA_11">
+			<Text>Zheng He was one of the great voyagers of the exploration age. He was a Muslim eunuch who, between 1405-1433, sent massive exploratory and treasure fleets from China to East Africa (and everywhere in between). Zheng He was born in Yunnan before its conquest by Ming (when it was still occupied by Mongol forces). When the Ming invaded, he was captured and castrated. He entered the service of a rebel who sought to capture the Ming capital at Nanjing. After this successful campaign, a new emperor, Yongle, took over the new capital of Beijing.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MING_CHAPTER_HISTORY_PARA_12">
+			<Text>Yongle oversaw investments in wood-block printing and expanded the empire’s borders (e.g. to Vietnam). He also wanted to control trade in the Indian Ocean, which was a severe departure from prior Chinese notions. He sent Zheng He to trade gold and porcelain for exotic beasts and other items of interest. However, this expansionist move rankled the internal-oriented Confucian scholars and other conservatives in the administration.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MING_CHAPTER_HISTORY_PARA_13">
+			<Text>The relative stability of isolation comes with stagnation in science. In Ming China, fancy gadgets were perceived as signs of decadence (specifically Mongol and foreign decadence), so they were largely rejected. While science declined, arts and other more conservative traditions did not, and Ming remains famous for these achievements.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MING_CHAPTER_HISTORY_PARA_14">
+			<Text>Religion was relatively free. This era began the fusion of Mahayana Buddhism, Taoism, folk belief, and Confucianism that many consider “Chinese religion” today. Islam was generally accepted in Ming, and the city of Kaifeng maintained a reasonable Jewish population. Older Chinese Christianity (Nestorian Christians who had been present in the region for a long time) vanished, but the Jesuits were able to cast themselves as scholar-elites in the Confucian model, for a time.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MING_CHAPTER_HISTORY_PARA_15">
+			<Text>Eventually, Ming broke under its weight.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MING_CHAPTER_HISTORY_PARA_16">
+			<Text>That story starts in Sengoku Japan. This was an era of all against all on the island, as lords of different regions fought to control the emperor and claim the title of shogun. The second great leader of this time was Toyotomi Hideyoshi, who didn’t want to stop his conquest with Japan. Instead, he decided to invade Korea and China. This expedition was not a success, and over time the Koreans threw out the Japanese with Ming assistance. However, Ming was already in deep financial distress, so they granted autonomy to Jurchen (and Manchu) chiefs in Manchuria, which bordered Korea.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MING_CHAPTER_HISTORY_PARA_17">
+			<Text>One of these chiefs, Nurhaci, became emboldened with power and sent a list of grievances to the Ming court. Most of these are immaterial and relate to poor diplomacy on the Mings’ part, but Nurhaci sparked a rebellion that was not immaterial. Peasant revolts erupted around the empire.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MING_CHAPTER_HISTORY_PARA_18">
+			<Text>When the Sengoku wars in Japan ended, Tokugawa declared the country closed. At first, this development seemed advantageous for the Ming. They no longer had to fear invasion from the east. However, China was reliant upon silver from Japanese mines. With Japan closed, the Ming economy went into free fall; soldier and peasant rebellions grew alongside the Manchu threat. The war lasted decades, pushing the Ming farther south (even leading to a rump group of loyalists hiding in southern Vietnam). The end of this campaign birthed the final Chinese imperial dynasty, the Manchu-dominated Qing. However, the Qing belong to a later age…</Text>
+		</Row>
+		<!-- CIVILIZATION_MONGOLIA -->
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MONGOLIA_CHAPTER_HISTORY_PARA_1">
+			<Text>From 1206-1368 CE, the Mongol Empire was the largest contiguous empire in history. While the sun didn't set upon the British Empire, its possessions were divided by water and other territories. The empire built by the great Khans, on the other hand, was a single entity, stretching from Korea to Europe, from the tundra to Southeast Asia. Moreover, the Mongol Empire was designed to be a multi-ethnic state, with relative freedom of religion, a philosophy of free movement, and a lively exchange of ideas. That is, once its people surrendered to the horse lords.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MONGOLIA_CHAPTER_HISTORY_PARA_2">
+			<Text>The eastern portion of Central Asia has been home to a variety of peoples who haven't always shared a common language or culture (i.e. Turkic and Mongol speakers, among others). However, these people all shared a similar way of life, one based around the horse. The earliest recorded horse-centered society, the Xiongnu, plagued Han China with their rapid movement and mounted skill – to the point of forcing the emperor to recognize their independence. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MONGOLIA_CHAPTER_HISTORY_PARA_3">
+			<Text>Mongolian history survives largely through the Secret History, a record of the Mongol people from their mythical origins to the rule of their greatest Khan. Like many such histories, it begins with a wolf, who founded the line of Mongols. Temüjin, also known as Genghis Khan, descended from the Borjigin clan (itself founded by a shining being that emerged through a yurt’s smoke-hole). Temujin was born in the latter half of the 12th century, and life was difficult for the would-be Khan, as he was captured and enslaved by a rival clan. This captivity, and a daring escape, lent fire to the legend he eventually built.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MONGOLIA_CHAPTER_HISTORY_PARA_4">
+			<Text>Temüjin’s rise is often seen as bloody and martial, but that depiction doesn’t reveal the full picture. In fact, he recognized the importance of political alliances as an alternative to warfare. The Khan-to-be sought to understand his enemies and adopt their methods, a tactic that would become invaluable when the empire encompassed vastly different peoples. By 1206, Temujin was renamed “Genghis Khan,” the “oceanic ruler,” meaning the person whose rule was as vast as the sea. Extending past Mongolia, Genghis Khan rode into northern China, then across the Central Asian plains to Russia, Georgia, and the Caspian Sea. The Mongol hordes (the word comes from the Turkic word “ordu,” meaning “royal camp”) used their enemies’ disdain strategically, pretending to flee from combat to disperse the enemy line before attacking the thinly drawn ranks. Fear was also a powerful weapon, and stories of the Mongol advance were sometimes enough to persuade a surrender.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MONGOLIA_CHAPTER_HISTORY_PARA_5">
+			<Text>The Mongols proved so devastating that they wholly annihilated the population in some areas. This was the case in Western Xia (northern China) and the cities of Bukhara and Samarkand; Iranian historians suggest that nearly three-quarters of the population was obliterated by the Mongols.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MONGOLIA_CHAPTER_HISTORY_PARA_6">
+			<Text>Cavalry was at the heart of the Mongol military, emphasizing mobility and speed. Indeed, each soldier had several horses, so they could swap in a fresh horse when needed. These plains nomads also knew how to supply their horses off the land. Since they were used to the bitter cold of the steppe, they would attack when rivers were frozen or at times their opponents were unused to fighting. In battle, the Mongols led with endless volleys of arrows and only advanced to cavalry combat when their opponents were nearly exhausted. Later, they learned siege craft and cannonry from their Chinese vassals, though they never entirely got the hang of boats.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MONGOLIA_CHAPTER_HISTORY_PARA_7">
+			<Text>The Mongol experience in Japan and Southeast Asia showcased the limits of Mongol tactics. Hot and humid weather degraded Mongol bows, and their horses proved ineffective in dense forests and at sea. In these places, the Mongols fought on even footing and were occasionally defeated, most notably by Vietnam, Japan, and Java. In this latter case, the Mongols were betrayed by the rising Majapahit, which set the stage for the Majapahit's ultimate dominance of the region.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MONGOLIA_CHAPTER_HISTORY_PARA_8">
+			<Text>Once the Mongol Empire was established, it ruled over Christians and Muslims, Chinese and Europeans, and stretched across most of Asia. As a result, the Mongols adopted several techniques of rule: a system of passports allowing people free passage, a vast network of Yam (logistics and supply routes), production of currency (including paper currency) to standardize trade, and banks. The Mongols had an expansive view of religion. Mongolian shamans existed, but the empire also contained Buddhists, Christians, Daoists, Muslims, and Manichaeans. The period during which the Mongols ruled the plains was a Pax Mongolica, a peace imposed by force. The Silk Road would no longer be subject to the wars and regulations of hundreds of smaller clans and polities; one power ruled the land.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MONGOLIA_CHAPTER_HISTORY_PARA_9">
+			<Text>However, the Mongol Empire eventually fractured. Upon the death of Genghis Khan in 1227, the throne passed to Ögedei, his son. Family feuds were brewing. In another generation, the Mongol Empire had fragmented into various khanates, including the Yuan Dynasty of China (under Kublai Khan), the Golden Horde of the Russian Plain, the Ilkhanate of the Middle East, and Chagatai in between. Over time, these places slowly adapted to the culture and religion of the peoples they ruled: the Yuan Dynasty became increasingly Chinese, the Ilkhanate converted to Islam and was eventually torn apart by its rivals, Chagatai gave rise to the Mughal (i.e. “Mongol”) dynasty in India, and the Golden Horde broke into lesser groups.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_MONGOLIA_CHAPTER_HISTORY_PARA_10">
+			<Text>The legacy of the Mongol Empire remains. For one, the trauma the empire inflicted on the rest of the world cannot be understated. The Mongols were a terror to their enemies, and these memories remain. That said, the Mongol Empire provided a stable and polyethnic system of governance that became a model for later empires. Similarly, when the Mongols adopted Turkic languages and customs, they laid the foundations for later empires, and the Mongols had profound influences on India and China.</Text>
+		</Row>
+		<!-- CIVILIZATION_NORMAN -->
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_NORMAN_CHAPTER_HISTORY_PARA_1">
+			<Text>When people think of medieval England, they often imagine the Normans. Norman kingship established codes of chivalry, Norman rule stitched England firmly into Western Europe, and Norman knights founded some of the crusader states in the Near East and the Kingdom of Sicily. However, to find the roots of the Normans, we must first turn to Scandinavia.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_NORMAN_CHAPTER_HISTORY_PARA_2">
+			<Text>In 793 CE, Norse raiders discovered the riches of Christian Europe. Vikings set out from ports in Norway and Denmark and began plundering settlements along the rivers and coasts. But the Norse were good for more than burning monasteries: they were explorers, merchants, artisans, and farmers as well as warriors. In many places, especially late in the period, they settled down where they fought. Rollo (Hrólfr) was a perfect case in point. In 911, this Viking leader threatened West Francia. Charles the Simple (named for his honesty, not his intellect) gave Rollo land in exchange for the Norseman’s baptism and pledge of fealty, thus creating the Duchy of Normandy. In fact, the English word Norman comes from the French uptake of the Norse word “norrmaðr,” meaning “Northman.”</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_NORMAN_CHAPTER_HISTORY_PARA_3">
+			<Text>The Normans complicated an already complex ethnic mix in France. The “French” comprised a few disparate groups – the Gauls had largely assimilated to Roman norms, but Celtic Bretons remained in the north of France. The Franks were a Germanic group (though rapidly adapting to Gallo-Romanic norms). The Normans were not well-liked by their neighbors, seen as erudite but prone to flattery, boasting, and liable to fight at a moment’s provocation.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_NORMAN_CHAPTER_HISTORY_PARA_4">
+			<Text>Which leads us to the next step.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_NORMAN_CHAPTER_HISTORY_PARA_5">
+			<Text>A century past Rollo’s time, the Normans kept their tradition of seaborne raiding. Expanding out from northern France, they made conquests in Italy and fought against the Muslim emirates in Iberia and Tunisia. However, the Normans are best known for their invasion of England.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_NORMAN_CHAPTER_HISTORY_PARA_6">
+			<Text>They did not show up unannounced. The English ruler Æthelred the Unready had married a Norman princess; their son, future king Edward the Confessor, spent formative years in Normandy. When Edward died without an heir in 1066, his brother-in-law Harold Godwinson was elected king by the Witan, the royal council. But two others were eyeing the crown. The first was Duke William of Normandy, who claimed that Edward had promised him the throne. The second was King Haraldr Sigurðarson of Norway (best known today by his epithet “harðráði,” “hard ruler”), who took over his deceased nephew’s claim from 1038; this was further backed by Godwinson’s estranged brother. Harold Godwinson’s rule had just begun and was still precarious; the time was ripe for a conquest. Both William and Haraldr attacked in the same year.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_NORMAN_CHAPTER_HISTORY_PARA_7">
+			<Text>Godwinson had to be in three places at once (the third threat was his brother, who was raiding the coast). Desperate, he rushed north to meet Haraldr’s forces and dispersed them, killing the Norwegian king with an arrow to the neck. However, Godwinson had spent too long in the field. By the time he moved south to meet the Normans, it was too late – the Normans had already built a temporary castle at Hastings. It remains unclear how Godwinson was slain. The famous account has him taking an arrow to the eye, but others claim William slew him in combat. Regardless, England was now in Norman hands.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_NORMAN_CHAPTER_HISTORY_PARA_8">
+			<Text>The Normans set about pacifying and unifying the land. This meant cracking down on the Anglo-Saxons, many of whom fled to mainland Europe or joined the Varangian Guard, an elite mercenary unit in Byzantium. Old Saxon nobility were also ousted in favor of Norman aristocrats.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_NORMAN_CHAPTER_HISTORY_PARA_9">
+			<Text>We've given a snapshot of the ethnic makeup of Norman France, but let’s pause and offer the same for England. England was originally Celtic (to be specific, Brythonic, meaning Breton, Welsh, Cornish, Scottish, etc.), but invasions from the east changed this composition drastically during the early Middle Ages. Germanic tribes – the Angles and the Saxons – and Norse settlers divided the country, adding their own cultural heritages to the mix. The Normans were only a century out from their Vikings ancestors, but they had largely assimilated to French modes of warfare and technologies. Indeed, even the Norman language is far closer to French than to Norse.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_NORMAN_CHAPTER_HISTORY_PARA_10">
+			<Text>The Normans re-oriented and re-trained English society through continental systems. The shield wall and the huscarls were gone, and the noble Norman knight and the anti-cavalry Saxon foot soldier emerged on the scene. The legal system was overhauled; Romanesque architecture and stone castles became the norm; and local tales, including the Celtic legends of King Arthur and his knights, were adapted for new audiences in the forms we remember them today. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_NORMAN_CHAPTER_HISTORY_PARA_11">
+			<Text>After the conquest, William needed to catalog his people, so he commissioned the Domesday Book, a massive census of the land. This record put value on property through the amount they owed in taxes, and allowed the state to assess privately-held land (i.e. non-feudal land) that could be appropriated for William himself.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_NORMAN_CHAPTER_HISTORY_PARA_12">
+			<Text>The Normans altered England, disrupting the Germanic/Celtic conflict while tying England to the continent. Norman technology and language became defining features of English life. While Anglo-French rivalries persisted, the English today are considered more culturally aligned with Western Europe than with Scandinavia.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_NORMAN_CHAPTER_HISTORY_PARA_13">
+			<Text>The Normans did not “fall,” they blended. From 1066 until the Hundred Years’ War (1337), England's Anglo-Saxon population and the ruling French-speaking Normans remained bifurcated. Following its losses in that war, England retrenched, and the country evolved once more. Other concerns (e.g. the War of the Roses) became more pressing, and internal ethnic divisions largely gave way to class separators.</Text>
+		</Row>
+		<!-- CIVILIZATION_SONGHAI -->
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_SONGHAI_CHAPTER_HISTORY_PARA_1">
+			<Text>In Arabic, Africa is defined by three strips of land – the desert (Sahara), the arid scrublands south of the desert (Sahel), and the fertile land even farther south (Sudan). In the 15th century, the Mali Empire fragmented, sending the region into chaos. Uncertainty abounded as European shipping lanes replaced the Silk Road and the transatlantic trade of enslaved people ramped up. Songhai reflected a militaristic alternative to commerce and productivity-driven empires.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_SONGHAI_CHAPTER_HISTORY_PARA_2">
+			<Text>While the Silk Road had existed since ancient times, its height was established by the Mongols and, to some extent, the Arab caliphates before them. The caliphates were especially relevant in the West, where Arab and later Turkish powers controlled the distribution of Chinese wealth into Europe…and West Africa. Caravans linked the Sahara to this lucrative pipeline. Around 1300, the Dar al-Islam (the Muslim world) formed a common community stretching from Southeast Asia to Morocco. Ibn Battuta, one of our leaders, charted across this world.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_SONGHAI_CHAPTER_HISTORY_PARA_3">
+			<Text>In West Africa, the pilgrimage to Mecca (the hajj) benefited these routes as pilgrims traveled with the caravans. Smaller African kingdoms, beyond the reach of Islam, also gained wealth and rose in power as a result of this massive network. The kings of Mali converted to Islam in the 1000s and reached their height around 1230, under a series of kings, the mansa. Malian society was separated by various factions: court slaves (jomba), hunters’ societies that had formed a civic warrior caste (donson ton), and the court itself (the gbara). However, Mali was also a tribal kingdom, one orbited by several ethnically-defined tribes. The Songhai was one of these.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_SONGHAI_CHAPTER_HISTORY_PARA_4">
+			<Text>Songhai is an ur-category for people along the Niger River, namely the Sorko, Do, and Gao. Records are spotty, but their category of kingship seemed to derive its legitimacy from Arabic roots. These kings had two lineages: the malik (Arabic for ruler) and the zuwa (an indigenous category). The Songhai people grew to power after taking control of trade routes passing through Gao. Aside from pilgrims on hajj, traded goods included gold, salt, enslaved peoples, kola nuts, leather, dates, and ivory.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_SONGHAI_CHAPTER_HISTORY_PARA_5">
+			<Text>On the eve of Songhai independence in 1460, Ming China was the wealthiest empire in the world, and the Mughals were a key contender for that title. All trade moved through Arab hands in the Mediterranean. But that was all about to change. The Portuguese had recently established a trading empire that would catastrophically impact the region. Their network provided states with a resource stream that was outside the traditional caravan route, and the Songhai leapt at the chance to take advantage.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_SONGHAI_CHAPTER_HISTORY_PARA_6">
+			<Text>The Songhai became independent under King Sonni Ali who expanded his holdings across former Malian lands, including the capital at Timbuktu. The invasion was devastating – the city was sacked, and its famed scholars were repressed, disrupting its tradition of education and literary production. Taking control of the surrounding trade routes, Songhai used its riches to grow to higher levels of power.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_SONGHAI_CHAPTER_HISTORY_PARA_7">
+			<Text>Askia Muhammad was the next noteworthy Songhai king. Where Sonni Ali conducted a ruthless campaign of conquest, Askia Muhammad desired to rebuild the libraries of Islam (synonymous with scholarship) and paid more attention to statecraft. He established governor-run provinces, overhauled the empire’s social infrastructure, and divided warriors and non-combatants, allowing Muslim learning to flourish.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_SONGHAI_CHAPTER_HISTORY_PARA_8">
+			<Text>Askia Muhammad’s death sparked a succession war, and Morocco saw an opportunity to invade, armed with European weapons. However, Songhai was too widely dispersed to fade away entirely; despite Moroccan capture of urban centers, the Songhai people faded into the countryside and remain relevant ethnic groups today – the Dendi in particular.</Text>
+		</Row>
+		<!-- CIVILIZATION_SPAIN -->
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_SPAIN_CHAPTER_HISTORY_PARA_1">
+			<Text>Hispania was the name of the Roman province at the end of the Iberian peninsula, which Augustus Caesar fully incorporated into the Empire. As the Roman Empire collapsed under the weight of barbarians, so did Hispania. Gothic tribes – Germanic peoples from the Baltic region – moved into Spain, setting up monarchies in much of the Mediterranean, which quickly became Catholic. These largely fell to expanding Muslim powers, namely the Umayyad Caliphate in 711 CE. Spain’s Muslim rule lasted for many centuries, but it was almost constantly at war with the Gothic kingdoms who were eventually pushed back to the northern shore.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_SPAIN_CHAPTER_HISTORY_PARA_2">
+			<Text>After the Umayyad height in 719, a few groups made gains against the Muslims and formed the new kingdoms of Castile and Aragon (the modern Madrid and Barcelona regions, respectively). These two polities were central to the medieval ideas of Spain – it was not yet a cohesive state but more of a region. The territory really came into its own in 1469 with the union of Isabella of Castile and Ferdinand of Aragon. This was the beginning of one of the greatest empires the world had seen, one defined by conquest. Castile had always been in the process of taking over its neighbors, so the conquest of the New World came on the heels of other Spanish conquests. For instance, the occupation of Muslim Granada happened in 1492, the year of Columbus’s voyage. Just as Spain had invaded Granada in the name of Christianity, it would also bring its light to the New World.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_SPAIN_CHAPTER_HISTORY_PARA_3">
+			<Text>The Spanish Empire was built on a couple of contradictory impulses. The first was to secure the flow of gold to its center. The second was the conversion of subjects. The conflict between these two goals is evident in the empire’s experience with the Emirate of Granada. This final Muslim outpost, on the southern tip of Spain, was economically vital as a pipeline into African gold resources. Spain was able to tap into this flow of wealth by demanding tribute from Granada; in exchange, they would not invade. The tribute system allowed Granada to remain Muslim – but eventually the Catholic monarchs launched war to convert the emirate. Once Christianized, Granada was cut off from the gold trade of Muslim Africa, and so too was the Spanish throne.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_SPAIN_CHAPTER_HISTORY_PARA_4">
+			<Text>With such a strict anti-Muslim perspective, Spain’s prospects for trading through Ottoman lands were dim. Everyone wanted access to the riches of China. As the Silk Road closed off to Spain, the Spanish embarked on a quest to circumvent it – or circumnavigate it. Columbus’s discovery of a barrier on the way to China – the Americas – was an obstacle, but it was also an opportunity.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_SPAIN_CHAPTER_HISTORY_PARA_5">
+			<Text>The New World offered several opportunities. The Portuguese had discovered rich sources of gold in West Africa, along with ivory, spices…and people they could enslave. Spain eyed their network carefully. In the War of Castilian Succession, they seized control of these trades (significantly, this did not necessarily mean they were establishing colonies).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_SPAIN_CHAPTER_HISTORY_PARA_6">
+			<Text>After funding Columbus and “discovering” the New World, the Spanish Empire, along with Portugal, began carving up this new land. Spain was “granted” dominion over lands west of a particular line, while Portugal managed the east. This line seemed to greatly benefit Spain until one realizes that Africa was also included on the Portugal side. By 1511, the Americas (with a power center in Santo Domingo in what is now the Dominican Republic) had become a vital part of the Spanish Empire. The rights initially promised to adventurers like Columbus were quickly revoked and placed in the hands of the Crown. This was a venture for the Catholic monarchs.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_SPAIN_CHAPTER_HISTORY_PARA_7">
+			<Text>But Spain was split on how to handle the empire’s new lands. In 1516, the powerful royal family, the Hapsburgs, took over the dynasty, and Spain became concerned with Old World issues; it viewed the New World as a venture for conversion. Only after the Aztec and Inca conquests were the Americas seen as a source of vast wealth. And when this wealth arrived in Europe, it was in the form of a flood, fueling inflation and wars in Spain. By 1556, the Hapsburgs controlled, in addition to Spain, the Netherlands, Luxemburg, Milan, Naples, Austria, and parts of Hungary, Bohemia, and Transylvania.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_SPAIN_CHAPTER_HISTORY_PARA_8">
+			<Text>From the perspective of France and England, Spain was a rival – an aggressive one, married to the most powerful family in Europe, fueled by wealth, and seeking to expand. France allied with the Ottomans while the English faced down the dreaded Spanish armada. This horrifically large Hapsburg fleet sailed to attack Elizabeth I and stop the spread of Protestantism once and for all in 1588. The venture ultimately failed in a spectacular fashion thanks to Spanish incompetence, English and Dutch prowess, and adverse weather. While Spain would rule the seas for another hundred years, the stage was set for Britain’s domination.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_SPAIN_CHAPTER_HISTORY_PARA_9">
+			<Text>By this point, after the fall of the Aztecs and Inca, Spain was receiving a glut of money (and throwing it at its neighbors). However, a population can’t eat silver. A better strategy might have been to trade that silver for valued Chinese goods. Instead, Spain fought with Brunei over domination of the Philippines, which was becoming a major dumping ground for a lot of that New World silver, and a major buying point for Chinese goods.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_SPAIN_CHAPTER_HISTORY_PARA_10">
+			<Text>The Spanish Empire was occasionally gold-rich, but as lottery winners understand, riches come and go. And Spain’s went. Both before and after its Armada was defeated, Spain went into bankruptcy; its wars were growing increasingly expensive. The 17th century marked the steady dispossession of Spanish lands across Europe, as European powers fought the overextended Spaniards. The Netherlands became independent, Portugal revolted, and the English and Dutch established competing colonies in the New World, in violation of the Pope’s decree. (They were Protestant countries – why should they care what the Pope says?)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_SPAIN_CHAPTER_HISTORY_PARA_11">
+			<Text>The 18th century was a low period, as Spain’s new Bourbon dynasty maintained some possessions while other losses were set in stone. The Bourbons also sought to increase revenue – why was Spain constantly bankrupt if their colonies were so rich? These reforms increased the flow of money and solidified the inequality that sparked revolts across the empire.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_SPAIN_CHAPTER_HISTORY_PARA_12">
+			<Text>The story of the Spanish Empire ends at the height of this prosperity. In the 1700s, the Spanish colonies were rich and growing in power, but they were also annoyed at their poor cousins in Europe, who adopted a superior attitude. Things were set to break, which they did when Napoleon invaded and ousted the Bourbons in favor of his own kin. However, that’s a story for a later time. </Text>
+		</Row>
+	</EnglishText>
+</Database>

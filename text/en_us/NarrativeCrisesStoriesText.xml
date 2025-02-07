@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database>
+    <EnglishText>
+        <Row Tag="LOC_EC001A_STORYTITLE">
+            <Text>The Bourgeoisie</Text>
+        </Row>
+        <Row Tag="LOC_EC001A_COMPLETION">
+            <Text>The world has contracted. New shipping lanes bring goods once unknown to markets – and along with them the desire for more. One’s importance in this new world is built upon what one can buy, and not who one’s father was – money is a great leveler, and feudal lords now find themselves waiting upon the whims of merchants without land or title, but with the cash – and influence – of a duke. Manufacturing and mercantile areas of the city grow increasingly wealthy as a result, but as they do so, they demand more and more attention, goods – and rights.</Text>
+        </Row>
+        <Row Tag="LOC_EC001B_NAME">
+            <Text>Continue the crisis</Text>
+        </Row>
+        <Row Tag="LOC_EC001B_DESCRIPTION">
+            <Text>+1 Crisis Policy Slot.</Text>
+        </Row>
+        <Row Tag="LOC_EC002A_STORYTITLE">
+            <Text>The New Elite</Text>
+        </Row>
+        <Row Tag="LOC_EC002A_COMPLETION">
+            <Text>The shipping magnate, the factory owner, the burgher, and the landlord in distant colonies – these individuals have no royal title. But as the world craves trade, it is these fortunes that rise. A contradiction is born: those with political power and military power have less and less financial power. To right these scales and re-assert the proper order of things, new restrictions are placed upon the merchants – new taxes and limitations on the flow of trade. Religious leaders are co-opted into this as well – the economic order must be on Earth as it is in Heaven. In the guildhall, in the university, in the bazaar, angry voices seethe: what right does the old aristocracy have over what seems to be the natural order of things?</Text>
+        </Row>
+        <Row Tag="LOC_EC002B_NAME">
+            <Text>Continue the crisis</Text>
+        </Row>
+        <Row Tag="LOC_EC002B_DESCRIPTION">
+            <Text>+1 Crisis Policy Slot.</Text>
+        </Row>
+        <Row Tag="LOC_EC003A_STORYTITLE">
+            <Text>Into the Fire</Text>
+        </Row>
+        <Row Tag="LOC_EC003A_COMPLETION">
+            <Text>The old regime is broken, its pieces trampled by revolutionaries as they raise a new flag to their self-made future. Yet this triumph is only the start of the journey. There is still fury in the populace, and fear – will this new government truly achieve its ambitious promises? Politicians and local leaders confront these uncertainties head on, charting a path from chaos to peace. Reforging a nation is no simple task, but guided by the light of their revolutionary dream, the victors earnestly begin to manifest its reality.</Text>
+        </Row>
+        <Row Tag="LOC_EC003B_NAME">
+            <Text>Long live the Monarchy!</Text>
+        </Row>
+        <Row Tag="LOC_EC003B_DESCRIPTION">
+            <Text>Become a Constitutional Monarchy and start a Celebration. -10 Happiness in all Cities.</Text>
+        </Row>
+        <Row Tag="LOC_EC003C_NAME">
+            <Text>Long live the Republic!</Text>
+        </Row>
+        <Row Tag="LOC_EC003C_DESCRIPTION">
+            <Text>Become a Revolutionary Republic and start a Celebration. -10 Happiness in all Towns.</Text>
+        </Row>
+        <Row Tag="LOC_EC003D_NAME">
+            <Text>Long live the Dictatorship!</Text>
+        </Row>
+        <Row Tag="LOC_EC003D_DESCRIPTION">
+            <Text>Become an Authoritarian State and start a Celebration. -10 Happiness in all settlements in Distant Lands.</Text>
+        </Row>
+        <Row Tag="LOC_EC005A_STORYTITLE">
+            <Text>From the Ashes</Text>
+        </Row>
+        <Row Tag="LOC_EC005A_COMPLETION">
+            <Text>The ashes have cooled, and a new order has taken shape, one that claims to be the realization of natural law. Empires had long been defined via the claims of noble families and the contours of religious faith. But these have given way to those based on an imagined community of folk – and the harsh realities of commerce. The revolution has not happened in the same way everywhere. In some places, a new, rationalized monarchy emerges – but one based around a revolutionary idea: an individual is the embodiment of a people, not its owner. In other places, the people advocate for their own representation in some kind of deliberative body. In still others, a demagogue has awoken the desire for freedom and chained it to a personal quest for power. The world is born anew, and, for the first time, claims to be the full and complete realization of what it should be.</Text>
+        </Row>
+        <Row Tag="LOC_EC005B_NAME">
+            <Text>The Age of Exploration is ending.</Text>
+        </Row>
+        <Row Tag="LOC_EC005B_DESCRIPTION">
+            <Text>Who will carry our legacy?</Text>
+        </Row>
+        <Row Tag="LOC_EPC001A_STORYTITLE">
+            <Text>The Death Ship</Text>
+        </Row>
+        <Row Tag="LOC_EPC001A_COMPLETION">
+            <Text>A ship is seen, tacking to and fro outside the harbor where the wind will take it. The crew has died or abandoned it, but left expensive cargo from distant lands… and rats. Before the harbormaster can think to scuttle the ship, opportunistic looters from the shore have already carried off many things – some of which they did not intend.</Text>
+        </Row>
+        <Row Tag="LOC_EPC001B_NAME">
+            <Text>This plague is a divine punishment</Text>
+        </Row>
+        <Row Tag="LOC_EPC001B_DESCRIPTION">
+            <Text>+1 Crisis Policy Slot. Unlocks Physician Unit and Divine Punishment crisis policy.</Text>
+        </Row>
+        <Row Tag="LOC_EPC002A_STORYTITLE">
+            <Text>Cargo</Text>
+        </Row>
+        <Row Tag="LOC_EPC002A_COMPLETION">
+            <Text>Trade made the great cities of the world great, bringing silks and spices, new ideas and wonders. But pestilence flows, too, through these routes. While physicians debate its causes, and monarchs seek to maintain order, it is the dockworker and the caravan hand who must lift each load of foreign cargo and wonder – will this crate contain my death?</Text>
+        </Row>
+        <Row Tag="LOC_EPC002B_NAME">
+            <Text>Continue the crisis</Text>
+        </Row>
+        <Row Tag="LOC_EPC002B_DESCRIPTION">
+            <Text>+1 Crisis Policy Slot. The plagues grow stronger.</Text>
+        </Row>
+        <Row Tag="LOC_EPC003A_STORYTITLE">
+            <Text>A White Horse</Text>
+        </Row>
+        <Row Tag="LOC_EPC003A_COMPLETION">
+            <Text>Trained doctors flee plague-struck cities, while charlatans peddle false cures in their stead, drawing the desperate and naïve alike. Those neighborhoods that remain erect barricades to exclude the sick, but the plague seeps in regardless. The best administrators seek to aid where they can; the worst simply seek to survive.</Text>
+        </Row>
+        <Row Tag="LOC_EPC003B_NAME">
+            <Text>Continue the crisis</Text>
+        </Row>
+        <Row Tag="LOC_EPC003B_DESCRIPTION">
+            <Text>+1 Crisis Policy Slot. The plagues grow stronger.</Text>
+        </Row>
+        <Row Tag="LOC_EPC004A_STORYTITLE">
+            <Text>Rebirth</Text>
+        </Row>
+        <Row Tag="LOC_EPC004A_COMPLETION">
+            <Text>As urban districts turned in on themselves in the face of the plague, new designs emerged. Choked urban streets are now replaced by broad avenues, sewage is no longer dumped into reservoirs – an unseen enemy requires constant vigilance, a lesson learned through grief.</Text>
+        </Row>
+        <Row Tag="LOC_EPC004B_NAME">
+            <Text>The Age of Exploration is ending.</Text>
+        </Row>
+        <Row Tag="LOC_EPC004B_DESCRIPTION">
+            <Text>Who will carry our legacy?</Text>
+        </Row>
+        <Row Tag="LOC_EPC001C_NAME">
+            <Text>This plague is a divine mercy</Text>
+        </Row>
+        <Row Tag="LOC_EPC001C_DESCRIPTION">
+            <Text>+1 Crisis Policy Slot. Unlocks Physician Unit and Divine Mercy crisis policy.</Text>
+        </Row>
+        <Row Tag="LOC_ERC001A_STORYTITLE">
+            <Text>Sacred and Profane</Text>
+        </Row>
+        <Row Tag="LOC_ERC001A_COMPLETION">
+            <Text>Beyond this mortal realm lies another – so citizens of the world believe. Through prayer and rites, sacred books and holy places, they venerate the divine in their own ways, seeking guidance in this life and the next. These diverse practices enrich our society with inventive perspectives; but disagreements between sects create deep rifts that threaten chaos. As conversations spiral into arguments, a decision faces the empire: to tolerate multiple religions or to unify under a single creed?</Text>
+        </Row>
+        <Row Tag="LOC_ERC001B_NAME">
+            <Text>All faiths must be accepted.</Text>
+        </Row>
+        <Row Tag="LOC_ERC001B_DESCRIPTION">
+            <Text>+1 Crisis Policy Slot. Unlocks Religious Tolerance crisis policy. Unhappy settlements following another player's Religion can go into Unrest.</Text>
+        </Row>
+        <Row Tag="LOC_ERC001C_NAME">
+            <Text>Unity is possible only under one dogma.</Text>
+        </Row>
+        <Row Tag="LOC_ERC001C_DESCRIPTION">
+            <Text>+1 Crisis Policy Slot. Unlocks Religious Zeal crisis policy. Unhappy settlements following another player's Religion can go into Unrest.</Text>
+        </Row>
+        <Row Tag="LOC_ERC002A_STORYTITLE">
+            <Text>Darkening Skies</Text>
+        </Row>
+        <Row Tag="LOC_ERC002A_COMPLETION">
+            <Text>Where customs and authority once fastened settlements together, now religious tensions tear them apart as private beliefs become public politics. The reins of power snap and no force, sacred or secular, can halt the discord that runs rampant. The world rages, and as angry hands reach for weapons, people seek support from abroad, finding community in shared beliefs rather than shared customs.</Text>
+        </Row>
+        <Row Tag="LOC_ERC002B_NAME">
+            <Text>Continue the crisis</Text>
+        </Row>
+        <Row Tag="LOC_ERC002B_DESCRIPTION">
+            <Text>+1 Crisis Policy Slot. Unhappy settlements following another player's Religion can go into Revolt.</Text>
+        </Row>
+        <Row Tag="LOC_ERC003A_STORYTITLE">
+            <Text>Cataclysm</Text>
+        </Row>
+        <Row Tag="LOC_ERC003A_COMPLETION">
+            <Text>The fires of Heaven have become fires on Earth. Religious beliefs clash at home and abroad – missionaries spread their word by mouth, and soldiers by sword and musket. Civilizations crack and bleed as settlements exchange old banners for new in the name of the divine. In the midst of conflict, communities grow ever closer, clinging to one another as the storm peaks overhead.</Text>
+        </Row>
+        <Row Tag="LOC_ERC003B_NAME">
+            <Text>Continue the crisis</Text>
+        </Row>
+        <Row Tag="LOC_ERC003B_DESCRIPTION">
+            <Text>+2 Crisis Policy Slots.</Text>
+        </Row>
+        <Row Tag="LOC_ERC004A_STORYTITLE">
+            <Text>Rebirth</Text>
+        </Row>
+        <Row Tag="LOC_ERC004A_COMPLETION">
+            <Text>The dark clouds dissipate, and light illuminates the world once more. It shines on a changed landscape of new allegiances, of realignment both spiritual and political. The old religious rivalries have quieted as nations establish fresh authority, and leave their neighbors to their own affairs.</Text>
+        </Row>
+        <Row Tag="LOC_ERC004B_NAME">
+            <Text>The Age of Exploration is ending.</Text>
+        </Row>
+        <Row Tag="LOC_ERC004B_DESCRIPTION">
+            <Text>Who will carry our legacy?</Text>
+        </Row>
+    </EnglishText>
+</Database>

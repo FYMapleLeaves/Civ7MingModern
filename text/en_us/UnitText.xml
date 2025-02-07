@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_UNIT_SWORDSMAN_NAME">
+			<Text>Swordsman</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SWORDSMAN_DESCRIPTION">
+			<Text>Tier 1 Exploration Infantry Unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HEAVY_ARCHER_NAME">
+			<Text>Heavy Archer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HEAVY_ARCHER_DESCRIPTION">
+			<Text>Tier 1 Exploration Ranged Unit. Stronger on attack than defense.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COURSER_NAME">
+			<Text>Courser</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COURSER_DESCRIPTION">
+			<Text>Tier 1 Exploration Cavalry Unit. Ignores Zone of Control.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CATAPULT_NAME">
+			<Text>Catapult</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CATAPULT_DESCRIPTION">
+			<Text>Tier 1 Exploration Siege Unit. High Bombard strength for attacking Fortified Districts.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COG_NAME">
+			<Text>Cog</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COG_DESCRIPTION">
+			<Text>Tier 1 Exploration Naval Unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MAN_AT_ARMS_NAME">
+			<Text>Man-At-Arms</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MAN_AT_ARMS_DESCRIPTION">
+			<Text>Tier 2 Exploration Infantry Unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CROSSBOWMAN_NAME">
+			<Text>Crossbowman</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CROSSBOWMAN_DESCRIPTION">
+			<Text>Tier 2 Exploration Ranged Unit. Stronger on attack than defense.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KNIGHT_NAME">
+			<Text>Knight</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KNIGHT_DESCRIPTION">
+			<Text>Tier 2 Exploration Cavalry Unit. Ignores Zone of Control.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TREBUCHET_NAME">
+			<Text>Trebuchet</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TREBUCHET_DESCRIPTION">
+			<Text>Tier 2 Exploration Siege Unit. High Bombard strength for attacking Fortified Districts.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CARRACK_NAME">
+			<Text>Carrack</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CARRACK_DESCRIPTION">
+			<Text>Tier 2 Exploration Naval Unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PIKEMAN_NAME">
+			<Text>Pikeman</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PIKEMAN_DESCRIPTION">
+			<Text>Tier 3 Exploration Infantry Unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARQUEBUSIER_NAME">
+			<Text>Arquebusier</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARQUEBUSIER_DESCRIPTION">
+			<Text>Tier 3 Exploration Ranged Unit. Stronger on attack than defense.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LANCER_NAME">
+			<Text>Lancer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LANCER_DESCRIPTION">
+			<Text>Tier 3 Exploration Cavalry Unit. Ignores Zone of Control.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BOMBARD_NAME">
+			<Text>Bombard</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BOMBARD_DESCRIPTION">
+			<Text>Tier 3 Exploration Siege Unit. High Bombard strength for attacking Fortified Districts.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GALLEON_NAME">
+			<Text>Galleon</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GALLEON_DESCRIPTION">
+			<Text>Tier 3 Exploration Naval Unit.</Text>
+		</Row>
+		<!-- Generic Civilian Units -->
+		<Row Tag="LOC_UNIT_MISSIONARY_NAME">
+			<Text>Missionary</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MISSIONARY_DESCRIPTION">
+			<Text>A Civilian Unit that has the Spread Religion action. Receive 25[icon:YIELD_GOLD] Gold when you convert a Settlement for the first time.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TREASURE_FLEET_NAME">
+			<Text>Treasure Fleet</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TREASURE_FLEET_DESCRIPTION">
+			<Text>A Support Unit that carries riches from the Distant Lands. Return it to friendly waters in the Homeland to earn Treasure Fleet Points and[icon:YIELD_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TREASURE_FLEET_NAME">
+			<Text>Always Captured</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TREASURE_FLEET_DESCRIPTION">
+			<Text>Is captured by attacker when defeated in combat.</Text>
+		</Row>
+		<!-- Unit Abilities -->
+		<Row Tag="LOC_ABILITY_FACTO_PREVIEW">
+			<Text>+{1_Amount} De Facto</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_INITIATION_NAME">
+			<Text>Initiation</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_INITIATION_DESCRIPTION">
+			<Text>Receive 25[icon:YIELD_GOLD] Gold when you convert a Settlement for the first time.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_EX_TECH_INFANTRY_PREVIEW">
+			<Text>+{1_Amount} Heraldry</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_EX_TECH_NAVAL_PREVIEW">
+			<Text>+{1_Amount} Shipbuilding</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_EX_TECH_SIEGE_PREVIEW">
+			<Text>+{1_Amount} Metallurgy</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_EX_TECH_CAVALRY_PREVIEW">
+			<Text>+{1_Amount} Metal Casting</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_EX_TECH_RANGED_PREVIEW">
+			<Text>+{1_Amount} Gunpowder</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CRISIS_COMBAT_MINOR_PENALTY_PREVIEW">
+			<Text>{1_Amount} Purged Officers</Text>
+		</Row>
+		<!-- Abbasid Unique Units -->
+		<Row Tag="LOC_UNIT_MAMLUK_NAME">
+			<Text>Mamluk</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MAMLUK_BASE_DESCRIPTION">
+			<Text>Abbasid Unique Cavalry Unit. When stationed in your territory, receive +1 Combat Strength for every Urban Population in that Settlement. Ignores Zone of Control. Has lower combat strength than other Cavalry units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MAMLUK_DESCRIPTION">
+			<Text>Tier 1 Abbasid Unique Cavalry Unit. When stationed in or occupying a Settlement, receive +1 Combat Strength for every Urban Population in that Settlement. Ignores Zone of Control. Has lower combat strength than other Tier 1 Cavalry units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MAMLUK_2_DESCRIPTION">
+			<Text>Tier 2 Abbasid Unique Cavalry Unit. When stationed in or occupying a Settlement, receive +1 Combat Strength for every Urban Population in that Settlement. Ignores Zone of Control. Has lower combat strength than other Tier 2 Cavalry units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MAMLUK_3_DESCRIPTION">
+			<Text>Tier 3 Abbasid Unique Cavalry Unit. When stationed in or occupying a Settlement, receive +1 Combat Strength for every Urban Population in that Settlement. Ignores Zone of Control. Has lower combat strength than other Tier 3 Cavalry units.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITAY_MAMLUK_DESCRIPTION">
+			<Text>When stationed in or occupying a Settlement, receive +1 Combat Strength for every Urban Population in that Settlement.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MAMLUK_PREVIEW">
+			<Text>+{1_Amount} Urban Population</Text>
+		</Row>
+		<!-- Chola Unique Units -->
+		<Row Tag="LOC_UNIT_KALAM_NAME">
+			<Text>Kalam</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KALAM_BASE_DESCRIPTION">
+			<Text>Chola Unique Naval Unit. +1 additional attack per turn if movement allows.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KALAM_DESCRIPTION">
+			<Text>Tier 1 Chola Unique Naval Unit. +1 additional attack per turn if movement allows.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KALAM_2_DESCRIPTION">
+			<Text>Tier 2 Chola Unique Naval Unit. +1 additional attack per turn if movement allows.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KALAM_3_DESCRIPTION">
+			<Text>Tier 3 Chola Unique Naval Unit. +1 additional attack per turn if movement allows.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_KALAM_DESCRIPTION">
+			<Text>+1 additional attack per turn if movement allows.</Text>
+		</Row>
+		<Row Tag="LOC_KALAM_MOD_TWO_ATTACKS_DESCRIPTION">
+			<Text>+1 additional attack per turn if movement allows.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_OTTRU_NAME">
+			<Text>Ottru</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_OTTRU_DESCRIPTION">
+			<Text>Chola Unique Naval Commander. Has +1 Movement and greater sight. Opposing Military Units in the Command Radius receive -3 Combat Strength.</Text>
+		</Row>
+		<Row Tag="LOC_OTTRU_ABILITY_DESCRIPTION">
+			<Text>Opposing Military Units in the Command Radius receive -3 Combat Strength from Ottru.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_OTTRU_PREVIEW">
+			<Text>-{1_Amount} from Ottru</Text>
+		</Row>
+		<!-- Hawaii Unique Units -->
+		<Row Tag="LOC_UNIT_LEIOMANO_NAME">
+			<Text>Leiomano</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LEIOMANO_BASE_DESCRIPTION">
+			<Text>Hawaiian Unique Infantry Unit. +3 Combat Strength against Infantry and Cavalry Units. Receives[icon:YIELD_CULTURE] Culture from defeating enemy Units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LEIOMANO_DESCRIPTION">
+			<Text>Tier 1 Hawaiian Unique Infantry Unit. +3 Combat Strength against Infantry and Cavalry Units. Receives[icon:YIELD_CULTURE] Culture from defeating enemy Units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LEIOMANO_2_DESCRIPTION">
+			<Text>Tier 2 Hawaiian Unique Infantry Unit. +3 Combat Strength against Infantry and Cavalry Units. Receives[icon:YIELD_CULTURE] Culture from defeating enemy Units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LEIOMANO_3_DESCRIPTION">
+			<Text>Tier 3 Hawaiian Unique Infantry Unit. +3 Combat Strength against Infantry and Cavalry Units. Receives[icon:YIELD_CULTURE] Culture from defeating enemy Units.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LEIOMANO_DESCRIPTION">
+			<Text>+3 Combat Strength against Infantry and Cavalry Units.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LEIOMANO_CULTURE_DESCRIPTION">
+			<Text>Gain[icon:YIELD_CULTURE] Culture equal to 25% of the defeated Unit's strength.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LEIOMANO_PREVIEW">
+			<Text>+{1_Amount} against Infantry and Cavalry Units</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KAHUNA_NAME">
+			<Text>Kahuna</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KAHUNA_DESCRIPTION">
+			<Text>Hawaiian Unique Missionary. Has an action to heal adjacent Units. Receive 25[icon:YIELD_GOLD] Gold when you convert a Settlement.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HEAL_ADJACENT_NAME">
+			<Text>Heal</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HEAL_ADJACENT_DESCRIPTION">
+			<Text>Spend this Unit to heal adjacent units 40 HP.</Text>
+		</Row>
+		<!-- Inca Unique Units -->
+		<Row Tag="LOC_UNIT_WARAKAQ_NAME">
+			<Text>Warak'aq</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WARAKAQ_BASE_DESCRIPTION">
+			<Text>Incan Unique Ranged Unit. Has +1 Movement and ignores movement penalties from Rough Terrain. +5 Combat Strength when attacking from Rough Terrain.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WARAKAQ_DESCRIPTION">
+			<Text>Tier 1 Incan Unique Ranged Unit. Has +1 Movement and ignores movement penalties from Rough Terrain. +5 Combat Strength when attacking from Rough Terrain.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WARAKAQ_2_DESCRIPTION">
+			<Text>Tier 2 Incan Unique Ranged Unit. Has +1 Movement and ignores movement penalties from Rough Terrain. +5 Combat Strength when attacking from Rough Terrain.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WARAKAQ_3_DESCRIPTION">
+			<Text>Tier 3 Incan Unique Ranged Unit. Has +1 Movement and ignores movement penalties from Rough Terrain. +5 Combat Strength when attacking from Rough Terrain.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WARAKAQ_DESCRIPTION">
+			<Text>Ignores movement penalties from Rough Terrain. +5 Combat Strength when attacking from Rough Terrain.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WARAKAQ_PREVIEW">
+			<Text>+{1_Amount} Rough Terrain</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CHASQUI_NAME">
+			<Text>Chasqui</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CHASQUI_DESCRIPTION">
+			<Text>Incan Unique Scout with +1 Movement. Has increased sight that ignores Mountains and Rough Terrain.</Text>
+		</Row>
+		<!-- Majapahit Unique Units -->
+		<Row Tag="LOC_UNIT_CETBANG_NAME">
+			<Text>Cetbang</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CETBANG_BASE_DESCRIPTION">
+			<Text>Majapahit Unique Naval Unit. +5 Combat Strength against Naval Units. Can pillage within 2 tiles for 1 Movement.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CETBANG_DESCRIPTION">
+			<Text>Tier 1 Majapahit Unique Naval Unit. +5 Combat Strength against Naval Units. Can pillage within 2 tiles for 1 Movement.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CETBANG_2_DESCRIPTION">
+			<Text>Tier 2 Majapahit Unique Naval Unit. +5 Combat Strength against Naval Units. Can pillage within 2 tiles for 1 Movement.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CETBANG_3_DESCRIPTION">
+			<Text>Tier 3 Majapahit Unique Naval Unit. +5 Combat Strength against Naval Units. Can pillage within 2 tiles for 1 Movement.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CETBANG_DESCRIPTION">
+			<Text>+5 Combat Strength against Naval Units. Can pillage within 2 tiles for 1 Movement.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CETBANG_PREVIEW">
+			<Text>+{1_Amount} against Naval Units</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PEDANDA_NAME">
+			<Text>Pedanda</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PEDANDA_DESCRIPTION">
+			<Text>Majapahit Unique Missionary. A Unit that has the Spread Religion action. Receive 25[icon:YIELD_CULTURE] Culture and[icon:YIELD_GOLD] Gold when you convert a Settlement for the first time.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_PEDANDA_DESCRIPTION">
+			<Text>Receive {1_Amount}[icon:YIELD_CULTURE] Culture when you convert a Settlement for the first time.</Text>
+		</Row>
+		<!-- Ming Unique Units -->
+		<Row Tag="LOC_UNIT_XUNLEICHONG_NAME">
+			<Text>Xunleichong</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_XUNLEICHONG_BASE_DESCRIPTION">
+			<Text>Ming Unique Infantry Unit. +4 Combat Strength in Featureless tiles. Has a Ranged attack.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_XUNLEICHONG_DESCRIPTION">
+			<Text>Tier 1 Ming Unique Infantry Unit. +4 Combat Strength in Featureless tiles. Has a Ranged attack.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_XUNLEICHONG_2_DESCRIPTION">
+			<Text>Tier 2 Ming Unique Infantry Unit. +4 Combat Strength in Featureless tiles. Has a Ranged attack.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_XUNLEICHONG_3_DESCRIPTION">
+			<Text>Tier 3 Ming Unique Infantry Unit. +4 Combat Strength in Featureless tiles. Has a Ranged attack.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_XUNLEICHONG_DESCRIPTION">
+			<Text>+4 Combat Strength in Featureless tiles. Has a Ranged attack.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_XUNLEICHONG_PREVIEW">
+			<Text>+{1_Amount} in Featureless tiles</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_XUNLEICHONG_BONUS_DESCRIPTION">
+			<Text>+3 Combat Strength to Ranged Units adjacent to the Xunleichong.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_XUNLEICHONG_BONUS_PREVIEW">
+			<Text>+{1_Amount} adjacent Xunleichong</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MANDARIN_NAME">
+			<Text>Mandarin</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MANDARIN_DESCRIPTION">
+			<Text>Ming Unique Merchant. Civilian who can establish a Trade Route to import Resources from a foreign Settlement. +100[icon:YIELD_GOLD] Gold when using the Create a Road Action.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MANDARIN_DESCRIPTION">
+			<Text>+100[icon:YIELD_GOLD] Gold when using the Create a Road Action.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MANDARIN_BONUS_DESCRIPTION">
+			<Text>+25[icon:YIELD_SCIENCE] Science when using the Create a Road Action.</Text>
+		</Row>
+		<!-- Mongolia Unique Units -->
+		<Row Tag="LOC_UNIT_KESHIG_NAME">
+			<Text>Keshig</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KESHIG_BASE_DESCRIPTION">
+			<Text>Mongolian Unique Ranged Unit. Has +1 Movement and heals 15 HP after defeating an enemy Unit. Counts as a Cavalry Unit and ignores Zone of Control.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KESHIG_DESCRIPTION">
+			<Text>Tier 1 Mongolian Unique Ranged Unit. Has +1 Movement and heals 15 HP after defeating an enemy Unit. Counts as a Cavalry Unit and ignores Zone of Control.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KESHIG_2_DESCRIPTION">
+			<Text>Tier 2 Mongolian Unique Ranged Unit. Has +1 Movement and heals 15 HP after defeating an enemy Unit. Counts as a Cavalry Unit and ignores Zone of Control.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KESHIG_3_DESCRIPTION">
+			<Text>Tier 3 Mongolian Unique Ranged Unit. Has +1 Movement and heals 15 HP after defeating an enemy Unit. Counts as a Cavalry Unit and ignores Zone of Control.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_KESHIG_DESCRIPTION">
+			<Text>Heals 15 HP after defeating an enemy Unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NOYAN_NAME">
+			<Text>Noyan</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NOYAN_DESCRIPTION">
+			<Text>Mongolian Unique Army Commander. +50% Flanking to Cavalry Units in the Command Radius.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NOYAN_DESCRIPTION">
+			<Text>+50% Flanking to Cavalry Units in the Command Radius.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NOYAN_MOUNTED_COMBAT_PREVIEW">
+			<Text>+{1_Amount}% Flanking from Noyan</Text>
+		</Row>
+		<!-- Norman Unique Units -->
+		<Row Tag="LOC_UNIT_CHEVALER_NAME">
+			<Text>Chevaler</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CHEVALER_BASE_DESCRIPTION">
+			<Text>Norman Unique Cavalry Unit. +3 Combat Strength against slower Units. Ignores Zone of Control.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CHEVALER_DESCRIPTION">
+			<Text>Tier 1 Norman Unique Cavalry Unit. +3 Combat Strength against slower Units. Ignores Zone of Control.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CHEVALER_2_DESCRIPTION">
+			<Text>Tier 2 Norman Unique Cavalry Unit. +3 Combat Strength against slower Units. Ignores Zone of Control.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CHEVALER_3_DESCRIPTION">
+			<Text>Tier 3 Norman Unique Cavalry Unit. +3 Combat Strength against slower Units. Ignores Zone of Control.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CHEVALER_DESCRIPTION">
+			<Text>+3 Combat Strength against slower Units.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CHEVALER_PREVIEW">
+			<Text>+{1_Amount} against slower Units</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CHEVALER_CIV_TRADITIONS_NAME">
+			<Text>Consuetudines et Justicie</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CHEVALER_CIV_TRADITIONS_DESCRIPTION">
+			<Text>+1 Combat Strength for every Tradition slotted.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CHEVALER_CIV_TRADITIONS_PREVIEW">
+			<Text>+{1_Amount} Consuetudines et Justicie</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SOKEMAN_NAME">
+			<Text>Sokeman</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SOKEMAN_DESCRIPTION">
+			<Text>Norman Unique Settler. Civilian Unit capable of founding new Towns. Receive Medieval Walls in the City Center when a new Town is created.</Text>
+		</Row>
+		<!-- Songhai Unique Units -->
+		<Row Tag="LOC_UNIT_GOLD_BANGLES_NAME">
+			<Text>Gold Bangles Infantry</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GOLD_BANGLES_BASE_DESCRIPTION">
+			<Text>Songhai Unique Infantry Unit. +5 Combat Strength on Resource tiles. +100%[icon:YIELD_GOLD] Gold from pillaging Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GOLD_BANGLES_DESCRIPTION">
+			<Text>Tier 1 Songhai Unique Infantry Unit. +5 Combat Strength on Resource tiles. +100%[icon:YIELD_GOLD] Gold from pillaging Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GOLD_BANGLES_2_DESCRIPTION">
+			<Text>Tier 2 Songhai Unique Infantry Unit. +5 Combat Strength on Resource tiles. +100%[icon:YIELD_GOLD] Gold from pillaging Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GOLD_BANGLES_3_DESCRIPTION">
+			<Text>Tier 3 Songhai Unique Infantry Unit. +5 Combat Strength on Resource tiles. +100%[icon:YIELD_GOLD] Gold from pillaging Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GOLD_BANGLES_DESCRIPTION">
+			<Text>+5 Combat Strength on Resource tiles. +100%[icon:YIELD_GOLD] Gold from pillaging Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GOLD_BANGLES_PREVIEW">
+			<Text>+{1_Amount} on Resources</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TAJIRO_NAME">
+			<Text>Tajiro</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TAJIRO_DESCRIPTION">
+			<Text>Songhai Unique Merchant. Civilian who can establish a Trade Route to import Resources from a foreign Settlement. When you create a Trade Route receive 100[icon:YIELD_GOLD] Gold if this is a Trade Route with at least 1 Navigable River.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TAJIRO_DESCRIPTION">
+			<Text>When you create a Trade Route receive 100[icon:YIELD_GOLD] Gold if this is a Trade Route with at least 1 Navigable River.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TAJIRO_BONUS_DESCRIPTION">
+			<Text>When you create a Trade Route receive an additional 100[icon:YIELD_GOLD] Gold if this is a Trade Route with at least 1 Navigable River.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SONGHAI_TRADE_PROTECTION_DESCRIPTION">
+			<Text>When you create a Trade Route receive an additional 100[icon:YIELD_GOLD] Gold if this is a Trade Route with at least 1 Navigable River.</Text>
+		</Row>
+		<!-- Spain Unique Units -->
+		<Row Tag="LOC_UNIT_TERCIO_NAME">
+			<Text>Tercio</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TERCIO_BASE_DESCRIPTION">
+			<Text>Spanish Unique Infantry Unit. Has a higher Combat Strength. Adjacent Units receive +3 Combat Strength against Cavalry Units (bonus is only applied once).</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TERCIO_DESCRIPTION">
+			<Text>Tier 1 Spanish Unique Infantry Unit. Has a higher Combat Strength. Adjacent Units receive +3 Combat Strength against Cavalry Units (bonus is only applied once).</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TERCIO_2_DESCRIPTION">
+			<Text>Tier 2 Spanish Unique Infantry Unit. Has a higher Combat Strength. Adjacent Units receive +3 Combat Strength against Cavalry Units (bonus is only applied once).</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TERCIO_3_DESCRIPTION">
+			<Text>Tier 3 Spanish Unique Infantry Unit. Has a higher Combat Strength. Adjacent Units receive +3 Combat Strength against Cavalry Units (bonus is only applied once).</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TERCIO_DESCRIPTION">
+			<Text>Adjacent Units receive +3 Combat Strength against Cavalry Units (bonus is only applied once).</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TERCIO_PREVIEW">
+			<Text>+{1_Amount} against Cavalry Units</Text>
+		</Row>
+		<!-- City-State Unique Units -->
+		<Row Tag="LOC_UNIT_CORSAIR_NAME">
+			<Text>Corsair</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CORSAIR_BASE_DESCRIPTION">
+			<Text>City-State Unique Naval Unit. Captures opposing Naval Units when it defeats them.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CORSAIR_DESCRIPTION">
+			<Text>Tier 1 City-State Unique Naval Unit. Captures opposing Naval Units when it defeats them.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CORSAIR_2_DESCRIPTION">
+			<Text>Tier 2 City-State Unique Naval Unit. Captures opposing Naval Units when it defeats them.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CORSAIR_3_DESCRIPTION">
+			<Text>Tier 3 City-State Unique Naval Unit. Captures opposing Naval Units when it defeats them.</Text>
+		</Row>
+		<!-- Crisis Unit -->
+		<Row Tag="LOC_UNIT_PHYSICIAN_NAME">
+			<Text>Physician</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PHYSICIAN_DESCRIPTION">
+			<Text>A Civilian who can Treat the Sick in an Infected settlement.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_PHYSICIAN_HAPPINESS_DESCRIPTION">
+			<Text>Use in an Infected Urban District to remove Unrest from that Settlement.</Text>
+		</Row>
+	</EnglishText>
+</Database>

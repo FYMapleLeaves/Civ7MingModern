@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<LoadingInfo_Ages>
+
+	</LoadingInfo_Ages>
+
+	<LoadingInfo_Civilizations>
+		<Row CivilizationType="CIVILIZATION_ABBASID_MODERN" CivilizationText="LOC_LOADING_CIV_INTRO_TEXT_ABBASID" Audio="VO_Loading_Abbasid" Subtitle="LOC_LOADING_INTRO_ABBASID" BackgroundImageHigh="fs://game/lsbg_abbasid_1080.png" BackgroundImageLow="fs://game/lsbg_abbasid_720.png" ForegroundImage="fs://game/civ_line_abbasid.png" />
+		<Row CivilizationType="CIVILIZATION_CHOLA_MODERN" CivilizationText="LOC_LOADING_CIV_INTRO_TEXT_CHOLA" Audio="VO_Loading_Chola" Subtitle="LOC_LOADING_INTRO_CHOLA" BackgroundImageHigh="fs://game/lsbg_chola_1080.png" BackgroundImageLow="fs://game/lsbg_chola_720.png" ForegroundImage="fs://game/civ_line_chola.png" />
+		<Row CivilizationType="CIVILIZATION_HAWAII_MODERN" CivilizationText="LOC_LOADING_CIV_INTRO_TEXT_HAWAII" Audio="VO_Loading_Hawaii" Subtitle="LOC_LOADING_INTRO_HAWAII" BackgroundImageHigh="fs://game/lsbg_hawaii_1080.png" BackgroundImageLow="fs://game/lsbg_hawaii_720.png" ForegroundImage="fs://game/civ_line_hawaii.png" />
+		<Row CivilizationType="CIVILIZATION_INCA_MODERN" CivilizationText="LOC_LOADING_CIV_INTRO_TEXT_INCA" Audio="VO_Loading_Inca" Subtitle="LOC_LOADING_INTRO_INCA" BackgroundImageHigh="fs://game/lsbg_inca_1080.png" BackgroundImageLow="fs://game/lsbg_inca_720.png" ForegroundImage="fs://game/civ_line_inca.png" />
+		<Row CivilizationType="CIVILIZATION_MAJAPAHIT_MODERN" CivilizationText="LOC_LOADING_CIV_INTRO_TEXT_MAJAPAHIT" Audio="VO_Loading_Majapahit" Subtitle="LOC_LOADING_INTRO_MAJAPAHIT" BackgroundImageHigh="fs://game/lsbg_majapahit_1080.png" BackgroundImageLow="fs://game/lsbg_majapahit_720.png" ForegroundImage="fs://game/civ_line_majapahit.png" />
+		<Row CivilizationType="CIVILIZATION_MING_MODERN" CivilizationText="LOC_LOADING_CIV_INTRO_TEXT_MING" Audio="VO_Loading_Ming" Subtitle="LOC_LOADING_INTRO_MING" BackgroundImageHigh="fs://game/lsbg_ming_1080.png" BackgroundImageLow="fs://game/lsbg_ming_720.png" ForegroundImage="fs://game/civ_line_ming.png" />
+		<Row CivilizationType="CIVILIZATION_MONGOLIA_MODERN" CivilizationText="LOC_LOADING_CIV_INTRO_TEXT_MONGOLIA" Audio="VO_Loading_Mongolia" Subtitle="LOC_LOADING_INTRO_MONGOLIA" BackgroundImageHigh="fs://game/lsbg_mongolia_1080.png" BackgroundImageLow="fs://game/lsbg_mongolia_720.png" ForegroundImage="fs://game/civ_line_mongolia.png" />
+		<Row CivilizationType="CIVILIZATION_NORMAN_MODERN" CivilizationText="LOC_LOADING_CIV_INTRO_TEXT_NORMAN" Audio="VO_Loading_Norman" Subtitle="LOC_LOADING_INTRO_NORMAN" BackgroundImageHigh="fs://game/lsbg_norman_1080.png" BackgroundImageLow="fs://game/lsbg_norman_720.png" ForegroundImage="fs://game/civ_line_norman.png" />
+		<Row CivilizationType="CIVILIZATION_SONGHAI_MODERN" CivilizationText="LOC_LOADING_CIV_INTRO_TEXT_SONGHAI" Audio="VO_Loading_Songhai" Subtitle="LOC_LOADING_INTRO_SONGHAI" BackgroundImageHigh="fs://game/lsbg_songhai_1080.png" BackgroundImageLow="fs://game/lsbg_songhai_720.png" ForegroundImage="fs://game/civ_line_songhai.png" />
+		<Row CivilizationType="CIVILIZATION_SPAIN_MODERN" CivilizationText="LOC_LOADING_CIV_INTRO_TEXT_SPAIN" Audio="VO_Loading_Spain" Subtitle="LOC_LOADING_INTRO_SPAIN" BackgroundImageHigh="fs://game/lsbg_spain_1080.png" BackgroundImageLow="fs://game/lsbg_spain_720.png" ForegroundImage="fs://game/civ_line_spain.png" />
+	</LoadingInfo_Civilizations>
+</Database>

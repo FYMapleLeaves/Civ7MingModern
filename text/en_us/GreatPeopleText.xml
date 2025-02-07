@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<!-- Abbasid -->
+		<Row Tag="LOC_UNIT_ALIM_NAME">
+			<Text>'Alim</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ALIM_DESCRIPTION">
+			<Text>A Great Person with one charge. Can only be trained in Cities with an Ulema, and the specific 'Alim received is random. Each 'Alim can only be received once. Cost increases per 'Alim trained.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_AL_JAHIZ_NAME">
+			<Text>Al-Jahiz</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_AL_JAHIZ_DESCRIPTION">
+			<Text>Create a Menagerie in a City. This Menagerie receives +2[icon:YIELD_HAPPINESS] Happiness. Tile must have less than 2 Buildings and the City cannot have a Menagerie.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_AL_KHWARIZMI_NAME">
+			<Text>Al-Khwarizmi</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_AL_KHWARIZMI_DESCRIPTION">
+			<Text>Activate on a completed Ulema. Each Building in this Quarter receives +3[icon:YIELD_SCIENCE] Science.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_IBN_SINA_NAME">
+			<Text>Ibn Sina</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_IBN_SINA_DESCRIPTION">
+			<Text>Create a Hospital in a City. This Hospital receives +2[icon:YIELD_FOOD] Food. Tile must have less than 2 Buildings and the City cannot have a Hospital.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_AL_MAQDISI_NAME">
+			<Text>Al-Maqdisi</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_AL_MAQDISI_DESCRIPTION">
+			<Text>Activate in another Civilization. Receive 50[icon:YIELD_GOLD] Gold for every Resource this Settlement has. (On Standard Speed)</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_AL_FARGHANI_NAME">
+			<Text>Al-Farghani</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_AL_FARGHANI_DESCRIPTION">
+			<Text>Create an Observatory in a City. This Observatory receives +2[icon:YIELD_SCIENCE] Science. Tile must have less than 2 Buildings and the City cannot have an Observatory.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_AL_FARABI_NAME">
+			<Text>Al-Farabi</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_AL_FARABI_DESCRIPTION">
+			<Text>Activate on a Science building. Receive a free random unlocked Technology.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_RABIA_NAME">
+			<Text>Rabia of Basra</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_RABIA_DESCRIPTION">
+			<Text>Activate on a Happiness building. +10%[icon:YIELD_HAPPINESS] Happiness in this Settlement. </Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_AL_SHAYBANI_NAME">
+			<Text>Al-Shaybani</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_AL_SHAYBANI_DESCRIPTION">
+			<Text>Activate on a Culture building. Receive an additional Social Policy slot.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_AL_JAZARI_NAME">
+			<Text>Al-Jazari</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_AL_JAZARI_DESCRIPTION">
+			<Text>Activate on a District with at least 1 Specialist Limit, this tile gets +1 Specialists. 2 charges.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_IBN_FADLAN_NAME">
+			<Text>Ibn Fadlan</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_IBN_FADLAN_DESCRIPTION">
+			<Text>Activate on a Navigable River. Receive 50[icon:YIELD_DIPLOMACY] Influence for every tile of this River. (On Standard Speed)</Text>
+		</Row>
+		<!-- Spain -->
+		<Row Tag="LOC_UNIT_CONQUISTADOR_NAME">
+			<Text>Conquistador</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CONQUISTADOR_DESCRIPTION">
+			<Text>A Great Person with one charge. Can only be trained in Cities with a Wharf, and the specific Conquistador received is random. Each Conquistador can only be received once and can only be activated in Distant Lands. Cost increases per Conquistador trained. Can always Embark in Ocean. </Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_FERDINAND_MAGELLAN_NAME">
+			<Text>Ferdinand Magellan</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_FERDINAND_MAGELLAN_DESCIPTION">
+			<Text>Activate in Distant Lands on a Fleet Commander, this Unit receives +2 movement and +2 sight.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_FRANCISCO_PIZARRO_NAME">
+			<Text>Francisco Pizarro</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_FRANCISCO_PIZARRO_DESCRIPTION">
+			<Text>Activate in Distant Lands on an Army Commander with 3 empty slots. This commander receives 2 Infantry Units and 1 Cavalry Unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_JUAN_PONCE_DE_LEON_NAME">
+			<Text>Juan Ponce de León </Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_JUAN_PONCE_DE_LEON_DESCRIPTION">
+			<Text>Activate in Distant Lands on any Water tile. +1 movement for Treasure Fleets.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_CHRISTOPHER_COLUMBUS_NAME">
+			<Text>Christopher Columbus</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_CHRISTOPHER_COLUMBUS_DESCRIPTION">
+			<Text>Activate in Distant Lands on any Water tile. Reveals the map except for the interior of Distant Lands.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_HERNAN_CORTES_NAME">
+			<Text>Hernán Cortés</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_HERNAN_CORTES_DESCRIPTION">
+			<Text>Activate in Distant Lands on an Army Commander with 3 empty slots. This commander receive 3 Infantry Units.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_HERNANDO_DE_SOTO_NAME">
+			<Text>Hernando de Soto</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_HERNANDO_DE_SOTO_DESCRIPTION">
+			<Text>Activate in Distant Lands on a tile owned by an Independent Power. This Independent Power becomes a City-State with you as the Suzerain. </Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_FRANCISCO_DE_ORELLANA_NAME">
+			<Text>Francisco de Orellana</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_FRANCISCO_DE_ORELLANA_DESCRIPTION">
+			<Text>Activate in Distant Lands on a Navigable River. Receive 50[icon:YIELD_GOLD] Gold for every tile of this River. (On Standard Speed)</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_ALVAR_NUNEZ_CABEZA_DE_VACA_NAME">
+			<Text>Álvar Núñez Cabeza de Vaca</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_ALVAR_NUNEZ_CABEZA_DE_VACA_DESCRIPTION">
+			<Text>Activate in Distant Lands on or adjacent to a Natural Wonder. Gain 200[icon:YIELD_GOLD] Gold for each Natural Wonder tile here or adjacent. (On Standard Speed)</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_MIGUEL_LOPEZ_DE_LEGAZPI_NAME">
+			<Text>Miguel López de Legazpi</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_MIGUEL_LOPEZ_DE_LEGAZPI_DESCRIPTION">
+			<Text>Activate in Distant Lands on an Army Commander with 3 empty slots. This commander receives 2 Ranged Units and 1 Infantry Unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_SUAREZ_NAME">
+			<Text>Inés Suárez</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_SUAREZ_DESCRIPTION">
+			<Text>Activate in Distant Lands on an eligible Settlement location. This creates a new Town. </Text>
+		</Row>
+		<!--Retire Descriptions-->
+		<Row Tag="LOC_GREATPERSON_MENAGERIE">
+			<Text>The Menagerie provides +{1_Amount}[icon:YIELD_HAPPINESS] Happiness in this City.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_MENAGERIE_SMALL_HAPPINESS">
+			<Text>Instantly builds a Menagerie in this District.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_HOSPITAL">
+			<Text>The Hospital provides +{1_Amount}[icon:YIELD_FOOD] Food in this City.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_HOSPITALSMALL_FOOD">
+			<Text>Instantly builds a Hospital in this District.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_OBSERVATORY">
+			<Text>The Observatory provides +{1_Amount}[icon:YIELD_SCIENCE] Science in this City.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_OBSERVATORY_SMALL_SCIENCE">
+			<Text>Instantly builds an Observatory in this District.</Text>
+		</Row>
+		<Row Tag="GREATPERSON_GOLD_RESOURCES">
+			<Text>Receive 50[icon:YIELD_GOLD] Gold for every Resource this City has.</Text>
+		</Row>
+		<Row Tag="GREATPERSON_DIPLO_TOKENS">
+			<Text>Receive 2 Envoys.</Text>
+		</Row>
+		<Row Tag="GREATPERSON_TRADITION_SLOT">
+			<Text>Receive an additional Social Policy slot.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_FILL_SPECIALIST">
+			<Text>All Districts in this Settlement receive 1 Specialist.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_FREE_TECH">
+			<Text>Receive a free random unlocked Technology.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GOLD_NATURAL_WONDER">
+			<Text>Gain 200[icon:YIELD_GOLD] Gold for each Natural Wonder tile here or adjacent.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_HEAL_UNITS">
+			<Text>All Units are healed 50 HP.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_FLEET_COMMANDER_SIGHT">
+			<Text>+2 sight for this Fleet Commander.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_FLEET_COMMANDER_MOVEMENT">
+			<Text>+2 movement for this Fleet Commander.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GOLD_RIVER">
+			<Text>Receive 50[icon:YIELD_GOLD] Gold for every tile of this River.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_1_INFANTRY">
+			<Text>Receive 1 Infantry Unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_1_MOUNTED">
+			<Text>Receive 1 Cavalry Unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_3_INFANTRY">
+			<Text>Receive 3 Infantry Units.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_2_INFANTRY ">
+			<Text>Receive 2 Infantry Units.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_2_RANGED">
+			<Text>Receive 2 Ranged Units.</Text>
+		</Row>
+	</EnglishText>
+</Database>

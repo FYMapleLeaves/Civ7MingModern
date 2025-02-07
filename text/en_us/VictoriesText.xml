@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_LEGACY_PATH_EXPLORATION_ECONOMIC_NAME">
+			<Text>Treasure Fleet</Text>
+		</Row>
+		<Row Tag="LOC_LEGACY_PATH_EXPLORATION_ECONOMIC_DESCRIPTION">
+			<Text>Gain 30 Treasure Fleet Points from returning Distant Land Treasures.</Text>
+		</Row>
+		<Row Tag="LOC_LEGACY_PATH_EXPLORATION_ECONOMIC_VICTORY_TEXT">
+			<Text>Congratulations, you won an Exploration Age Economic Victory!</Text>
+		</Row>
+		<Row Tag="LOC_LEGACY_PATH_EXPLORATION_MILITARY_NAME">
+			<Text>Non Sufficit Orbis</Text>
+		</Row>
+		<Row Tag="LOC_LEGACY_PATH_EXPLORATION_MILITARY_DESCRIPTION">
+			<Text>Gain 12 Points from Settlements in the Distant Lands. 1 Point for each Settlement (doubled if it is a conquered Settlement or follows your religion — quadrupled if both apply).</Text>
+		</Row>
+		<Row Tag="LOC_LEGACY_PATH_EXPLORATION_MILITARY_VICTORY_TEXT">
+			<Text>Congratulations, you won an Exploration Age Military Victory!</Text>
+		</Row>
+		<Row Tag="LOC_LEGACY_PATH_EXPLORATION_SCIENCE_NAME">
+			<Text>Enlightenment</Text>
+		</Row>
+		<Row Tag="LOC_LEGACY_PATH_EXPLORATION_SCIENCE_DESCRIPTION">
+			<Text>Have 5 Districts that are not the City Center with 40 total Yield each.</Text>
+		</Row>
+		<Row Tag="LOC_LEGACY_PATH_EXPLORATION_SCIENCE_VICTORY_TEXT">
+			<Text>Congratulations, you won an Exploration Age Science Victory!</Text>
+		</Row>
+		<Row Tag="LOC_LEGACY_PATH_EXPLORATION_CULTURE_NAME">
+			<Text>Toshakhana</Text>
+		</Row>
+		<Row Tag="LOC_LEGACY_PATH_EXPLORATION_CULTURE_DESCRIPTION">
+			<Text>Display 12 Relics in your empire.</Text>
+		</Row>
+		<Row Tag="LOC_LEGACY_PATH_EXPLORATION_CULTURE_VICTORY_TEXT">
+			<Text>Congratulations, you won an Exploration Age Culture Victory!</Text>
+		</Row>
+		<!-- Unlocks -->
+		<Row Tag="LOC_VICTORY_UNLOCK_EXPLORATION_MILITARY_NAME">
+			<Text>Militaristic Victory</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_UNLOCK_EXPLORATION_CULTURE_NAME">
+			<Text>Cultural Victory</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_UNLOCK_EXPLORATION_ECONOMIC_NAME">
+			<Text>Economic Victory</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_UNLOCK_EXPLORATION_SCIENCE_NAME">
+			<Text>Scientific Victory</Text>
+		</Row>
+		<Row Tag="LOC_DARK_AGE_UNLOCK_EXPLORATION_NAME">
+			<Text>Dark Age</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_UNLOCK_EXPLORATION_MILITARY_DESCRIPTION">
+			<Text>[WIP] Unlock special Militaristic Victory cards in the [B]Modern [/B]Age!</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_UNLOCK_EXPLORATION_CULTURE_DESCRIPTION">
+			<Text>[WIP] Unlock special Cultural Victory cards in the [B]Modern [/B]Age!</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_UNLOCK_EXPLORATION_ECONOMIC_DESCRIPTION">
+			<Text>[WIP] Unlock special Economic Victory cards in the [B]Modern [/B]Age!</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_UNLOCK_EXPLORATION_SCIENCE_DESCRIPTION">
+			<Text>[WIP] Unlock special Scientific Victory cards in the [B]Modern [/B]Age!</Text>
+		</Row>
+		<Row Tag="LOC_DARK_AGE_UNLOCK_EXPLORATION_DESCRIPTION">
+			<Text>[WIP] Unlock special Dark Age cards in the [B]Modern [/B]Age!</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_REQUNLOCK_EXPLORATION_MILITARY_DESCRIPTION">
+			<Text>Win the [B]Non Sufficit Orbis [/B] Victory</Text>
+		</Row>
+		<Row Tag="LOC_SECOND_REQUNLOCK_EXPLORATION_MILITARY_DESCRIPTION">
+			<Text>Achieve at least second place in the [B]Non Sufficit Orbis [/B] Victory</Text>
+		</Row>
+		<Row Tag="LOC_THIRD_REQUNLOCK_EXPLORATION_MILITARY_DESCRIPTION">
+			<Text>Achieve at least third place in the [B]Non Sufficit Orbis [/B] Victory</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_REQUNLOCK_EXPLORATION_CULTURE_DESCRIPTION">
+			<Text>Win the [B]Toshakhana [/B] Victory</Text>
+		</Row>
+		<Row Tag="LOC_SECOND_REQUNLOCK_EXPLORATION_CULTURE_DESCRIPTION">
+			<Text>Achieve at least second place in the [B]Toshakhana [/B] Victory</Text>
+		</Row>
+		<Row Tag="LOC_THIRD_REQUNLOCK_EXPLORATION_CULTURE_DESCRIPTION">
+			<Text>Achieve at least third place in the [B]Toshakhana [/B] Victory</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_REQUNLOCK_EXPLORATION_ECONOMIC_DESCRIPTION">
+			<Text>Win the [B]Treasure Fleet [/B] Victory</Text>
+		</Row>
+		<Row Tag="LOC_SECOND_REQUNLOCK_EXPLORATION_ECONOMIC_DESCRIPTION">
+			<Text>Achieve at least second place in the [B]Treasure Fleet [/B] Victory</Text>
+		</Row>
+		<Row Tag="LOC_THIRD_REQUNLOCK_EXPLORATION_ECONOMIC_DESCRIPTION">
+			<Text>Achieve at least third place in the [B]Treasure Fleet [/B] victory</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_REQUNLOCK_EXPLORATION_SCIENCE_DESCRIPTION">
+			<Text>Win the [B]Enlightenment [/B] Victory</Text>
+		</Row>
+		<Row Tag="LOC_SECOND_REQUNLOCK_EXPLORATION_SCIENCE_DESCRIPTION">
+			<Text>Achieve at least second place in the [B]Enlightenment [/B] Victory</Text>
+		</Row>
+		<Row Tag="LOC_THIRD_REQUNLOCK_EXPLORATION_SCIENCE_DESCRIPTION">
+			<Text>Achieve at least third place in the [B]Enlightenment [/B] Victory</Text>
+		</Row>
+		<Row Tag="LOC_DARK_AGE_REQUNLOCK_DESCRIPTION">
+			<Text>Don't win any Victories this Age</Text>
+		</Row>
+	</EnglishText>
+</Database>

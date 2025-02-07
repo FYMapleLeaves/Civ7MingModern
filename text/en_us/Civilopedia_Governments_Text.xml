@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+
+		<!-- Governments-->
+		<!-- GOVERNMENT_FEUDAL_MONARCHY -->
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNMENT_FEUDAL_MONARCHY_CHAPTER_HISTORY_PARA_1">
+			<Text>What is the connection between family and land? For monarchies, a particular family establishes itself as the primary owner and ruler of a region, responsible for its welfare. The details of a monarchy differ over time – it may include kings or queens; the firstborn child might inherit rule, or the elder brother, or there may be a selection process among noble families. At times, the process for transferring power may be less clear – arguments regarding succession laws were a major reason for war. Even beyond the monarch, there were layers upon layers of authority: the baron of a small valley may pay allegiance to his count, who pays allegiance to his earl, who pays allegiance to the duke, who in turn reports to the king (and who might report to the emperor). Everyone has a place.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNMENT_FEUDAL_MONARCHY_CHAPTER_HISTORY_PARA_2">
+			<Text>This system has several variants. While lordship was tied to land in Europe, other systems held sway elsewhere. Where polygamy was the rule, royal households could produce scores of potential heirs, and one did not immediately inherit their parent’s rank, but the rank just below this. Royal children took positions elsewhere in the court or were given governorship over provinces. One child was selected by the current monarch as heir apparent. A position like this could be quite dangerous, as a brother, or uncle, or, in some cases, mother was always waiting to take over.</Text>
+		</Row>
+		<!-- GOVERNMENT_PLUTOCRACY -->
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNMENT_PLUTOCRACY_CHAPTER_HISTORY_PARA_1">
+			<Text>Blood may be thicker than water, but gold is thicker than all. In a plutocracy, the authority of royal bloodlines takes a backseat to the rule of those with property, money, and influence. For some historians, the liberation of merchants and artisans over the divine claims of kings and emperors is a natural progression. In trade-focused economies, the middle classes may feel limited by feudalism and seek to create their own form of property-based governance.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNMENT_PLUTOCRACY_CHAPTER_HISTORY_PARA_2">
+			<Text>Some examples: in Renaissance Italy, the maritime republics grew as merchant houses developed independent militaries to protect their interests. With security and prosperity in the hands of merchant houses, what need is there for a king? The Chola dynasty of southern India did something similar, where merchants contracted naval mercenaries for protection (and conquest), extending their influence around the Indian Ocean rim. Plutocracies exist anywhere that money can buy political influence, thus one can argue that the Gilded Age United States, Meiji Japan, and Yeltsin-era Russia had strong elements of plutocracy.</Text>
+		</Row>
+		<!-- GOVERNMENT_THEOCRACY -->
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNMENT_THEOCRACY_CHAPTER_HISTORY_PARA_1">
+			<Text>If political philosophy is a search for an ideal form of rule, what could be more ideal than the rule of the divine? In a theocracy, the divine’s intermediaries – i.e. priests – take direct control of the arms of the state. Theocratic systems often feature complicated and hierarchical networks of power within the church (or sangha, or ulema) where particular individuals or groups can rise based on their scholarship or other influence.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNMENT_THEOCRACY_CHAPTER_HISTORY_PARA_2">
+			<Text>Sumeria and Egypt had elements of a theocracy, as the ruler was seen as a manifestation of a god on earth. In recent years, theocracies have taken radically different appearances, including early 20th century Tibet, the Holy See, and the Taliban. The latter shows the complexities of the term theocracy – while many agree that a system where the head priest makes the law is a theocracy, what about a situation where a king has ritual functions (as in Southeast Asian mandala states)? Or where a secular ruler alternates with a religious ruler (as in many indigenous American states)?</Text>
+		</Row>
+	</EnglishText>
+</Database>

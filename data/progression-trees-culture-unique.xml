@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<Database>
+	<Types>
+		<!--Civ Unique Mastery Trees-->
+		<Row Type="TREE_CIVICS_EX_ABBASID" Kind="KIND_TREE"/>
+		<Row Type="TREE_CIVICS_EX_CHOLA" Kind="KIND_TREE"/>
+		<Row Type="TREE_CIVICS_EX_HAWAII" Kind="KIND_TREE"/>
+		<Row Type="TREE_CIVICS_EX_INCA" Kind="KIND_TREE"/>
+		<Row Type="TREE_CIVICS_EX_MAJAPAHIT" Kind="KIND_TREE"/>
+		<Row Type="TREE_CIVICS_EX_MING" Kind="KIND_TREE"/>
+		<Row Type="TREE_CIVICS_EX_MONGOLIA" Kind="KIND_TREE"/>
+		<Row Type="TREE_CIVICS_EX_NORMAN" Kind="KIND_TREE"/>
+		<Row Type="TREE_CIVICS_EX_SONGHAI" Kind="KIND_TREE"/>
+		<Row Type="TREE_CIVICS_EX_SPAIN" Kind="KIND_TREE"/>
+		<!--Civ Unique Mastery Tree Nodes-->
+		<!--Abbasid-->
+		<Row Type="NODE_CIVIC_EX_ABBASID_ROUND_CITY" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_EX_ABBASID_MAWLA" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_EX_ABBASID_AL_JABR" Kind="KIND_TREE_NODE"/>
+		<!--Chola-->
+		<Row Type="NODE_CIVIC_EX_CHOLA_NAGARAM" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_EX_CHOLA_DIGVIJAYA" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_EX_CHOLA_KANAKAM" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_EX_CHOLA_MONSOON_WINDS" Kind="KIND_TREE_NODE"/>
+		<!--Hawaii-->
+		<Row Type="NODE_CIVIC_EX_HAWAII_MANA" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_EX_HAWAII_OHANA" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_EX_HAWAII_HE_E_NALU" Kind="KIND_TREE_NODE"/>
+		<!--Inca-->
+		<Row Type="NODE_CIVIC_EX_INCA_AYLLU" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_EX_INCA_MITA" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_EX_INCA_QHAPAQ_NAN" Kind="KIND_TREE_NODE"/>
+		<!--Majapahit-->
+		<Row Type="NODE_CIVIC_EX_MAJAPAHIT_WAYANG" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_EX_MAJAPAHIT_ALIRAN_KEPERCAYAAN" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_EX_MAJAPAHIT_NUSUNTARA" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_EX_MAJAPAHIT_GAMELAN" Kind="KIND_TREE_NODE"/>
+		<!--Ming-->
+		<Row Type="NODE_CIVIC_EX_MING_DA_MING_LU" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_EX_MING_LIJIA" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_EX_MING_NINE_GARRISONS" Kind="KIND_TREE_NODE"/>
+		<!--Mongolia-->
+		<Row Type="NODE_CIVIC_EX_MONGOLIA_ULUS" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_EX_MONGOLIA_FOUR_HOUNDS" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_EX_MONGOLIA_YASSA" Kind="KIND_TREE_NODE"/>
+		<!--Norman-->
+		<Row Type="NODE_CIVIC_EX_NORMAN_CONSUETUDINES_ET_JUSTICIE" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_EX_NORMAN_COMMON_LAW" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_EX_NORMAN_DOMESDAY_BOOK" Kind="KIND_TREE_NODE"/>
+		<!--Songhai-->
+		<Row Type="NODE_CIVIC_EX_SONGHAI_SHIPS_OF_THE_DESERT" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_EX_SONGHAI_HI_KOI" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_EX_SONGHAI_KANTA" Kind="KIND_TREE_NODE"/>
+		<!--Spain-->
+		<Row Type="NODE_CIVIC_EX_SPAIN_COUNCIL_OF_THE_INDIES" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_EX_SPAIN_ARMADA" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_EX_SPAIN_NEW_WORLD_RICHES" Kind="KIND_TREE_NODE"/>
+	</Types>
+	<TypeQuotes>
+		<Row Type="NODE_CIVIC_EX_ABBASID_ROUND_CITY" Quote="LOC_CIVIC_ROUND_CITY_QUOTE" QuoteAuthor="LOC_CIVIC_ROUND_CITY_AUTHOR" QuoteAudio="VO_Quote_RoundCity"/>
+		<Row Type="NODE_CIVIC_EX_ABBASID_MAWLA" Quote="LOC_CIVIC_MAWLA_QUOTE" QuoteAuthor="LOC_CIVIC_MAWLA_AUTHOR" QuoteAudio="VO_Quote_Mawla"/>
+		<Row Type="NODE_CIVIC_EX_ABBASID_AL_JABR" Quote="LOC_CIVIC_AL_JABR_QUOTE" QuoteAuthor="LOC_CIVIC_AL_JABR_AUTHOR" QuoteAudio="VO_Quote_AlJabr"/>
+		<Row Type="NODE_CIVIC_EX_CHOLA_NAGARAM" Quote="LOC_CIVIC_NAGARAM_QUOTE" QuoteAuthor="LOC_CIVIC_NAGARAM_AUTHOR" QuoteAudio="VO_Quote_Nagaram"/>
+		<Row Type="NODE_CIVIC_EX_CHOLA_KANAKAM" Quote="LOC_CIVIC_KANAKAM_QUOTE" QuoteAuthor="LOC_CIVIC_KANAKAM_AUTHOR" QuoteAudio="VO_Quote_Kanakam"/>
+		<Row Type="NODE_CIVIC_EX_CHOLA_DIGVIJAYA" Quote="LOC_CIVIC_DIGVIJAYA_QUOTE" QuoteAuthor="LOC_CIVIC_DIGVIJAYA_AUTHOR" QuoteAudio="VO_Quote_Digvijaya"/>
+		<Row Type="NODE_CIVIC_EX_CHOLA_MONSOON_WINDS" Quote="LOC_CIVIC_MONSOON_WINDS_QUOTE" QuoteAuthor="LOC_CIVIC_MONSOON_WINDS_AUTHOR" QuoteAudio="VO_Quote_MonsoonWinds"/>
+		<Row Type="NODE_CIVIC_EX_HAWAII_MANA" Quote="LOC_CIVIC_MANA_QUOTE" QuoteAuthor="LOC_CIVIC_MANA_AUTHOR" QuoteAudio="VO_Quote_Mana"/>
+		<Row Type="NODE_CIVIC_EX_HAWAII_OHANA" Quote="LOC_CIVIC_OHANA_QUOTE" QuoteAuthor="LOC_CIVIC_OHANA_AUTHOR" QuoteAudio="VO_Quote_Ohana"/>
+		<Row Type="NODE_CIVIC_EX_HAWAII_HE_E_NALU" Quote="LOC_CIVIC_HE_E_NALU_QUOTE" QuoteAuthor="LOC_CIVIC_HE_E_NALU_AUTHOR" QuoteAudio="VO_Quote_HeeNalu"/>
+		<Row Type="NODE_CIVIC_EX_INCA_MITA" Quote="LOC_CIVIC_MITA_QUOTE" QuoteAuthor="LOC_CIVIC_MITA_AUTHOR" QuoteAudio="VO_Quote_Mita"/>
+		<Row Type="NODE_CIVIC_EX_INCA_AYLLU" Quote="LOC_CIVIC_AYLLU_QUOTE" QuoteAuthor="LOC_CIVIC_AYLLU_AUTHOR" QuoteAudio="VO_Quote_Ayllu"/>
+		<Row Type="NODE_CIVIC_EX_INCA_QHAPAQ_NAN" Quote="LOC_CIVIC_QHAPAQ_NAN_QUOTE" QuoteAuthor="LOC_CIVIC_QHAPAQ_NAN_AUTHOR" QuoteAudio="VO_Quote_QhapaqNan"/>
+		<Row Type="NODE_CIVIC_EX_MAJAPAHIT_WAYANG" Quote="LOC_CIVIC_WAYANG_QUOTE" QuoteAuthor="LOC_CIVIC_WAYANG_AUTHOR" QuoteAudio="VO_Quote_Wayang"/>
+		<Row Type="NODE_CIVIC_EX_MAJAPAHIT_ALIRAN_KEPERCAYAAN" Quote="LOC_CIVIC_ALIRAN_KEPERCAYAAN_QUOTE" QuoteAuthor="LOC_CIVIC_ALIRAN_KEPERCAYAAN_AUTHOR" QuoteAudio="VO_Quote_AliranKepercayaan"/>
+		<Row Type="NODE_CIVIC_EX_MAJAPAHIT_NUSUNTARA" Quote="LOC_CIVIC_NUSUNTARA_QUOTE" QuoteAuthor="LOC_CIVIC_NUSUNTARA_AUTHOR" QuoteAudio="VO_Quote_Nusuntara"/>
+		<Row Type="NODE_CIVIC_EX_MAJAPAHIT_GAMELAN" Quote="LOC_CIVIC_GAMELAN_QUOTE" QuoteAuthor="LOC_CIVIC_GAMELAN_AUTHOR" QuoteAudio="VO_Quote_Gamelan"/>
+		<Row Type="NODE_CIVIC_EX_MING_NINE_GARRISONS" Quote="LOC_CIVIC_NINE_GARRISONS_QUOTE" QuoteAuthor="LOC_CIVIC_NINE_GARRISONS_AUTHOR" QuoteAudio="VO_Quote_NineGarrisons"/>
+		<Row Type="NODE_CIVIC_EX_MING_LIJIA" Quote="LOC_CIVIC_LIJIA_QUOTE" QuoteAuthor="LOC_CIVIC_LIJIA_AUTHOR" QuoteAudio="VO_Quote_Lijia"/>
+		<Row Type="NODE_CIVIC_EX_MING_DA_MING_LU" Quote="LOC_CIVIC_DA_MING_LU_QUOTE" QuoteAuthor="LOC_CIVIC_DA_MING_LU_AUTHOR" QuoteAudio="VO_Quote_DaMingLu"/>
+		<Row Type="NODE_CIVIC_EX_MONGOLIA_ULUS" Quote="LOC_CIVIC_ULUS_QUOTE" QuoteAuthor="LOC_CIVIC_ULUS_AUTHOR" QuoteAudio="VO_Quote_Ulus"/>
+		<Row Type="NODE_CIVIC_EX_MONGOLIA_FOUR_HOUNDS" Quote="LOC_CIVIC_FOUR_HOUNDS_QUOTE" QuoteAuthor="LOC_CIVIC_FOUR_HOUNDS_AUTHOR" QuoteAudio="VO_Quote_FourHounds"/>
+		<Row Type="NODE_CIVIC_EX_MONGOLIA_YASSA" Quote="LOC_CIVIC_YASSA_QUOTE" QuoteAuthor="LOC_CIVIC_YASSA_AUTHOR" QuoteAudio="VO_Quote_Yassa"/>
+		<Row Type="NODE_CIVIC_EX_NORMAN_CONSUETUDINES_ET_JUSTICIE" Quote="LOC_CIVIC_CONSUETUDINES_ET_JUSTICIE_QUOTE" QuoteAuthor="LOC_CIVIC_CONSUETUDINES_ET_JUSTICIE_AUTHOR" QuoteAudio="VO_Quote_ConsuetudinesJusticie"/>
+		<Row Type="NODE_CIVIC_EX_NORMAN_COMMON_LAW" Quote="LOC_CIVIC_COMMON_LAW_QUOTE" QuoteAuthor="LOC_CIVIC_COMMON_LAW_AUTHOR" QuoteAudio="VO_Quote_CommonLaw"/>
+		<Row Type="NODE_CIVIC_EX_NORMAN_DOMESDAY_BOOK" Quote="LOC_CIVIC_DOMESDAY_BOOK_QUOTE" QuoteAuthor="LOC_CIVIC_DOMESDAY_BOOK_AUTHOR" QuoteAudio="VO_Quote_DomesdayBook"/>
+		<Row Type="NODE_CIVIC_EX_SONGHAI_SHIPS_OF_THE_DESERT" Quote="LOC_CIVIC_SHIPS_OF_THE_DESERT_QUOTE" QuoteAuthor="LOC_CIVIC_SHIPS_OF_THE_DESERT_AUTHOR" QuoteAudio="VO_Quote_ShipsDesert"/>
+		<Row Type="NODE_CIVIC_EX_SONGHAI_HI_KOI" Quote="LOC_CIVIC_HI_KOI_QUOTE" QuoteAuthor="LOC_CIVIC_HI_KOI_AUTHOR" QuoteAudio="VO_Quote_HiKoi"/>
+		<Row Type="NODE_CIVIC_EX_SONGHAI_KANTA" Quote="LOC_CIVIC_KANTA_QUOTE" QuoteAuthor="LOC_CIVIC_KANTA_AUTHOR" QuoteAudio="VO_Quote_Kanta"/>
+		<Row Type="NODE_CIVIC_EX_SPAIN_COUNCIL_OF_THE_INDIES" Quote="LOC_CIVIC_COUNCIL_OF_THE_INDIES_QUOTE" QuoteAuthor="LOC_CIVIC_COUNCIL_OF_THE_INDIES_AUTHOR" QuoteAudio="VO_Quote_CouncilIndies"/>
+		<Row Type="NODE_CIVIC_EX_SPAIN_ARMADA" Quote="LOC_CIVIC_ARMADA_QUOTE" QuoteAuthor="LOC_CIVIC_ARMADA_AUTHOR" QuoteAudio="VO_Quote_Armada"/>
+		<Row Type="NODE_CIVIC_EX_SPAIN_NEW_WORLD_RICHES" Quote="LOC_CIVIC_NEW_WORLD_RICHES_QUOTE" QuoteAuthor="LOC_CIVIC_NEW_WORLD_RICHES_AUTHOR" QuoteAudio="VO_Quote_NewWorldRiches"/>
+	</TypeQuotes>
+	<ProgressionTrees>
+		<!--Civ Unique Mastery Trees-->
+		<Row ProgressionTreeType="TREE_CIVICS_EX_ABBASID" AgeType="AGE_EXPLORATION" SystemType="SYSTEM_CULTURE" Name="LOC_TREE_CIVICS_EX_ABBASID_NAME"/>
+		<Row ProgressionTreeType="TREE_CIVICS_EX_CHOLA" AgeType="AGE_EXPLORATION" SystemType="SYSTEM_CULTURE" Name="LOC_TREE_CIVICS_EX_CHOLA_NAME"/>
+		<Row ProgressionTreeType="TREE_CIVICS_EX_HAWAII" AgeType="AGE_EXPLORATION" SystemType="SYSTEM_CULTURE" Name="LOC_TREE_CIVICS_EX_HAWAII_NAME"/>
+		<Row ProgressionTreeType="TREE_CIVICS_EX_INCA" AgeType="AGE_EXPLORATION" SystemType="SYSTEM_CULTURE" Name="LOC_TREE_CIVICS_EX_INCA_NAME"/>
+		<Row ProgressionTreeType="TREE_CIVICS_EX_MAJAPAHIT" AgeType="AGE_EXPLORATION" SystemType="SYSTEM_CULTURE" Name="LOC_TREE_CIVICS_EX_MAJAPAHIT_NAME"/>
+		<Row ProgressionTreeType="TREE_CIVICS_EX_MING" AgeType="AGE_EXPLORATION" SystemType="SYSTEM_CULTURE" Name="LOC_TREE_CIVICS_EX_MING_NAME"/>
+		<Row ProgressionTreeType="TREE_CIVICS_EX_MONGOLIA" AgeType="AGE_EXPLORATION" SystemType="SYSTEM_CULTURE" Name="LOC_TREE_CIVICS_EX_MONGOLIA_NAME"/>
+		<Row ProgressionTreeType="TREE_CIVICS_EX_NORMAN" AgeType="AGE_EXPLORATION" SystemType="SYSTEM_CULTURE" Name="LOC_TREE_CIVICS_EX_NORMAN_NAME"/>
+		<Row ProgressionTreeType="TREE_CIVICS_EX_SONGHAI" AgeType="AGE_EXPLORATION" SystemType="SYSTEM_CULTURE" Name="LOC_TREE_CIVICS_EX_SONGHAI_NAME"/>
+		<Row ProgressionTreeType="TREE_CIVICS_EX_SPAIN" AgeType="AGE_EXPLORATION" SystemType="SYSTEM_CULTURE" Name="LOC_TREE_CIVICS_EX_SPAIN_NAME"/>
+	</ProgressionTrees>
+	<ProgressionTreeNodes>
+		<!--Civ Unique Mastery Tree Nodes-->
+		<!--Abbasid-->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_ABBASID_ROUND_CITY" ProgressionTree="TREE_CIVICS_EX_ABBASID" Cost="800" Name="LOC_CIVIC_ROUND_CITY_NAME" IconString="cult_abbasid" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_ABBASID_MAWLA" ProgressionTree="TREE_CIVICS_EX_ABBASID" Cost="800" Name="LOC_CIVIC_MAWLA_NAME" IconString="cult_abbasid" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_ABBASID_AL_JABR" ProgressionTree="TREE_CIVICS_EX_ABBASID" Cost="1200" Name="LOC_CIVIC_AL_JABR_NAME" IconString="cult_abbasid" />
+		<!--Chola-->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_CHOLA_NAGARAM" ProgressionTree="TREE_CIVICS_EX_CHOLA" Cost="800" Name="LOC_CIVIC_NAGARAM_NAME" IconString="cult_chola"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_CHOLA_KANAKAM" ProgressionTree="TREE_CIVICS_EX_CHOLA" Cost="1200" Name="LOC_CIVIC_KANAKAM_NAME" IconString="cult_chola" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_CHOLA_DIGVIJAYA" ProgressionTree="TREE_CIVICS_EX_CHOLA" Cost="1200" Name="LOC_CIVIC_DIGVIJAYA_NAME" IconString="cult_chola" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_CHOLA_MONSOON_WINDS" ProgressionTree="TREE_CIVICS_EX_CHOLA" Cost="2000" Name="LOC_CIVIC_MONSOON_WINDS_NAME" IconString="cult_chola" />
+		<!--Hawaii-->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_HAWAII_MANA" ProgressionTree="TREE_CIVICS_EX_HAWAII" Cost="800" Name="LOC_CIVIC_MANA_NAME" IconString="cult_hawaii" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_HAWAII_OHANA" ProgressionTree="TREE_CIVICS_EX_HAWAII" Cost="800" Name="LOC_CIVIC_OHANA_NAME" IconString="cult_hawaii" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_HAWAII_HE_E_NALU" ProgressionTree="TREE_CIVICS_EX_HAWAII" Cost="1200" Name="LOC_CIVIC_HE_E_NALU_NAME" IconString="cult_hawaii" />
+		<!--Inca-->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_INCA_MITA" ProgressionTree="TREE_CIVICS_EX_INCA" Cost="800" Name="LOC_CIVIC_MITA_NAME" IconString="cult_inca" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_INCA_AYLLU" ProgressionTree="TREE_CIVICS_EX_INCA" Cost="1200" Name="LOC_CIVIC_AYLLU_NAME" IconString="cult_inca" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_INCA_QHAPAQ_NAN" ProgressionTree="TREE_CIVICS_EX_INCA" Cost="1200" Name="LOC_CIVIC_QHAPAQ_NAN_NAME" IconString="cult_inca" />
+		<!--Majapahit-->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MAJAPAHIT_WAYANG" ProgressionTree="TREE_CIVICS_EX_MAJAPAHIT" Cost="800" Name="LOC_CIVIC_WAYANG_NAME" IconString="cult_majapahit"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MAJAPAHIT_ALIRAN_KEPERCAYAAN" ProgressionTree="TREE_CIVICS_EX_MAJAPAHIT" Cost="800" Name="LOC_CIVIC_ALIRAN_KEPERCAYAAN_NAME" IconString="cult_majapahit" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MAJAPAHIT_NUSUNTARA" ProgressionTree="TREE_CIVICS_EX_MAJAPAHIT" Cost="1200" Name="LOC_CIVIC_NUSUNTARA_NAME" IconString="cult_majapahit" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MAJAPAHIT_GAMELAN" ProgressionTree="TREE_CIVICS_EX_MAJAPAHIT" Cost="2000" Name="LOC_CIVIC_GAMELAN_NAME" IconString="cult_majapahit" />
+		<!--Ming-->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MING_NINE_GARRISONS" ProgressionTree="TREE_CIVICS_EX_MING" Cost="800" Name="LOC_CIVIC_NINE_GARRISONS_NAME" IconString="cult_ming" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MING_LIJIA" ProgressionTree="TREE_CIVICS_EX_MING" Cost="1200" Name="LOC_CIVIC_LIJIA_NAME" IconString="cult_ming" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MING_DA_MING_LU" ProgressionTree="TREE_CIVICS_EX_MING" Cost="1200" Name="LOC_CIVIC_DA_MING_LU_NAME" IconString="cult_ming" />
+		<!--Mongolia-->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MONGOLIA_ULUS" ProgressionTree="TREE_CIVICS_EX_MONGOLIA" Cost="800" Name="LOC_CIVIC_ULUS_NAME" IconString="cult_mongolia"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MONGOLIA_FOUR_HOUNDS" ProgressionTree="TREE_CIVICS_EX_MONGOLIA" Cost="1200" Name="LOC_CIVIC_FOUR_HOUNDS_NAME" IconString="cult_mongolia" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MONGOLIA_YASSA" ProgressionTree="TREE_CIVICS_EX_MONGOLIA" Cost="2000" Name="LOC_CIVIC_YASSA_NAME" IconString="cult_mongolia" />
+		<!--Norman-->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_NORMAN_CONSUETUDINES_ET_JUSTICIE" ProgressionTree="TREE_CIVICS_EX_NORMAN" Cost="800" Name="LOC_CIVIC_CONSUETUDINES_ET_JUSTICIE_NAME" IconString="cult_norman"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_NORMAN_COMMON_LAW" ProgressionTree="TREE_CIVICS_EX_NORMAN" Cost="1200" Name="LOC_CIVIC_COMMON_LAW_NAME" IconString="cult_norman" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_NORMAN_DOMESDAY_BOOK" ProgressionTree="TREE_CIVICS_EX_NORMAN" Cost="2000" Name="LOC_CIVIC_DOMESDAY_BOOK_NAME" IconString="cult_norman" />
+		<!--Songhai-->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SONGHAI_SHIPS_OF_THE_DESERT" ProgressionTree="TREE_CIVICS_EX_SONGHAI" Cost="800" Name="LOC_CIVIC_SHIPS_OF_THE_DESERT_NAME" IconString="cult_songhai" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SONGHAI_HI_KOI" ProgressionTree="TREE_CIVICS_EX_SONGHAI" Cost="800" Name="LOC_CIVIC_HI_KOI_NAME" IconString="cult_songhai"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SONGHAI_KANTA" ProgressionTree="TREE_CIVICS_EX_SONGHAI" Cost="1200" Name="LOC_CIVIC_KANTA_NAME" IconString="cult_songhai" />
+		<!--Spain-->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SPAIN_COUNCIL_OF_THE_INDIES" ProgressionTree="TREE_CIVICS_EX_SPAIN" Cost="800" Name="LOC_CIVIC_COUNCIL_OF_THE_INDIES_NAME" IconString="cult_spain" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SPAIN_ARMADA" ProgressionTree="TREE_CIVICS_EX_SPAIN" Cost="1200" Name="LOC_CIVIC_ARMADA_NAME" IconString="cult_spain" />
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SPAIN_NEW_WORLD_RICHES" ProgressionTree="TREE_CIVICS_EX_SPAIN" Cost="1200" Name="LOC_CIVIC_NEW_WORLD_RICHES_NAME" IconString="cult_spain" />
+	</ProgressionTreeNodes>
+	<ProgressionTreeNodeUnlocks>
+		<!--Civ Unique Tree Mastery Node Unlocks-->
+		<!--Abbasid-->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_ABBASID_ROUND_CITY" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_MOSQUE" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_ABBASID_ROUND_CITY" TargetKind="KIND_MODIFIER" TargetType="MOD_ROUND_CITY_BUILDING_PRODUCTION" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_ABBASID_ROUND_CITY" TargetKind="KIND_TRADITION" TargetType="TRADITION_CITY_OF_PEACE" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_ABBASID_ROUND_CITY" TargetKind="KIND_MODIFIER" TargetType="MOD_ROUND_CITY_SCIENCE_FOOD" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_ABBASID_MAWLA" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_MADRASA" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_ABBASID_MAWLA" TargetKind="KIND_MODIFIER" TargetType="MOD_MAWLA_TEMPLE_WAREHOUSE_RESOURCE" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_ABBASID_MAWLA" TargetKind="KIND_MODIFIER" TargetType="MOD_MAWLA_TRADE_GOLD_TO_SCIENCE" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_ABBASID_MAWLA" TargetKind="KIND_MODIFIER" TargetType="MOD_MAWLA_MAMLUK_ABILITY_SKIRMISH" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_ABBASID_MAWLA" TargetKind="KIND_TRADITION" TargetType="TRADITION_SALES_AND_TRADE" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_ABBASID_AL_JABR" TargetKind="KIND_MODIFIER" TargetType="MOD_AL_JABR_URBAN_SCIENCE" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_ABBASID_AL_JABR" TargetKind="KIND_TRADITION" TargetType="TRADITION_COMPENDIOUS_BOOK" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_ABBASID_AL_JABR" TargetKind="KIND_CONSTRUCTIBLE" TargetType="WONDER_HOUSE_OF_WISDOM" UnlockDepth="2" AIIgnoreUnlockValue="true"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_ABBASID_AL_JABR" TargetKind="KIND_MODIFIER" TargetType="MOD_AL_JABR_WORKER_MAINTENANCE" UnlockDepth="2"/>
+		<!--Chola-->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_CHOLA_KANAKAM" TargetKind="KIND_MODIFIER" TargetType="MOD_KANAKAM_GOLD_PER_ENVOY" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_CHOLA_NAGARAM" TargetKind="KIND_MODIFIER" TargetType="MOD_NAGARAM_FREE_TOKEN" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_CHOLA_NAGARAM" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_MANIGRAMAM" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_CHOLA_NAGARAM" TargetKind="KIND_MODIFIER" TargetType="MOD_NAGARAM_RSOURCE_CAP" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_CHOLA_NAGARAM" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_ANJUVANNAM" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_CHOLA_KANAKAM" TargetKind="KIND_TRADITION" TargetType="TRADITION_DEVAKOSHTA" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_CHOLA_DIGVIJAYA" TargetKind="KIND_MODIFIER" TargetType="MOD_DIGVIJAYA_KALAM_SIGHT" UnlockDepth="1" Hidden="true"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_CHOLA_DIGVIJAYA" TargetKind="KIND_MODIFIER" TargetType="MOD_DIGVIJAYA_KALAM_MOVEMENT" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_CHOLA_DIGVIJAYA" TargetKind="KIND_TRADITION" TargetType="TRADITION_MARAKKALAM" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_CHOLA_MONSOON_WINDS" TargetKind="KIND_MODIFIER" TargetType="MOD_EX_SETTLEMENT_CAP_INCREASE" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_CHOLA_MONSOON_WINDS" TargetKind="KIND_TRADITION" TargetType="TRADITION_ANGADI" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_CHOLA_MONSOON_WINDS" TargetKind="KIND_MODIFIER" TargetType="MONSOON_WINDS_MOD_OTTRU_CONVOYS" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_CHOLA_MONSOON_WINDS" TargetKind="KIND_CONSTRUCTIBLE" TargetType="WONDER_BRIHADEESWARAR_TEMPLE" UnlockDepth="1" AIIgnoreUnlockValue="true"/>
+		<!--Hawaii-->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_HAWAII_MANA" TargetKind="KIND_MODIFIER" TargetType="MOD_MANA_CULTURE_DISASTERS" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_HAWAII_MANA" TargetKind="KIND_TRADITION" TargetType="TRADITION_KAPA" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_HAWAII_MANA" TargetKind="KIND_MODIFIER" TargetType="MOD_MANA_CULTURE_KILLS_LEIOMANO" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_HAWAII_OHANA" TargetKind="KIND_CONSTRUCTIBLE" TargetType="IMPROVEMENT_LO_I_KALO" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_HAWAII_OHANA" TargetKind="KIND_TRADITION" TargetType="TRADITION_AHUPUA_A" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_HAWAII_OHANA" TargetKind="KIND_MODIFIER" TargetType="MOD_OHANA_PAVILION_WAREHOUSE_LOL_KALO" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_HAWAII_HE_E_NALU" TargetKind="KIND_TRADITION" TargetType="TRADITION_HO_OKUPU" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_HAWAII_HE_E_NALU" TargetKind="KIND_MODIFIER" TargetType="MOD_HE_E_NALU_TWO_RELICS" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_HAWAII_HE_E_NALU" TargetKind="KIND_MODIFIER" TargetType="MOD_EX_SETTLEMENT_CAP_INCREASE" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_HAWAII_HE_E_NALU" TargetKind="KIND_CONSTRUCTIBLE" TargetType="WONDER_HALE_O_KEAWE" UnlockDepth="2" AIIgnoreUnlockValue="true"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_HAWAII_HE_E_NALU" TargetKind="KIND_MODIFIER" TargetType="MOD_RELIGION_MARINE_TILE_CULTURE" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_HAWAII_HE_E_NALU" TargetKind="KIND_MODIFIER" TargetType="MOD_KAHUNA_CHARGES" UnlockDepth="2"/>
+		<!--Inca-->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_INCA_MITA" TargetKind="KIND_CONSTRUCTIBLE" TargetType="IMPROVEMENT_TERRACE_FARM" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_INCA_MITA" TargetKind="KIND_TRADITION" TargetType="TRADITION_TIRAKUNA" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_INCA_MITA" TargetKind="KIND_MODIFIER" TargetType="MOD_MITA_MOUNTAIN_HAPPINESS" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_INCA_MITA" TargetKind="KIND_CONSTRUCTIBLE" TargetType="WONDER_MACHU_PIKCHU" UnlockDepth="2" AIIgnoreUnlockValue="true"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_INCA_AYLLU" TargetKind="KIND_MODIFIER" TargetType="MOD_AYLLU_GRANARY_TERRACE_FARM" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_INCA_AYLLU" TargetKind="KIND_MODIFIER" TargetType="MOD_AYLLU_TERRACE_FARM_MOUNTAIN" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_INCA_AYLLU" TargetKind="KIND_MODIFIER" TargetType="MOD_AYLLU_FARM_MOUNTAIN" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_INCA_QHAPAQ_NAN" TargetKind="KIND_TRADITION" TargetType="TRADITION_QUALLQA" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_INCA_QHAPAQ_NAN" TargetKind="KIND_MODIFIER" TargetType="MOD_QHAPAQ_NAN_HILL_MOVEMENT" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_INCA_QHAPAQ_NAN" TargetKind="KIND_MODIFIER" TargetType="MOD_QHAPAQ_NAN_WARAKAQ_POISONOUS" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_INCA_QHAPAQ_NAN" TargetKind="KIND_TRADITION" TargetType="TRADITION_QUIPU" UnlockDepth="2"/>
+		<!--Majapahit-->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MAJAPAHIT_WAYANG" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_CANDI_BENTAR" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MAJAPAHIT_WAYANG" TargetKind="KIND_TRADITION" TargetType="TRADITION_PANJI" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MAJAPAHIT_WAYANG" TargetKind="KIND_MODIFIER" TargetType="MOD_WAYANG_OVERBUILD_PRODUCTION" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MAJAPAHIT_ALIRAN_KEPERCAYAAN" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_MERU" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MAJAPAHIT_ALIRAN_KEPERCAYAAN" TargetKind="KIND_TRADITION" TargetType="TRADITION_NEGARAKERTAGAMA" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MAJAPAHIT_ALIRAN_KEPERCAYAAN" TargetKind="KIND_MODIFIER" TargetType="MOD_ALIRAN_KEPERCAYAAN_CONVERT_EXTRA_CULTURE" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MAJAPAHIT_NUSUNTARA" TargetKind="KIND_TRADITION" TargetType="TRADITION_SUBAK" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MAJAPAHIT_NUSUNTARA" TargetKind="KIND_MODIFIER" TargetType="MOD_NUSUNTARA_CULTURE_COAST" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MAJAPAHIT_NUSUNTARA" TargetKind="KIND_MODIFIER" TargetType="MOD_NUSUNTARA_SEA_VS_LAND" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MAJAPAHIT_GAMELAN" TargetKind="KIND_MODIFIER" TargetType="MOD_GAMELAN_CULTURE_BUILDINGS_THIS_AGE" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MAJAPAHIT_GAMELAN" TargetKind="KIND_MODIFIER" TargetType="MOD_EX_SETTLEMENT_CAP_INCREASE" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MAJAPAHIT_GAMELAN" TargetKind="KIND_CONSTRUCTIBLE" TargetType="WONDER_BOROBUDUR" UnlockDepth="1" AIIgnoreUnlockValue="true"/>
+		<!--Ming-->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MING_NINE_GARRISONS" TargetKind="KIND_CONSTRUCTIBLE" TargetType="IMPROVEMENT_MING_GREAT_WALL" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MING_NINE_GARRISONS" TargetKind="KIND_TRADITION" TargetType="TRADITION_DIVINE_ENGINE_DIVISION" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MING_NINE_GARRISONS" TargetKind="KIND_MODIFIER" TargetType="MOD_NINE_GARRISONS_BANK_MING_GREAT_WALL" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MING_NINE_GARRISONS" TargetKind="KIND_MODIFIER" TargetType="MOD_NINE_GARRISONS_XUNLEICHONG_RANGED" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MING_LIJIA" TargetKind="KIND_MODIFIER" TargetType="MOD_LIJIA_TOWN_BUILDING_PURCHASE" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MING_LIJIA" TargetKind="KIND_TRADITION" TargetType="TRADITION_BAOJIA" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MING_LIJIA" TargetKind="KIND_MODIFIER" TargetType="MOD_LIJIA_CAP_RESOURCE_CAP" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MING_DA_MING_LU" TargetKind="KIND_MODIFIER" TargetType="MOD_DA_MING_LU_MANDARIN_ABILITY" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MING_DA_MING_LU" TargetKind="KIND_TRADITION" TargetType="TRADITION_GRAND_SECRETARIAT" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MING_DA_MING_LU" TargetKind="KIND_MODIFIER" TargetType="MOD_EX_SETTLEMENT_CAP_INCREASE" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MING_DA_MING_LU" TargetKind="KIND_CONSTRUCTIBLE" TargetType="WONDER_FORBIDDEN_CITY" UnlockDepth="2" AIIgnoreUnlockValue="true"/>
+		<!--Mongolia-->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MONGOLIA_ULUS" TargetKind="KIND_CONSTRUCTIBLE" TargetType="IMPROVEMENT_ORTOO" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MONGOLIA_ULUS" TargetKind="KIND_TRADITION" TargetType="TRADITION_GEREGE" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MONGOLIA_ULUS" TargetKind="KIND_MODIFIER" TargetType="MOD_CONQUERED_TOWN_UPGRADE_DISCOUNT" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MONGOLIA_ULUS" TargetKind="KIND_MODIFIER" TargetType="MOD_EX_SETTLEMENT_CAP_INCREASE" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MONGOLIA_FOUR_HOUNDS" TargetKind="KIND_MODIFIER" TargetType="MOD_EX_SETTLEMENT_CAP_INCREASE" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MONGOLIA_FOUR_HOUNDS" TargetKind="KIND_MODIFIER" TargetType="MOD_GRANT_NOYAN" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MONGOLIA_FOUR_HOUNDS" TargetKind="KIND_MODIFIER" TargetType="MOD_MOUNTED_MOVEMENT" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MONGOLIA_FOUR_HOUNDS" TargetKind="KIND_TRADITION" TargetType="TRADITION_BAGHATUR" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MONGOLIA_FOUR_HOUNDS" TargetKind="KIND_MODIFIER" TargetType="MOD_EX_SETTLEMENT_CAP_INCREASE_MORE" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MONGOLIA_YASSA" TargetKind="KIND_TRADITION" TargetType="TRADITION_JARLIG" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MONGOLIA_YASSA" TargetKind="KIND_MODIFIER" TargetType="MOD_YASSA_ORTOO_MORE_GOLD" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MONGOLIA_YASSA" TargetKind="KIND_MODIFIER" TargetType="MOD_EX_SETTLEMENT_CAP_INCREASE" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MONGOLIA_YASSA" TargetKind="KIND_CONSTRUCTIBLE" TargetType="WONDER_ERDENE_ZUU" UnlockDepth="2" AIIgnoreUnlockValue="true"/>
+		<!--Norman-->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_NORMAN_CONSUETUDINES_ET_JUSTICIE" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_MOTTE" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_NORMAN_CONSUETUDINES_ET_JUSTICIE" TargetKind="KIND_TRADITION" TargetType="TRADITION_PALISADING" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_NORMAN_CONSUETUDINES_ET_JUSTICIE" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_BAILEY" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_NORMAN_CONSUETUDINES_ET_JUSTICIE" TargetKind="KIND_MODIFIER" TargetType="MOD_CONSUETUDINES_ET_JUSTICIE_CHEVELAR_ABILITY" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_NORMAN_COMMON_LAW" TargetKind="KIND_MODIFIER" TargetType="MOD_COMMON_LAW_TRADITION_SLOTS" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_NORMAN_COMMON_LAW" TargetKind="KIND_TRADITION" TargetType="TRADITION_JURE" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_NORMAN_COMMON_LAW" TargetKind="KIND_MODIFIER" TargetType="MOD_EX_SETTLEMENT_CAP_INCREASE" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_NORMAN_COMMON_LAW" TargetKind="KIND_TRADITION" TargetType="TRADITION_SERVITIUM_DEBITUM" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_NORMAN_COMMON_LAW" TargetKind="KIND_TRADITION" TargetType="TRADITION_FAMILIA_REGIS" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_NORMAN_DOMESDAY_BOOK" TargetKind="KIND_MODIFIER" TargetType="MOD_DOMESDAY_BOOK_FARM_GOLD" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_NORMAN_DOMESDAY_BOOK" TargetKind="KIND_MODIFIER" TargetType="MOD_DOMESDAY_BOOK_FARM_GOLD_GOLDEN_AGE" UnlockDepth="1" Hidden="true"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_NORMAN_DOMESDAY_BOOK" TargetKind="KIND_TRADITION" TargetType="TRADITION_BAYEUX_TAPESTRY" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_NORMAN_DOMESDAY_BOOK" TargetKind="KIND_MODIFIER" TargetType="MOD_EX_SETTLEMENT_CAP_INCREASE" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_NORMAN_DOMESDAY_BOOK" TargetKind="KIND_CONSTRUCTIBLE" TargetType="WONDER_WHITE_TOWER" UnlockDepth="2" AIIgnoreUnlockValue="true"/>
+		<!--Songhai-->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SONGHAI_SHIPS_OF_THE_DESERT" TargetKind="KIND_CONSTRUCTIBLE" TargetType="IMPROVEMENT_CARAVANSERAI" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SONGHAI_SHIPS_OF_THE_DESERT" TargetKind="KIND_CONSTRUCTIBLE" TargetType="WONDER_TOMB_OF_ASKIA" UnlockDepth="1" AIIgnoreUnlockValue="true"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SONGHAI_SHIPS_OF_THE_DESERT" TargetKind="KIND_TRADITION" TargetType="TRADITION_TIMBUKTU" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SONGHAI_SHIPS_OF_THE_DESERT" TargetKind="KIND_TRADITION" TargetType="TRADITION_MUD_BRICK" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SONGHAI_SHIPS_OF_THE_DESERT" TargetKind="KIND_MODIFIER" TargetType="MOD_SHIPS_OF_THE_DESERT_BAZAAR_CARAVANSARI" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SONGHAI_HI_KOI" TargetKind="KIND_MODIFIER" TargetType="MOD_HI_KOI_RIVER_COMBAT" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SONGHAI_HI_KOI" TargetKind="KIND_MODIFIER" TargetType="MOD_HI_KOI_MINOR_RIVER_MOVEMENT" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SONGHAI_HI_KOI" TargetKind="KIND_MODIFIER" TargetType="MOD_HI_KOI_NAVIGABLE_RIVER_MOVEMENT" UnlockDepth="2" Hidden="true"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SONGHAI_HI_KOI" TargetKind="KIND_TRADITION" TargetType="TRADITION_ISA" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SONGHAI_KANTA" TargetKind="KIND_MODIFIER" TargetType="MOD_EX_SETTLEMENT_CAP_INCREASE" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SONGHAI_KANTA" TargetKind="KIND_MODIFIER" TargetType="MOD_KANTA_TAJIRO_ABILITY" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SONGHAI_KANTA" TargetKind="KIND_MODIFIER" TargetType="MOD_KANTA_AUTO_TREASURE_FLEET" UnlockDepth="1"/>
+		<!--Spain-->
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SPAIN_COUNCIL_OF_THE_INDIES" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_CASA_CONSISTORIAL" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SPAIN_COUNCIL_OF_THE_INDIES" TargetKind="KIND_TRADITION" TargetType="TRADITION_CONQUISTA_DISTANT_LANDS_COMBAT" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SPAIN_COUNCIL_OF_THE_INDIES" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_CASA_DE_CONTRATACION" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SPAIN_COUNCIL_OF_THE_INDIES" TargetKind="KIND_MODIFIER" TargetType="MOD_COUNCIL_OF_THE_INDIES_TREASURE_FLEET_MOVEMENT" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SPAIN_ARMADA" TargetKind="KIND_MODIFIER" TargetType="MOD_ARMADA_FLEET_COMMANDER_CAPACITY" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SPAIN_ARMADA" TargetKind="KIND_TRADITION" TargetType="TRADITION_GREAT_AND_MOST_FORTUNATE_NAVY" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SPAIN_ARMADA" TargetKind="KIND_MODIFIER" TargetType="MOD_ARMADA_EMBARK_MOVEMENT" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SPAIN_NEW_WORLD_RICHES" TargetKind="KIND_TRADITION" TargetType="TRADITION_CERRO_RICO" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SPAIN_NEW_WORLD_RICHES" TargetKind="KIND_MODIFIER" TargetType="MOD_NEW_WORLD_RICHES_FOREIGN_CITIES_PRODUCTION_FOOD" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SPAIN_NEW_WORLD_RICHES" TargetKind="KIND_MODIFIER" TargetType="MOD_EX_SETTLEMENT_CAP_INCREASE" UnlockDepth="2"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SPAIN_NEW_WORLD_RICHES" TargetKind="KIND_CONSTRUCTIBLE" TargetType="WONDER_EL_ESCORIAL" UnlockDepth="2" AIIgnoreUnlockValue="true"/>
+	</ProgressionTreeNodeUnlocks>
+	<ProgressionTreePrereqs>
+		<!--Civ Unique Tree Mastery Organization-->
+		<!--Abbasid-->
+		<Row Node="NODE_CIVIC_EX_ABBASID_AL_JABR" PrereqNode="NODE_CIVIC_EX_ABBASID_ROUND_CITY"/>
+		<Row Node="NODE_CIVIC_EX_ABBASID_AL_JABR" PrereqNode="NODE_CIVIC_EX_ABBASID_MAWLA"/>
+		<!--Chola-->
+		<Row Node="NODE_CIVIC_EX_CHOLA_KANAKAM" PrereqNode="NODE_CIVIC_EX_CHOLA_NAGARAM"/>
+		<Row Node="NODE_CIVIC_EX_CHOLA_DIGVIJAYA" PrereqNode="NODE_CIVIC_EX_CHOLA_NAGARAM"/>
+		<Row Node="NODE_CIVIC_EX_CHOLA_MONSOON_WINDS" PrereqNode="NODE_CIVIC_EX_CHOLA_DIGVIJAYA"/>
+		<Row Node="NODE_CIVIC_EX_CHOLA_MONSOON_WINDS" PrereqNode="NODE_CIVIC_EX_CHOLA_KANAKAM"/>
+		<!--Hawaii-->
+		<Row Node="NODE_CIVIC_EX_HAWAII_HE_E_NALU" PrereqNode="NODE_CIVIC_EX_HAWAII_MANA"/>
+		<Row Node="NODE_CIVIC_EX_HAWAII_HE_E_NALU" PrereqNode="NODE_CIVIC_EX_HAWAII_OHANA"/>
+		<!--Inca-->
+		<Row Node="NODE_CIVIC_EX_INCA_AYLLU" PrereqNode="NODE_CIVIC_EX_INCA_MITA"/>
+		<Row Node="NODE_CIVIC_EX_INCA_QHAPAQ_NAN" PrereqNode="NODE_CIVIC_EX_INCA_MITA"/>
+		<!--Majapahit-->
+		<Row Node="NODE_CIVIC_EX_MAJAPAHIT_NUSUNTARA" PrereqNode="NODE_CIVIC_EX_MAJAPAHIT_WAYANG"/>
+		<Row Node="NODE_CIVIC_EX_MAJAPAHIT_NUSUNTARA" PrereqNode="NODE_CIVIC_EX_MAJAPAHIT_ALIRAN_KEPERCAYAAN"/>
+		<Row Node="NODE_CIVIC_EX_MAJAPAHIT_GAMELAN" PrereqNode="NODE_CIVIC_EX_MAJAPAHIT_NUSUNTARA"/>
+		<!--Ming-->
+		<Row Node="NODE_CIVIC_EX_MING_LIJIA" PrereqNode="NODE_CIVIC_EX_MING_NINE_GARRISONS"/>
+		<Row Node="NODE_CIVIC_EX_MING_DA_MING_LU" PrereqNode="NODE_CIVIC_EX_MING_NINE_GARRISONS"/>
+		<!--Mongolia-->
+		<Row Node="NODE_CIVIC_EX_MONGOLIA_FOUR_HOUNDS" PrereqNode="NODE_CIVIC_EX_MONGOLIA_ULUS"/>
+		<Row Node="NODE_CIVIC_EX_MONGOLIA_YASSA" PrereqNode="NODE_CIVIC_EX_MONGOLIA_FOUR_HOUNDS"/>
+		<!--Norman-->
+		<Row Node="NODE_CIVIC_EX_NORMAN_COMMON_LAW" PrereqNode="NODE_CIVIC_EX_NORMAN_CONSUETUDINES_ET_JUSTICIE"/>
+		<Row Node="NODE_CIVIC_EX_NORMAN_DOMESDAY_BOOK" PrereqNode="NODE_CIVIC_EX_NORMAN_COMMON_LAW"/>
+		<!--Songhai-->
+		<Row Node="NODE_CIVIC_EX_SONGHAI_KANTA" PrereqNode="NODE_CIVIC_EX_SONGHAI_SHIPS_OF_THE_DESERT"/>
+		<Row Node="NODE_CIVIC_EX_SONGHAI_KANTA" PrereqNode="NODE_CIVIC_EX_SONGHAI_HI_KOI"/>
+		<!--Spain-->
+		<Row Node="NODE_CIVIC_EX_SPAIN_ARMADA" PrereqNode="NODE_CIVIC_EX_SPAIN_COUNCIL_OF_THE_INDIES"/>
+		<Row Node="NODE_CIVIC_EX_SPAIN_NEW_WORLD_RICHES" PrereqNode="NODE_CIVIC_EX_SPAIN_COUNCIL_OF_THE_INDIES"/>
+	</ProgressionTreePrereqs>
+</Database>

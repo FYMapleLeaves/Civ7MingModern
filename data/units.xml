@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<Types>
+		<!--Civ Unique Military-->
+		<Row Type="UNIT_CETBANG" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_CETBANG_2" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_CETBANG_3" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_CHEVALER" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_CHEVALER_2" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_CHEVALER_3" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_GOLD_BANGLES" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_GOLD_BANGLES_2" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_GOLD_BANGLES_3" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_KALAM" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_KALAM_2" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_KALAM_3" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_KESHIG" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_KESHIG_2" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_KESHIG_3" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_LEIOMANO" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_LEIOMANO_2" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_LEIOMANO_3" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_MAMLUK" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_MAMLUK_2" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_MAMLUK_3" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_TERCIO" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_TERCIO_2" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_TERCIO_3" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_WARAKAQ" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_WARAKAQ_2" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_WARAKAQ_3" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_XUNLEICHONG" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_XUNLEICHONG_2" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_XUNLEICHONG_3" Kind="KIND_UNIT"/>
+
+		<!--Civ Unique Civilian-->
+		<Row Type="UNIT_ALIM" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_ALIM_AL_JAHIZ" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_ALIM_AL_KHWARIZMI" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_ALIM_IBN_SINA" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_ALIM_AL_MAQDISI" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_ALIM_AL_FARGHANI" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_ALIM_AL_FARABI" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_ALIM_RABIA" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_ALIM_AL_SHAYBANI" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_ALIM_AL_JAZARI" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_ALIM_IBN_FADLAN" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_CHASQUI" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_CONQUISTADOR" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_CONQUISTADOR_FERDINAND_MAGELLAN" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_CONQUISTADOR_FRANCISCO_PIZARRO" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_CONQUISTADOR_JUAN_PONCE_DE_LEON" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_CONQUISTADOR_CHRISTOPHER_COLUMBUS" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_CONQUISTADOR_HERNAN_CORTES" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_CONQUISTADOR_HERNANDO_DE_SOTO" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_CONQUISTADOR_FRANCISCO_DE_ORELLANA" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_CONQUISTADOR_ALVAR_NUNEZ_CABEZA_DE_VACA" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_CONQUISTADOR_MIGUEL_LOPEZ_DE_LEGAZPI" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_CONQUISTADOR_SUAREZ" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_MANDARIN" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_NOYAN" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_OTTRU" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_SOKEMAN" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_TAJIRO" Kind="KIND_UNIT"/>
+
+		<!--Generic Abilities-->
+		<Row Type="ABILITY_DE_FACTO" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_INITIATION" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_EX_TECH_INFANTRY" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_EX_TECH_NAVAL" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_EX_TECH_SIEGE" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_EX_TECH_CAVALRY" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_EX_TECH_RANGED" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_SEARCH_RECON" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_CRISIS_COMBAT_MINOR_PENALTY" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_ECONOMIC_DARK_AGE" Kind="KIND_ABILITY"/>
+		<!--Civ Unique Abilities-->
+		<Row Type="ABILITY_CHASQUI" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_CETBANG" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_CORSAIR" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_CHEVALER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_CHEVALER_CIV_TRADITIONS" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_KESHIG" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_LEIOMANO" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_LEIOMANO_CULTURE" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_MAMLUK_LOCATION_CHECK" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_MAMLUK" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_MANDARIN_BONUS" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_NOYAN" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_OTTRU" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_PEDANDA" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_TAJIRO" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_TAJIRO_BONUS" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_SONGHAI_TRADE_PROTECTION" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_TERCIO" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_TERCIO_CAVALRY_STRENGTH" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_TREASURE_FLEET" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_KALAM" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_WARAKAQ" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_XUNLEICHONG" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_XUNLEICHONG_BONUS" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_XUNLEICHONG_NO_FEATURE_STRENGTH" Kind="KIND_ABILITY"/>
+
+	</Types>
+	<Units>
+		<!--Civ Unique Military-->
+		<Row UnitType="UNIT_CETBANG" Name="LOC_UNIT_CETBANG_NAME" Description="LOC_UNIT_CETBANG_DESCRIPTION" Tier="1" Maintenance="4" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_NAVAL" Domain="DOMAIN_SEA" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_NAVAL" ZoneOfControl="true" TraitType="TRAIT_MAJAPAHIT"/>
+		<Row UnitType="UNIT_CETBANG_2" Name="LOC_UNIT_CETBANG_NAME" Description="LOC_UNIT_CETBANG_2_DESCRIPTION" Tier="2" Maintenance="4" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_NAVAL" Domain="DOMAIN_SEA" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_NAVAL" ZoneOfControl="true" TraitType="TRAIT_MAJAPAHIT"/>
+		<Row UnitType="UNIT_CETBANG_3" Name="LOC_UNIT_CETBANG_NAME" Description="LOC_UNIT_CETBANG_3_DESCRIPTION" Tier="3" Maintenance="5" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_NAVAL" Domain="DOMAIN_SEA" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_NAVAL" ZoneOfControl="true" TraitType="TRAIT_MAJAPAHIT"/>
+		<Row UnitType="UNIT_CHEVALER" Name="LOC_UNIT_CHEVALER_NAME" Description="LOC_UNIT_CHEVALER_DESCRIPTION" Tier="1" Maintenance="4" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_MOUNTED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_NORMAN"/>
+		<Row UnitType="UNIT_CHEVALER_2" Name="LOC_UNIT_CHEVALER_NAME" Description="LOC_UNIT_CHEVALER_2_DESCRIPTION" Tier="2" Maintenance="4" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_MOUNTED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_NORMAN"/>
+		<Row UnitType="UNIT_CHEVALER_3" Name="LOC_UNIT_CHEVALER_NAME" Description="LOC_UNIT_CHEVALER_3_DESCRIPTION" Tier="3" Maintenance="5" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_MOUNTED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_NORMAN"/>
+		<Row UnitType="UNIT_GOLD_BANGLES" Name="LOC_UNIT_GOLD_BANGLES_NAME" Description="LOC_UNIT_GOLD_BANGLES_DESCRIPTION" Tier="1" Maintenance="4" BaseSightRange="2" BaseMoves="2" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_SONGHAI"/>
+		<Row UnitType="UNIT_GOLD_BANGLES_2" Name="LOC_UNIT_GOLD_BANGLES_NAME" Description="LOC_UNIT_GOLD_BANGLES_2_DESCRIPTION" Tier="2" Maintenance="4" BaseSightRange="2" BaseMoves="2" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_SONGHAI"/>
+		<Row UnitType="UNIT_GOLD_BANGLES_3" Name="LOC_UNIT_GOLD_BANGLES_NAME" Description="LOC_UNIT_GOLD_BANGLES_3_DESCRIPTION" Tier="3" Maintenance="5" BaseSightRange="2" BaseMoves="2" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_SONGHAI"/>
+		<Row UnitType="UNIT_KALAM" Name="LOC_UNIT_KALAM_NAME" Description="LOC_UNIT_KALAM_DESCRIPTION" Tier="1" Maintenance="4" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_NAVAL" Domain="DOMAIN_SEA" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_NAVAL" ZoneOfControl="true" TraitType="TRAIT_CHOLA"/>
+		<Row UnitType="UNIT_KALAM_2" Name="LOC_UNIT_KALAM_NAME" Description="LOC_UNIT_KALAM_2_DESCRIPTION" Tier="2" Maintenance="4" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_NAVAL" Domain="DOMAIN_SEA" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_NAVAL" ZoneOfControl="true" TraitType="TRAIT_CHOLA"/>
+		<Row UnitType="UNIT_KALAM_3" Name="LOC_UNIT_KALAM_NAME" Description="LOC_UNIT_KALAM_3_DESCRIPTION" Tier="3" Maintenance="5" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_NAVAL" Domain="DOMAIN_SEA" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_NAVAL" ZoneOfControl="true" TraitType="TRAIT_CHOLA"/>
+		<Row UnitType="UNIT_KESHIG" Name="LOC_UNIT_KESHIG_NAME" Description="LOC_UNIT_KESHIG_DESCRIPTION" Tier="1" Maintenance="4" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_MOUNTED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="false" TraitType="TRAIT_MONGOLIA"/>
+		<Row UnitType="UNIT_KESHIG_2" Name="LOC_UNIT_KESHIG_NAME" Description="LOC_UNIT_KESHIG_2_DESCRIPTION" Tier="2" Maintenance="4" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_MOUNTED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="false" TraitType="TRAIT_MONGOLIA"/>
+		<Row UnitType="UNIT_KESHIG_3" Name="LOC_UNIT_KESHIG_NAME" Description="LOC_UNIT_KESHIG_3_DESCRIPTION" Tier="3" Maintenance="5" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_MOUNTED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="false" TraitType="TRAIT_MONGOLIA"/>
+		<Row UnitType="UNIT_LEIOMANO" Name="LOC_UNIT_LEIOMANO_NAME" Description="LOC_UNIT_LEIOMANO_DESCRIPTION" Tier="1" Maintenance="4" BaseSightRange="2" BaseMoves="2" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_HAWAII"/>
+		<Row UnitType="UNIT_LEIOMANO_2" Name="LOC_UNIT_LEIOMANO_NAME" Description="LOC_UNIT_LEIOMANO_2_DESCRIPTION" Tier="2" Maintenance="4" BaseSightRange="2" BaseMoves="2" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_HAWAII"/>
+		<Row UnitType="UNIT_LEIOMANO_3" Name="LOC_UNIT_LEIOMANO_NAME" Description="LOC_UNIT_LEIOMANO_3_DESCRIPTION" Tier="3" Maintenance="5" BaseSightRange="2" BaseMoves="2" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_HAWAII"/>
+		<Row UnitType="UNIT_MAMLUK" Name="LOC_UNIT_MAMLUK_NAME" Description="LOC_UNIT_MAMLUK_DESCRIPTION" Tier="1" Maintenance="4" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_MOUNTED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_ABBASID"/>
+		<Row UnitType="UNIT_MAMLUK_2" Name="LOC_UNIT_MAMLUK_NAME" Description="LOC_UNIT_MAMLUK_2_DESCRIPTION" Tier="2" Maintenance="4" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_MOUNTED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_ABBASID"/>
+		<Row UnitType="UNIT_MAMLUK_3" Name="LOC_UNIT_MAMLUK_NAME" Description="LOC_UNIT_MAMLUK_3_DESCRIPTION" Tier="3" Maintenance="5" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_MOUNTED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_ABBASID"/>
+		<Row UnitType="UNIT_TERCIO" Name="LOC_UNIT_TERCIO_NAME" Description="LOC_UNIT_TERCIO_DESCRIPTION" Tier="1" Maintenance="4" BaseSightRange="2" BaseMoves="2" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_SPAIN"/>
+		<Row UnitType="UNIT_TERCIO_2" Name="LOC_UNIT_TERCIO_NAME" Description="LOC_UNIT_TERCIO_2_DESCRIPTION" Tier="2" Maintenance="4" BaseSightRange="2" BaseMoves="2" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_SPAIN"/>
+		<Row UnitType="UNIT_TERCIO_3" Name="LOC_UNIT_TERCIO_NAME" Description="LOC_UNIT_TERCIO_3_DESCRIPTION" Tier="3" Maintenance="5" BaseSightRange="2" BaseMoves="2" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_SPAIN"/>
+		<Row UnitType="UNIT_WARAKAQ" Name="LOC_UNIT_WARAKAQ_NAME" Description="LOC_UNIT_WARAKAQ_DESCRIPTION" Tier="1" Maintenance="4" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="false" TraitType="TRAIT_INCA"/>
+		<Row UnitType="UNIT_WARAKAQ_2" Name="LOC_UNIT_WARAKAQ_NAME" Description="LOC_UNIT_WARAKAQ_2_DESCRIPTION" Tier="2" Maintenance="4" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="false" TraitType="TRAIT_INCA"/>
+		<Row UnitType="UNIT_WARAKAQ_3" Name="LOC_UNIT_WARAKAQ_NAME" Description="LOC_UNIT_WARAKAQ_3_DESCRIPTION" Tier="3" Maintenance="5" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="false" TraitType="TRAIT_INCA"/>
+		<Row UnitType="UNIT_XUNLEICHONG" Name="LOC_UNIT_XUNLEICHONG_NAME" Description="LOC_UNIT_XUNLEICHONG_DESCRIPTION" Tier="1" Maintenance="4" BaseSightRange="2" BaseMoves="2" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_MING"/>
+		<Row UnitType="UNIT_XUNLEICHONG_2" Name="LOC_UNIT_XUNLEICHONG_NAME" Description="LOC_UNIT_XUNLEICHONG_2_DESCRIPTION" Tier="2" Maintenance="4" BaseSightRange="2" BaseMoves="2" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_MING"/>
+		<Row UnitType="UNIT_XUNLEICHONG_3" Name="LOC_UNIT_XUNLEICHONG_NAME" Description="LOC_UNIT_XUNLEICHONG_3_DESCRIPTION" Tier="3" Maintenance="5" BaseSightRange="2" BaseMoves="2" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_MING"/>
+
+
+		<!--Civ Unique Civilian-->
+		<Row UnitType="UNIT_CHASQUI" Name="LOC_UNIT_CHASQUI_NAME" Description="LOC_UNIT_CHASQUI_DESCRIPTION" BaseSightRange="4" BaseMoves="4" UnitMovementClass="UNIT_MOVEMENT_CLASS_RECON" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_RECON" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" TraitType="TRAIT_INCA"/>
+		<Row UnitType="UNIT_MANDARIN" Name="LOC_UNIT_MANDARIN_NAME" Description="LOC_UNIT_MANDARIN_DESCRIPTION" BaseSightRange="2" BaseMoves="4" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" MakeTradeRoute="true" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="20" TraitType="TRAIT_MING"/>
+		<Row UnitType="UNIT_NOYAN" Name="LOC_UNIT_NOYAN_NAME" Description="LOC_UNIT_NOYAN_DESCRIPTION" BaseSightRange="4" BaseMoves="4" UnitMovementClass="UNIT_MOVEMENT_CLASS_MOUNTED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_SUPPORT" FormationClass="FORMATION_CLASS_COMMAND" ZoneOfControl="true" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CanEarnExperience="true" CostProgressionParam1="40" TraitType="TRAIT_MONGOLIA" PromotionClass="PROMOTION_CLASS_LAND_COMMANDER"/>
+		<Row UnitType="UNIT_OTTRU" Name="LOC_UNIT_OTTRU_NAME" Description="LOC_UNIT_OTTRU_DESCRIPTION" BaseSightRange="4" BaseMoves="4" UnitMovementClass="UNIT_MOVEMENT_CLASS_NAVAL" Domain="DOMAIN_SEA" CoreClass="CORE_CLASS_SUPPORT" FormationClass="FORMATION_CLASS_COMMAND" ZoneOfControl="true" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CanEarnExperience="true" CostProgressionParam1="40" TraitType="TRAIT_CHOLA" PromotionClass="PROMOTION_CLASS_NAVAL_COMMANDER"/>
+
+		<Row UnitType="UNIT_SOKEMAN" Name="LOC_UNIT_SOKEMAN_NAME" Description="LOC_UNIT_SOKEMAN_DESCRIPTION" BaseSightRange="1" BaseMoves="3" PrereqPopulation="5" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_SUPPORT" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" FoundCity="true" CostProgressionModel="COST_PROGRESSION_NUM_SETTLEMENTS" CostProgressionParam1="30" TraitType="TRAIT_NORMAN"/>
+		<Row UnitType="UNIT_TAJIRO" Name="LOC_UNIT_TAJIRO_NAME" Description="LOC_UNIT_TAJIRO_DESCRIPTION" BaseSightRange="2" BaseMoves="4" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" MakeTradeRoute="true" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="20" TraitType="TRAIT_SONGHAI"/>
+		
+		<!--Abbasid-->
+		<Row UnitType="UNIT_ALIM" Name="LOC_UNIT_ALIM_NAME" Description="LOC_UNIT_ALIM_DESCRIPTION" BaseSightRange="1" BaseMoves="5" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="40" TraitType="TRAIT_ABBASID"/>
+		<Row UnitType="UNIT_ALIM_AL_JAHIZ" Name="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_AL_JAHIZ_NAME" Description="LOC_UNIT_ALIM_DESCRIPTION" BaseSightRange="1" BaseMoves="5" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="40" TraitType="TRAIT_ABBASID" CanTrain="false" CanPurchase="false"/>
+		<Row UnitType="UNIT_ALIM_AL_KHWARIZMI" Name="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_AL_KHWARIZMI_NAME" Description="LOC_UNIT_ALIM_DESCRIPTION" BaseSightRange="1" BaseMoves="5" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="40" TraitType="TRAIT_ABBASID" CanTrain="false" CanPurchase="false"/>
+		<Row UnitType="UNIT_ALIM_IBN_SINA" Name="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_IBN_SINA_NAME" Description="LOC_UNIT_ALIM_DESCRIPTION" BaseSightRange="1" BaseMoves="5" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="40" TraitType="TRAIT_ABBASID" CanTrain="false" CanPurchase="false"/>
+		<Row UnitType="UNIT_ALIM_AL_MAQDISI" Name="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_AL_MAQDISI_NAME" Description="LOC_UNIT_ALIM_DESCRIPTION" BaseSightRange="1" BaseMoves="5" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="40" TraitType="TRAIT_ABBASID" CanTrain="false" CanPurchase="false"/>
+		<Row UnitType="UNIT_ALIM_AL_FARGHANI" Name="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_AL_FARGHANI_NAME" Description="LOC_UNIT_ALIM_DESCRIPTION" BaseSightRange="1" BaseMoves="5" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="40" TraitType="TRAIT_ABBASID" CanTrain="false" CanPurchase="false"/>
+		<Row UnitType="UNIT_ALIM_AL_FARABI" Name="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_AL_FARABI_NAME" Description="LOC_UNIT_ALIM_DESCRIPTION" BaseSightRange="1" BaseMoves="5" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="40" TraitType="TRAIT_ABBASID" CanTrain="false" CanPurchase="false"/>
+		<Row UnitType="UNIT_ALIM_RABIA" Name="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_RABIA_NAME" Description="LOC_UNIT_ALIM_DESCRIPTION" BaseSightRange="1" BaseMoves="5" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="40" TraitType="TRAIT_ABBASID" CanTrain="false" CanPurchase="false"/>
+		<Row UnitType="UNIT_ALIM_AL_SHAYBANI" Name="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_AL_SHAYBANI_NAME" Description="LOC_UNIT_ALIM_DESCRIPTION" BaseSightRange="1" BaseMoves="5" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="40" TraitType="TRAIT_ABBASID" CanTrain="false" CanPurchase="false"/>
+		<Row UnitType="UNIT_ALIM_AL_JAZARI" Name="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_AL_JAZARI_NAME" Description="LOC_UNIT_ALIM_DESCRIPTION" BaseSightRange="1" BaseMoves="5" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="40" TraitType="TRAIT_ABBASID" CanTrain="false" CanPurchase="false"/>
+		<Row UnitType="UNIT_ALIM_IBN_FADLAN" Name="LOC_GREAT_PERSON_INDIVIDUAL_ALIM_IBN_FADLAN_NAME" Description="LOC_UNIT_ALIM_DESCRIPTION" BaseSightRange="1" BaseMoves="5" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="40" TraitType="TRAIT_ABBASID" CanTrain="false" CanPurchase="false"/>
+		<!--Spain-->
+		<Row UnitType="UNIT_CONQUISTADOR" Name="LOC_UNIT_CONQUISTADOR_NAME" Description="LOC_UNIT_CONQUISTADOR_DESCRIPTION" BaseSightRange="1" BaseMoves="5" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="40" TraitType="TRAIT_SPAIN"/>
+		<Row UnitType="UNIT_CONQUISTADOR_FERDINAND_MAGELLAN" Name="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_FERDINAND_MAGELLAN_NAME" Description="LOC_UNIT_CONQUISTADOR_DESCRIPTION" BaseSightRange="1" BaseMoves="5" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="40" TraitType="TRAIT_SPAIN" CanTrain="false" CanPurchase="false"/>
+		<Row UnitType="UNIT_CONQUISTADOR_FRANCISCO_PIZARRO" Name="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_FRANCISCO_PIZARRO_NAME" Description="LOC_UNIT_CONQUISTADOR_DESCRIPTION" BaseSightRange="1" BaseMoves="5" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="40" TraitType="TRAIT_SPAIN" CanTrain="false" CanPurchase="false"/>
+		<Row UnitType="UNIT_CONQUISTADOR_JUAN_PONCE_DE_LEON" Name="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_JUAN_PONCE_DE_LEON_NAME" Description="LOC_UNIT_CONQUISTADOR_DESCRIPTION" BaseSightRange="1" BaseMoves="5" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="40" TraitType="TRAIT_SPAIN" CanTrain="false" CanPurchase="false"/>
+		<Row UnitType="UNIT_CONQUISTADOR_CHRISTOPHER_COLUMBUS" Name="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_CHRISTOPHER_COLUMBUS_NAME" Description="LOC_UNIT_CONQUISTADOR_DESCRIPTION" BaseSightRange="1" BaseMoves="5" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="40" TraitType="TRAIT_SPAIN" CanTrain="false" CanPurchase="false"/>
+		<Row UnitType="UNIT_CONQUISTADOR_HERNAN_CORTES" Name="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_HERNAN_CORTES_NAME" Description="LOC_UNIT_CONQUISTADOR_DESCRIPTION" BaseSightRange="1" BaseMoves="5" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="40" TraitType="TRAIT_SPAIN" CanTrain="false" CanPurchase="false"/>
+		<Row UnitType="UNIT_CONQUISTADOR_HERNANDO_DE_SOTO" Name="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_HERNANDO_DE_SOTO_NAME" Description="LOC_UNIT_CONQUISTADOR_DESCRIPTION" BaseSightRange="1" BaseMoves="5" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="40" TraitType="TRAIT_SPAIN" CanTrain="false" CanPurchase="false"/>
+		<Row UnitType="UNIT_CONQUISTADOR_FRANCISCO_DE_ORELLANA" Name="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_FRANCISCO_DE_ORELLANA_NAME" Description="LOC_UNIT_CONQUISTADOR_DESCRIPTION" BaseSightRange="1" BaseMoves="5" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="40" TraitType="TRAIT_SPAIN" CanTrain="false" CanPurchase="false"/>
+		<Row UnitType="UNIT_CONQUISTADOR_ALVAR_NUNEZ_CABEZA_DE_VACA" Name="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_ALVAR_NUNEZ_CABEZA_DE_VACA_NAME" Description="LOC_UNIT_CONQUISTADOR_DESCRIPTION" BaseSightRange="1" BaseMoves="5" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="40" TraitType="TRAIT_SPAIN" CanTrain="false" CanPurchase="false"/>
+		<Row UnitType="UNIT_CONQUISTADOR_MIGUEL_LOPEZ_DE_LEGAZPI" Name="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_MIGUEL_LOPEZ_DE_LEGAZPI_NAME" Description="LOC_UNIT_CONQUISTADOR_DESCRIPTION" BaseSightRange="1" BaseMoves="5" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="40" TraitType="TRAIT_SPAIN" CanTrain="false" CanPurchase="false"/>
+		<Row UnitType="UNIT_CONQUISTADOR_SUAREZ" Name="LOC_GREAT_PERSON_INDIVIDUAL_CONQUISTADOR_SUAREZ_NAME" Description="LOC_UNIT_CONQUISTADOR_DESCRIPTION" BaseSightRange="1" BaseMoves="5" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="40" TraitType="TRAIT_SPAIN" CanTrain="false" CanPurchase="false"/>
+	</Units>
+	<Unit_Stats>
+		
+		<!--Civ Unique Military-->
+		<Row UnitType="UNIT_CETBANG" Combat="50" RangedCombat="45" Bombard="35" Range="2"/>
+		<Row UnitType="UNIT_CETBANG_2" Combat="55" RangedCombat="50" Bombard="40" Range="2"/>
+		<Row UnitType="UNIT_CETBANG_3" Combat="60" RangedCombat="55" Bombard="45" Range="2"/>
+		<Row UnitType="UNIT_CHEVALER" Combat="55"/>
+		<Row UnitType="UNIT_CHEVALER_2" Combat="60"/>
+		<Row UnitType="UNIT_CHEVALER_3" Combat="65"/>
+		<Row UnitType="UNIT_GOLD_BANGLES" Combat="50"/>
+		<Row UnitType="UNIT_GOLD_BANGLES_2" Combat="55"/>
+		<Row UnitType="UNIT_GOLD_BANGLES_3" Combat="60"/>
+		<Row UnitType="UNIT_KALAM" Combat="50" RangedCombat="45" Bombard="35" Range="2"/>
+		<Row UnitType="UNIT_KALAM_2" Combat="55" RangedCombat="50" Bombard="40" Range="2"/>
+		<Row UnitType="UNIT_KALAM_3" Combat="60" RangedCombat="55" Bombard="45" Range="2"/>
+		<Row UnitType="UNIT_KESHIG" Combat="35" RangedCombat="45" Bombard="35" Range="2"/>
+		<Row UnitType="UNIT_KESHIG_2" Combat="40" RangedCombat="50" Bombard="40" Range="2"/>
+		<Row UnitType="UNIT_KESHIG_3" Combat="45" RangedCombat="55" Bombard="55" Range="2"/>
+		<Row UnitType="UNIT_LEIOMANO" Combat="50"/>
+		<Row UnitType="UNIT_LEIOMANO_2" Combat="55"/>
+		<Row UnitType="UNIT_LEIOMANO_3" Combat="60"/>
+		<Row UnitType="UNIT_MAMLUK" Combat="45"/>
+		<Row UnitType="UNIT_MAMLUK_2" Combat="50"/>
+		<Row UnitType="UNIT_MAMLUK_3" Combat="55"/>
+		<Row UnitType="UNIT_TERCIO" Combat="52"/>
+		<Row UnitType="UNIT_TERCIO_2" Combat="57"/>
+		<Row UnitType="UNIT_TERCIO_3" Combat="62"/>
+		<Row UnitType="UNIT_WARAKAQ" Combat="35" RangedCombat="45" Bombard="35" Range="2"/>
+		<Row UnitType="UNIT_WARAKAQ_2" Combat="35" RangedCombat="50" Bombard="40" Range="2"/>
+		<Row UnitType="UNIT_WARAKAQ_3" Combat="35" RangedCombat="55" Bombard="45" Range="2"/>
+		<Row UnitType="UNIT_XUNLEICHONG" Combat="50" RangedCombat="45" Bombard="35" Range="2"/>
+		<Row UnitType="UNIT_XUNLEICHONG_2" Combat="55" RangedCombat="50" Bombard="40" Range="2"/>
+		<Row UnitType="UNIT_XUNLEICHONG_3" Combat="60" RangedCombat="55" Bombard="45" Range="2"/>
+
+		<!--Civ Unique Civilian-->
+		<Row UnitType="UNIT_CHASQUI"/>
+		<Row UnitType="UNIT_MANDARIN"/>
+		<Row UnitType="UNIT_NOYAN"/>
+		<Row UnitType="UNIT_OTTRU"/>
+		<Row UnitType="UNIT_TAJIRO"/>
+
+	</Unit_Stats>
+	<Unit_Costs>
+		
+
+		<!--Civ Unique Military-->
+		<Row UnitType="UNIT_CETBANG" YieldType="YIELD_PRODUCTION" Cost="320"/>
+		<Row UnitType="UNIT_CETBANG_2" YieldType="YIELD_PRODUCTION" Cost="370"/>
+		<Row UnitType="UNIT_CETBANG_3" YieldType="YIELD_PRODUCTION" Cost="430"/>
+		<Row UnitType="UNIT_CHEVALER" YieldType="YIELD_PRODUCTION" Cost="320"/>
+		<Row UnitType="UNIT_CHEVALER_2" YieldType="YIELD_PRODUCTION" Cost="370"/>
+		<Row UnitType="UNIT_CHEVALER_3" YieldType="YIELD_PRODUCTION" Cost="430"/>
+		<Row UnitType="UNIT_GOLD_BANGLES" YieldType="YIELD_PRODUCTION" Cost="290"/>
+		<Row UnitType="UNIT_GOLD_BANGLES_2" YieldType="YIELD_PRODUCTION" Cost="340"/>
+		<Row UnitType="UNIT_GOLD_BANGLES_3" YieldType="YIELD_PRODUCTION" Cost="400"/>
+		<Row UnitType="UNIT_KALAM" YieldType="YIELD_PRODUCTION" Cost="320"/>
+		<Row UnitType="UNIT_KALAM_2" YieldType="YIELD_PRODUCTION" Cost="370"/>
+		<Row UnitType="UNIT_KALAM_3" YieldType="YIELD_PRODUCTION" Cost="430"/>
+		<Row UnitType="UNIT_KESHIG" YieldType="YIELD_PRODUCTION" Cost="270"/>
+		<Row UnitType="UNIT_KESHIG_2" YieldType="YIELD_PRODUCTION" Cost="320"/>
+		<Row UnitType="UNIT_KESHIG_3" YieldType="YIELD_PRODUCTION" Cost="380"/>
+		<Row UnitType="UNIT_LEIOMANO" YieldType="YIELD_PRODUCTION" Cost="290"/>
+		<Row UnitType="UNIT_LEIOMANO_2" YieldType="YIELD_PRODUCTION" Cost="340"/>
+		<Row UnitType="UNIT_LEIOMANO_3" YieldType="YIELD_PRODUCTION" Cost="400"/>
+		<Row UnitType="UNIT_MAMLUK" YieldType="YIELD_PRODUCTION" Cost="320"/>
+		<Row UnitType="UNIT_MAMLUK_2" YieldType="YIELD_PRODUCTION" Cost="370"/>
+		<Row UnitType="UNIT_MAMLUK_3" YieldType="YIELD_PRODUCTION" Cost="430"/>
+		<Row UnitType="UNIT_TERCIO" YieldType="YIELD_PRODUCTION" Cost="290"/>
+		<Row UnitType="UNIT_TERCIO_2" YieldType="YIELD_PRODUCTION" Cost="340"/>
+		<Row UnitType="UNIT_TERCIO_3" YieldType="YIELD_PRODUCTION" Cost="400"/>
+		<Row UnitType="UNIT_WARAKAQ" YieldType="YIELD_PRODUCTION" Cost="270"/>
+		<Row UnitType="UNIT_WARAKAQ_2" YieldType="YIELD_PRODUCTION" Cost="320"/>
+		<Row UnitType="UNIT_WARAKAQ_3" YieldType="YIELD_PRODUCTION" Cost="380"/>
+		<Row UnitType="UNIT_XUNLEICHONG" YieldType="YIELD_PRODUCTION" Cost="260"/>
+		<Row UnitType="UNIT_XUNLEICHONG_2" YieldType="YIELD_PRODUCTION" Cost="310"/>
+		<Row UnitType="UNIT_XUNLEICHONG_3" YieldType="YIELD_PRODUCTION" Cost="370"/>
+
+
+		<!--Civ Unique Civilian-->
+		<Row UnitType="UNIT_ALIM" YieldType="YIELD_PRODUCTION" Cost="260"/>
+		<Row UnitType="UNIT_ALIM_AL_JAHIZ" YieldType="YIELD_PRODUCTION" Cost="260"/>
+		<Row UnitType="UNIT_ALIM_AL_KHWARIZMI" YieldType="YIELD_PRODUCTION" Cost="260"/>
+		<Row UnitType="UNIT_ALIM_IBN_SINA" YieldType="YIELD_PRODUCTION" Cost="260"/>
+		<Row UnitType="UNIT_ALIM_AL_MAQDISI" YieldType="YIELD_PRODUCTION" Cost="260"/>
+		<Row UnitType="UNIT_ALIM_AL_FARGHANI" YieldType="YIELD_PRODUCTION" Cost="260"/>
+		<Row UnitType="UNIT_ALIM_AL_FARABI" YieldType="YIELD_PRODUCTION" Cost="260"/>
+		<Row UnitType="UNIT_ALIM_RABIA" YieldType="YIELD_PRODUCTION" Cost="260"/>
+		<Row UnitType="UNIT_ALIM_AL_SHAYBANI" YieldType="YIELD_PRODUCTION" Cost="260"/>
+		<Row UnitType="UNIT_ALIM_AL_JAZARI" YieldType="YIELD_PRODUCTION" Cost="260"/>
+		<Row UnitType="UNIT_ALIM_IBN_FADLAN" YieldType="YIELD_PRODUCTION" Cost="260"/>
+		<Row UnitType="UNIT_CHASQUI" YieldType="YIELD_PRODUCTION" Cost="60"/>
+		<Row UnitType="UNIT_CONQUISTADOR" YieldType="YIELD_PRODUCTION" Cost="260"/>
+		<Row UnitType="UNIT_CONQUISTADOR_FERDINAND_MAGELLAN" YieldType="YIELD_PRODUCTION" Cost="260"/>
+		<Row UnitType="UNIT_CONQUISTADOR_FRANCISCO_PIZARRO" YieldType="YIELD_PRODUCTION" Cost="260"/>
+		<Row UnitType="UNIT_CONQUISTADOR_JUAN_PONCE_DE_LEON" YieldType="YIELD_PRODUCTION" Cost="260"/>
+		<Row UnitType="UNIT_CONQUISTADOR_CHRISTOPHER_COLUMBUS" YieldType="YIELD_PRODUCTION" Cost="260"/>
+		<Row UnitType="UNIT_CONQUISTADOR_HERNAN_CORTES" YieldType="YIELD_PRODUCTION" Cost="260"/>
+		<Row UnitType="UNIT_CONQUISTADOR_HERNANDO_DE_SOTO" YieldType="YIELD_PRODUCTION" Cost="260"/>
+		<Row UnitType="UNIT_CONQUISTADOR_FRANCISCO_DE_ORELLANA" YieldType="YIELD_PRODUCTION" Cost="260"/>
+		<Row UnitType="UNIT_CONQUISTADOR_ALVAR_NUNEZ_CABEZA_DE_VACA" YieldType="YIELD_PRODUCTION" Cost="260"/>
+		<Row UnitType="UNIT_CONQUISTADOR_MIGUEL_LOPEZ_DE_LEGAZPI" YieldType="YIELD_PRODUCTION" Cost="260"/>
+		<Row UnitType="UNIT_CONQUISTADOR_SUAREZ" YieldType="YIELD_PRODUCTION" Cost="260"/>
+		<Row UnitType="UNIT_MANDARIN" YieldType="YIELD_PRODUCTION" Cost="80"/>
+		<Row UnitType="UNIT_NOYAN" YieldType="YIELD_PRODUCTION" Cost="200"/>
+		<Row UnitType="UNIT_OTTRU" YieldType="YIELD_PRODUCTION" Cost="240"/>
+
+		<Row UnitType="UNIT_SOKEMAN" YieldType="YIELD_PRODUCTION" Cost="100"/>
+		<Row UnitType="UNIT_TAJIRO" YieldType="YIELD_PRODUCTION" Cost="80"/>
+
+	</Unit_Costs>
+	<Unit_RequiredConstructibles>
+
+	</Unit_RequiredConstructibles>
+	<UnitUpgrades>
+
+		<!--Civ Unique Military-->
+		<Row Unit="UNIT_CETBANG" UpgradeUnit="UNIT_CETBANG_2"/>
+		<Row Unit="UNIT_CETBANG_2" UpgradeUnit="UNIT_CETBANG_3"/>
+		<Row Unit="UNIT_CHEVALER" UpgradeUnit="UNIT_CHEVALER_2"/>
+		<Row Unit="UNIT_CHEVALER_2" UpgradeUnit="UNIT_CHEVALER_3"/>
+		<Row Unit="UNIT_GOLD_BANGLES" UpgradeUnit="UNIT_GOLD_BANGLES_2"/>
+		<Row Unit="UNIT_GOLD_BANGLES_2" UpgradeUnit="UNIT_GOLD_BANGLES_3"/>
+		<Row Unit="UNIT_KALAM" UpgradeUnit="UNIT_KALAM_2"/>
+		<Row Unit="UNIT_KALAM_2" UpgradeUnit="UNIT_KALAM_3"/>
+		<Row Unit="UNIT_KESHIG" UpgradeUnit="UNIT_KESHIG_2"/>
+		<Row Unit="UNIT_KESHIG_2" UpgradeUnit="UNIT_KESHIG_3"/>
+		<Row Unit="UNIT_LEIOMANO" UpgradeUnit="UNIT_LEIOMANO_2"/>
+		<Row Unit="UNIT_LEIOMANO_2" UpgradeUnit="UNIT_LEIOMANO_3"/>
+		<Row Unit="UNIT_MAMLUK" UpgradeUnit="UNIT_MAMLUK_2"/>
+		<Row Unit="UNIT_MAMLUK_2" UpgradeUnit="UNIT_MAMLUK_3"/>
+		<Row Unit="UNIT_TERCIO" UpgradeUnit="UNIT_TERCIO_2"/>
+		<Row Unit="UNIT_TERCIO_2" UpgradeUnit="UNIT_TERCIO_3"/>
+		<Row Unit="UNIT_WARAKAQ" UpgradeUnit="UNIT_WARAKAQ_2"/>
+		<Row Unit="UNIT_WARAKAQ_2" UpgradeUnit="UNIT_WARAKAQ_3"/>
+		<Row Unit="UNIT_XUNLEICHONG" UpgradeUnit="UNIT_XUNLEICHONG_2"/>
+		<Row Unit="UNIT_XUNLEICHONG_2" UpgradeUnit="UNIT_XUNLEICHONG_3"/>
+
+	</UnitUpgrades>
+	<UnitReplaces>
+		<!--Civ Unique Military-->
+		<Row CivUniqueUnitType="UNIT_CETBANG" ReplacesUnitType="UNIT_FRIGATE"/>
+		<Row CivUniqueUnitType="UNIT_CETBANG_2" ReplacesUnitType="UNIT_DREADNOUGHT"/>
+		<Row CivUniqueUnitType="UNIT_CETBANG_3" ReplacesUnitType="UNIT_BATTLESHIP"/>
+		<Row CivUniqueUnitType="UNIT_CHEVALER" ReplacesUnitType="UNIT_CUIRASSIER"/>
+		<Row CivUniqueUnitType="UNIT_CHEVALER_2" ReplacesUnitType="UNIT_LANDSHIP"/>
+		<Row CivUniqueUnitType="UNIT_CHEVALER_3" ReplacesUnitType="UNIT_TANK"/>
+		<Row CivUniqueUnitType="UNIT_GOLD_BANGLES" ReplacesUnitType="UNIT_LINE_INFANTRY"/>
+		<Row CivUniqueUnitType="UNIT_GOLD_BANGLES_2" ReplacesUnitType="UNIT_RIFLEMAN"/>
+		<Row CivUniqueUnitType="UNIT_GOLD_BANGLES_3" ReplacesUnitType="UNIT_INFANTRY_COMPANY"/>
+		<Row CivUniqueUnitType="UNIT_KALAM" ReplacesUnitType="UNIT_FRIGATE"/>
+		<Row CivUniqueUnitType="UNIT_KALAM_2" ReplacesUnitType="UNIT_DREADNOUGHT"/>
+		<Row CivUniqueUnitType="UNIT_KALAM_3" ReplacesUnitType="UNIT_BATTLESHIP"/>
+		<Row CivUniqueUnitType="UNIT_KESHIG" ReplacesUnitType="UNIT_FIELD_CANNON"/>
+		<Row CivUniqueUnitType="UNIT_KESHIG_2" ReplacesUnitType="UNIT_FIELD_GUN"/>
+		<Row CivUniqueUnitType="UNIT_KESHIG_3" ReplacesUnitType="UNIT_AT_GUN"/>
+		<Row CivUniqueUnitType="UNIT_LEIOMANO" ReplacesUnitType="UNIT_LINE_INFANTRY"/>
+		<Row CivUniqueUnitType="UNIT_LEIOMANO_2" ReplacesUnitType="UNIT_RIFLEMAN"/>
+		<Row CivUniqueUnitType="UNIT_LEIOMANO_3" ReplacesUnitType="UNIT_INFANTRY_COMPANY"/>
+		<Row CivUniqueUnitType="UNIT_MAMLUK" ReplacesUnitType="UNIT_CUIRASSIER"/>
+		<Row CivUniqueUnitType="UNIT_MAMLUK_2" ReplacesUnitType="UNIT_LANDSHIP"/>
+		<Row CivUniqueUnitType="UNIT_MAMLUK_3" ReplacesUnitType="UNIT_TANK"/>
+		<Row CivUniqueUnitType="UNIT_TERCIO" ReplacesUnitType="UNIT_LINE_INFANTRY"/>
+		<Row CivUniqueUnitType="UNIT_TERCIO_2" ReplacesUnitType="UNIT_RIFLEMAN"/>
+		<Row CivUniqueUnitType="UNIT_TERCIO_3" ReplacesUnitType="UNIT_INFANTRY_COMPANY"/>
+		<Row CivUniqueUnitType="UNIT_WARAKAQ" ReplacesUnitType="UNIT_FIELD_CANNON"/>
+		<Row CivUniqueUnitType="UNIT_WARAKAQ_2" ReplacesUnitType="UNIT_FIELD_GUN"/>
+		<Row CivUniqueUnitType="UNIT_WARAKAQ_3" ReplacesUnitType="UNIT_AT_GUN"/>
+		<Row CivUniqueUnitType="UNIT_XUNLEICHONG" ReplacesUnitType="UNIT_LINE_INFANTRY"/>
+		<Row CivUniqueUnitType="UNIT_XUNLEICHONG_2" ReplacesUnitType="UNIT_RIFLEMAN"/>
+		<Row CivUniqueUnitType="UNIT_XUNLEICHONG_3" ReplacesUnitType="UNIT_INFANTRY_COMPANY"/>
+		<!--Civ Unique Civilian-->
+		<Row CivUniqueUnitType="UNIT_CHASQUI" ReplacesUnitType="UNIT_SCOUT"/>
+		<Row CivUniqueUnitType="UNIT_MANDARIN" ReplacesUnitType="UNIT_MERCHANT"/>
+		<Row CivUniqueUnitType="UNIT_NOYAN" ReplacesUnitType="UNIT_ARMY_COMMANDER"/>
+		<Row CivUniqueUnitType="UNIT_OTTRU" ReplacesUnitType="UNIT_FLEET_COMMANDER"/>
+
+		<Row CivUniqueUnitType="UNIT_SOKEMAN" ReplacesUnitType="UNIT_SETTLER"/>
+		<Row CivUniqueUnitType="UNIT_TAJIRO" ReplacesUnitType="UNIT_MERCHANT"/>
+	</UnitReplaces>
+	<Unit_TransitionRetains>
+
+		<Row UnitType="UNIT_NOYAN"/>
+		<Row UnitType="UNIT_OTTRU"/>
+	</Unit_TransitionRetains>
+	<Unit_TransitionShadows>
+
+	</Unit_TransitionShadows>
+	<Unit_ShadowReplacements>
+
+	</Unit_ShadowReplacements>
+	<Tags>
+
+		<!--Civ Unique Military-->
+		<Row Tag="UNIT_CLASS_CETBANG" Category="UNIT_CLASS"/>
+		<Row Tag="UNIT_CLASS_CHEVALER" Category="UNIT_CLASS"/>
+		<Row Tag="UNIT_CLASS_GOLD_BANGLES" Category="UNIT_CLASS"/>
+		<Row Tag="UNIT_CLASS_KALAM" Category="UNIT_CLASS"/>
+		<Row Tag="UNIT_CLASS_KESHIG" Category="UNIT_CLASS"/>
+		<Row Tag="UNIT_CLASS_LEIOMANO" Category="UNIT_CLASS"/>
+		<Row Tag="UNIT_CLASS_MAMLUK" Category="UNIT_CLASS"/>
+		<Row Tag="UNIT_CLASS_PEDANDA" Category="UNIT_CLASS"/>
+		<Row Tag="UNIT_CLASS_TERCIO" Category="UNIT_CLASS"/>
+		<Row Tag="UNIT_CLASS_WARAKAQ" Category="UNIT_CLASS"/>
+		<Row Tag="UNIT_CLASS_XUNLEICHONG" Category="UNIT_CLASS"/>
+		<!--Civ Unique Civilian-->
+		<Row Tag="UNIT_CLASS_ALIM" Category="UNIT_CLASS"/>
+		<Row Tag="UNIT_CLASS_CHASQUI" Category="UNIT_CLASS"/>
+		<Row Tag="UNIT_CLASS_CONQUISTADOR" Category="UNIT_CLASS"/>
+		<Row Tag="UNIT_CLASS_CORSAIR" Category="UNIT_CLASS"/>
+		<Row Tag="UNIT_CLASS_KAHUNA" Category="UNIT_CLASS"/>
+		<Row Tag="UNIT_CLASS_MANDARIN" Category="UNIT_CLASS"/>
+		<Row Tag="UNIT_CLASS_NOYAN" Category="UNIT_CLASS"/>
+		<Row Tag="UNIT_CLASS_OTTRU" Category="UNIT_CLASS"/>
+		<Row Tag="UNIT_CLASS_TAJIRO" Category="UNIT_CLASS"/>
+
+	</Tags>
+	<TypeTags>
+
+		<!--Civ Unique Military-->
+		<Row Type="UNIT_CETBANG" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_CETBANG" Tag="UNIT_CLASS_RANGED"/>
+		<Row Type="UNIT_CETBANG" Tag="UNIT_CLASS_NAVAL"/>
+		<Row Type="UNIT_CETBANG" Tag="UNIT_CLASS_CETBANG"/>
+		<Row Type="UNIT_CETBANG_2" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_CETBANG_2" Tag="UNIT_CLASS_RANGED"/>
+		<Row Type="UNIT_CETBANG_2" Tag="UNIT_CLASS_NAVAL"/>
+		<Row Type="UNIT_CETBANG_2" Tag="UNIT_CLASS_CETBANG"/>
+		<Row Type="UNIT_CETBANG_3" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_CETBANG_3" Tag="UNIT_CLASS_RANGED"/>
+		<Row Type="UNIT_CETBANG_3" Tag="UNIT_CLASS_NAVAL"/>
+		<Row Type="UNIT_CETBANG_3" Tag="UNIT_CLASS_CETBANG"/>
+		<Row Type="UNIT_CETBANG_3" Tag="UNIT_CLASS_ELITE_NAVAL_HEAVY"/>
+		<Row Type="UNIT_CHEVALER" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_CHEVALER" Tag="UNIT_CLASS_MOUNTED"/>
+		<Row Type="UNIT_CHEVALER" Tag="UNIT_CLASS_CAVALRY"/>
+		<Row Type="UNIT_CHEVALER" Tag="UNIT_CLASS_CHEVALER"/>
+		<Row Type="UNIT_CHEVALER_2" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_CHEVALER_2" Tag="UNIT_CLASS_MOUNTED"/>
+		<Row Type="UNIT_CHEVALER_2" Tag="UNIT_CLASS_CAVALRY"/>
+		<Row Type="UNIT_CHEVALER_2" Tag="UNIT_CLASS_CHEVALER"/>
+		<Row Type="UNIT_CHEVALER_3" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_CHEVALER_3" Tag="UNIT_CLASS_MOUNTED"/>
+		<Row Type="UNIT_CHEVALER_3" Tag="UNIT_CLASS_CAVALRY"/>
+		<Row Type="UNIT_CHEVALER_3" Tag="UNIT_CLASS_CHEVALER"/>
+		<Row Type="UNIT_CHEVALER_3" Tag="UNIT_CLASS_ELITE_CAVALRY"/>
+		<Row Type="UNIT_GOLD_BANGLES" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_GOLD_BANGLES" Tag="UNIT_CLASS_MELEE"/>
+		<Row Type="UNIT_GOLD_BANGLES" Tag="UNIT_CLASS_INFANTRY"/>
+		<Row Type="UNIT_GOLD_BANGLES" Tag="UNIT_CLASS_GOLD_BANGLES"/>
+		<Row Type="UNIT_GOLD_BANGLES_2" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_GOLD_BANGLES_2" Tag="UNIT_CLASS_MELEE"/>
+		<Row Type="UNIT_GOLD_BANGLES_2" Tag="UNIT_CLASS_INFANTRY"/>
+		<Row Type="UNIT_GOLD_BANGLES_2" Tag="UNIT_CLASS_GOLD_BANGLES"/>
+		<Row Type="UNIT_GOLD_BANGLES_3" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_GOLD_BANGLES_3" Tag="UNIT_CLASS_MELEE"/>
+		<Row Type="UNIT_GOLD_BANGLES_3" Tag="UNIT_CLASS_INFANTRY"/>
+		<Row Type="UNIT_GOLD_BANGLES_3" Tag="UNIT_CLASS_GOLD_BANGLES"/>
+		<Row Type="UNIT_GOLD_BANGLES_3" Tag="UNIT_CLASS_ELITE_INFANTRY"/>
+		<Row Type="UNIT_KALAM" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_KALAM" Tag="UNIT_CLASS_RANGED"/>
+		<Row Type="UNIT_KALAM" Tag="UNIT_CLASS_NAVAL"/>
+		<Row Type="UNIT_KALAM" Tag="UNIT_CLASS_KALAM"/>
+		<Row Type="UNIT_KALAM_2" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_KALAM_2" Tag="UNIT_CLASS_RANGED"/>
+		<Row Type="UNIT_KALAM_2" Tag="UNIT_CLASS_NAVAL"/>
+		<Row Type="UNIT_KALAM_2" Tag="UNIT_CLASS_KALAM"/>
+		<Row Type="UNIT_KALAM_3" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_KALAM_3" Tag="UNIT_CLASS_RANGED"/>
+		<Row Type="UNIT_KALAM_3" Tag="UNIT_CLASS_NAVAL"/>
+		<Row Type="UNIT_KALAM_3" Tag="UNIT_CLASS_KALAM"/>
+		<Row Type="UNIT_KALAM_3" Tag="UNIT_CLASS_ELITE_NAVAL_HEAVY"/>
+		<Row Type="UNIT_KESHIG" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_KESHIG" Tag="UNIT_CLASS_RANGED"/>
+		<Row Type="UNIT_KESHIG" Tag="UNIT_CLASS_MOUNTED"/>
+		<Row Type="UNIT_KESHIG" Tag="UNIT_CLASS_CAVALRY"/>
+		<Row Type="UNIT_KESHIG" Tag="UNIT_CLASS_KESHIG"/>
+		<Row Type="UNIT_KESHIG_2" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_KESHIG_2" Tag="UNIT_CLASS_RANGED"/>
+		<Row Type="UNIT_KESHIG_2" Tag="UNIT_CLASS_MOUNTED"/>
+		<Row Type="UNIT_KESHIG_2" Tag="UNIT_CLASS_CAVALRY"/>
+		<Row Type="UNIT_KESHIG_2" Tag="UNIT_CLASS_KESHIG"/>
+		<Row Type="UNIT_KESHIG_3" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_KESHIG_3" Tag="UNIT_CLASS_RANGED"/>
+		<Row Type="UNIT_KESHIG_3" Tag="UNIT_CLASS_MOUNTED"/>
+		<Row Type="UNIT_KESHIG_3" Tag="UNIT_CLASS_CAVALRY"/>
+		<Row Type="UNIT_KESHIG_3" Tag="UNIT_CLASS_KESHIG"/>
+		<Row Type="UNIT_KESHIG_3" Tag="UNIT_CLASS_ELITE_CAVALRY"/>
+		<Row Type="UNIT_KESHIG_3" Tag="UNIT_CLASS_ELITE_RANGED"/>
+		<Row Type="UNIT_LEIOMANO" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_LEIOMANO" Tag="UNIT_CLASS_MELEE"/>
+		<Row Type="UNIT_LEIOMANO" Tag="UNIT_CLASS_INFANTRY"/>
+		<Row Type="UNIT_LEIOMANO" Tag="UNIT_CLASS_LEIOMANO"/>
+		<Row Type="UNIT_LEIOMANO_2" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_LEIOMANO_2" Tag="UNIT_CLASS_MELEE"/>
+		<Row Type="UNIT_LEIOMANO_2" Tag="UNIT_CLASS_INFANTRY"/>
+		<Row Type="UNIT_LEIOMANO_2" Tag="UNIT_CLASS_LEIOMANO"/>
+		<Row Type="UNIT_LEIOMANO_3" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_LEIOMANO_3" Tag="UNIT_CLASS_MELEE"/>
+		<Row Type="UNIT_LEIOMANO_3" Tag="UNIT_CLASS_INFANTRY"/>
+		<Row Type="UNIT_LEIOMANO_3" Tag="UNIT_CLASS_LEIOMANO"/>
+		<Row Type="UNIT_LEIOMANO_3" Tag="UNIT_CLASS_ELITE_INFANTRY"/>
+		<Row Type="UNIT_MAMLUK" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_MAMLUK" Tag="UNIT_CLASS_MOUNTED"/>
+		<Row Type="UNIT_MAMLUK" Tag="UNIT_CLASS_CAVALRY"/>
+		<Row Type="UNIT_MAMLUK" Tag="UNIT_CLASS_MAMLUK"/>
+		<Row Type="UNIT_MAMLUK_2" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_MAMLUK_2" Tag="UNIT_CLASS_MOUNTED"/>
+		<Row Type="UNIT_MAMLUK_2" Tag="UNIT_CLASS_CAVALRY"/>
+		<Row Type="UNIT_MAMLUK_2" Tag="UNIT_CLASS_MAMLUK"/>
+		<Row Type="UNIT_MAMLUK_3" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_MAMLUK_3" Tag="UNIT_CLASS_MOUNTED"/>
+		<Row Type="UNIT_MAMLUK_3" Tag="UNIT_CLASS_CAVALRY"/>
+		<Row Type="UNIT_MAMLUK_3" Tag="UNIT_CLASS_MAMLUK"/>
+		<Row Type="UNIT_MAMLUK_3" Tag="UNIT_CLASS_ELITE_CAVALRY"/>
+		<Row Type="UNIT_TERCIO" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_TERCIO" Tag="UNIT_CLASS_MELEE"/>
+		<Row Type="UNIT_TERCIO" Tag="UNIT_CLASS_INFANTRY"/>
+		<Row Type="UNIT_TERCIO" Tag="UNIT_CLASS_TERCIO"/>
+		<Row Type="UNIT_TERCIO_2" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_TERCIO_2" Tag="UNIT_CLASS_MELEE"/>
+		<Row Type="UNIT_TERCIO_2" Tag="UNIT_CLASS_INFANTRY"/>
+		<Row Type="UNIT_TERCIO_2" Tag="UNIT_CLASS_TERCIO"/>
+		<Row Type="UNIT_TERCIO_3" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_TERCIO_3" Tag="UNIT_CLASS_MELEE"/>
+		<Row Type="UNIT_TERCIO_3" Tag="UNIT_CLASS_INFANTRY"/>
+		<Row Type="UNIT_TERCIO_3" Tag="UNIT_CLASS_TERCIO"/>
+		<Row Type="UNIT_TERCIO_3" Tag="UNIT_CLASS_ELITE_INFANTRY"/>
+		<Row Type="UNIT_WARAKAQ" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_WARAKAQ" Tag="UNIT_CLASS_RANGED"/>
+		<Row Type="UNIT_WARAKAQ" Tag="UNIT_CLASS_WARAKAQ"/>
+		<Row Type="UNIT_WARAKAQ_2" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_WARAKAQ_2" Tag="UNIT_CLASS_RANGED"/>
+		<Row Type="UNIT_WARAKAQ_2" Tag="UNIT_CLASS_WARAKAQ"/>
+		<Row Type="UNIT_WARAKAQ_3" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_WARAKAQ_3" Tag="UNIT_CLASS_RANGED"/>
+		<Row Type="UNIT_WARAKAQ_3" Tag="UNIT_CLASS_WARAKAQ"/>
+		<Row Type="UNIT_WARAKAQ_3" Tag="UNIT_CLASS_ELITE_RANGED"/>
+		<Row Type="UNIT_XUNLEICHONG" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_XUNLEICHONG" Tag="UNIT_CLASS_MELEE"/>
+		<Row Type="UNIT_XUNLEICHONG" Tag="UNIT_CLASS_INFANTRY"/>
+		<Row Type="UNIT_XUNLEICHONG" Tag="UNIT_CLASS_RANGED"/>
+		<Row Type="UNIT_XUNLEICHONG" Tag="UNIT_CLASS_XUNLEICHONG"/>
+		<Row Type="UNIT_XUNLEICHONG_2" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_XUNLEICHONG_2" Tag="UNIT_CLASS_MELEE"/>
+		<Row Type="UNIT_XUNLEICHONG_2" Tag="UNIT_CLASS_INFANTRY"/>
+		<Row Type="UNIT_XUNLEICHONG_2" Tag="UNIT_CLASS_RANGED"/>
+		<Row Type="UNIT_XUNLEICHONG_2" Tag="UNIT_CLASS_XUNLEICHONG"/>
+		<Row Type="UNIT_XUNLEICHONG_3" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_XUNLEICHONG_3" Tag="UNIT_CLASS_MELEE"/>
+		<Row Type="UNIT_XUNLEICHONG_3" Tag="UNIT_CLASS_INFANTRY"/>
+		<Row Type="UNIT_XUNLEICHONG_3" Tag="UNIT_CLASS_XUNLEICHONG"/>
+		<Row Type="UNIT_XUNLEICHONG_3" Tag="UNIT_CLASS_RANGED"/>
+
+
+		<!--Civ Unique Civilian-->
+		<Row Type="UNIT_ALIM" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_ALIM" Tag="UNIT_CLASS_ALIM"/>
+		<Row Type="UNIT_ALIM_AL_JAHIZ" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_ALIM_AL_JAHIZ" Tag="UNIT_CLASS_ALIM"/>
+		<Row Type="UNIT_ALIM_AL_KHWARIZMI" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_ALIM_AL_KHWARIZMI" Tag="UNIT_CLASS_ALIM"/>
+		<Row Type="UNIT_ALIM_IBN_SINA" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_ALIM_IBN_SINA" Tag="UNIT_CLASS_ALIM"/>
+		<Row Type="UNIT_ALIM_AL_MAQDISI" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_ALIM_AL_MAQDISI" Tag="UNIT_CLASS_ALIM"/>
+		<Row Type="UNIT_ALIM_AL_FARGHANI" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_ALIM_AL_FARGHANI" Tag="UNIT_CLASS_ALIM"/>
+		<Row Type="UNIT_ALIM_AL_FARABI" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_ALIM_AL_FARABI" Tag="UNIT_CLASS_ALIM"/>
+		<Row Type="UNIT_ALIM_RABIA" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_ALIM_RABIA" Tag="UNIT_CLASS_ALIM"/>
+		<Row Type="UNIT_ALIM_AL_SHAYBANI" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_ALIM_AL_SHAYBANI" Tag="UNIT_CLASS_ALIM"/>
+		<Row Type="UNIT_ALIM_AL_JAZARI" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_ALIM_AL_JAZARI" Tag="UNIT_CLASS_ALIM"/>
+		<Row Type="UNIT_ALIM_IBN_FADLAN" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_ALIM_IBN_FADLAN" Tag="UNIT_CLASS_ALIM"/>
+		<Row Type="UNIT_CHASQUI" Tag="UNIT_CLASS_RECON"/>
+		<Row Type="UNIT_CHASQUI" Tag="UNIT_CLASS_RECON_ABILITIES"/>
+		<Row Type="UNIT_CHASQUI" Tag="UNIT_CLASS_INFLUENCE_INDEPENDENT"/>
+		<Row Type="UNIT_CHASQUI" Tag="UNIT_CLASS_CHASQUI"/>
+		<Row Type="UNIT_CONQUISTADOR" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_CONQUISTADOR" Tag="UNIT_CLASS_CONQUISTADOR"/>
+		<Row Type="UNIT_CONQUISTADOR_FERDINAND_MAGELLAN" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_CONQUISTADOR_FERDINAND_MAGELLAN" Tag="UNIT_CLASS_CONQUISTADOR"/>
+		<Row Type="UNIT_CONQUISTADOR_FRANCISCO_PIZARRO" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_CONQUISTADOR_FRANCISCO_PIZARRO" Tag="UNIT_CLASS_CONQUISTADOR"/>
+		<Row Type="UNIT_CONQUISTADOR_JUAN_PONCE_DE_LEON" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_CONQUISTADOR_JUAN_PONCE_DE_LEON" Tag="UNIT_CLASS_CONQUISTADOR"/>
+		<Row Type="UNIT_CONQUISTADOR_CHRISTOPHER_COLUMBUS" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_CONQUISTADOR_CHRISTOPHER_COLUMBUS" Tag="UNIT_CLASS_CONQUISTADOR"/>
+		<Row Type="UNIT_CONQUISTADOR_HERNAN_CORTES" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_CONQUISTADOR_HERNAN_CORTES" Tag="UNIT_CLASS_CONQUISTADOR"/>
+		<Row Type="UNIT_CONQUISTADOR_HERNANDO_DE_SOTO" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_CONQUISTADOR_HERNANDO_DE_SOTO" Tag="UNIT_CLASS_CONQUISTADOR"/>
+		<Row Type="UNIT_CONQUISTADOR_FRANCISCO_DE_ORELLANA" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_CONQUISTADOR_FRANCISCO_DE_ORELLANA" Tag="UNIT_CLASS_CONQUISTADOR"/>
+		<Row Type="UNIT_CONQUISTADOR_ALVAR_NUNEZ_CABEZA_DE_VACA" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_CONQUISTADOR_ALVAR_NUNEZ_CABEZA_DE_VACA" Tag="UNIT_CLASS_CONQUISTADOR"/>
+		<Row Type="UNIT_CONQUISTADOR_MIGUEL_LOPEZ_DE_LEGAZPI" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_CONQUISTADOR_MIGUEL_LOPEZ_DE_LEGAZPI" Tag="UNIT_CLASS_CONQUISTADOR"/>
+		<Row Type="UNIT_CONQUISTADOR_SUAREZ" Tag="UNIT_CLASS_GREATPERSON"/>
+		<Row Type="UNIT_CONQUISTADOR_SUAREZ" Tag="UNIT_CLASS_CONQUISTADOR"/>
+		<Row Type="UNIT_MANDARIN" Tag="UNIT_CLASS_MANDARIN"/>
+		<Row Type="UNIT_MANDARIN" Tag="UNIT_CLASS_MAKE_TRADE_ROUTE"/>
+		<Row Type="UNIT_NOYAN" Tag="UNIT_CLASS_COMMAND"/>
+		<Row Type="UNIT_NOYAN" Tag="UNIT_CLASS_ARMY_COMMANDER"/>
+		<Row Type="UNIT_NOYAN" Tag="UNIT_CLASS_NOYAN"/>
+		<Row Type="UNIT_OTTRU" Tag="UNIT_CLASS_COMMAND"/>
+		<Row Type="UNIT_OTTRU" Tag="UNIT_CLASS_FLEET_COMMANDER"/>
+
+		<Row Type="UNIT_SOKEMAN" Tag="UNIT_CLASS_CREATE_TOWN"/>
+		<Row Type="UNIT_OTTRU" Tag="UNIT_CLASS_OTTRU"/>
+		<Row Type="UNIT_TAJIRO" Tag="UNIT_CLASS_TAJIRO"/>
+		<Row Type="UNIT_TAJIRO" Tag="UNIT_CLASS_MAKE_TRADE_ROUTE"/>
+
+	</TypeTags>
+	<UnitClass_Abilities>
+		<Row UnitAbilityType="ABILITY_INITIATION" UnitClassType="UNIT_CLASS_RELIGIOUS"/>
+		<Row UnitAbilityType="ABILITY_SEARCH_RECON" UnitClassType="UNIT_CLASS_RECON_ABILITIES"/>
+		<Row UnitAbilityType="ABILITY_CHASQUI" UnitClassType="UNIT_CLASS_CHASQUI"/>
+		<Row UnitAbilityType="ABILITY_CETBANG" UnitClassType="UNIT_CLASS_CETBANG"/>
+		<Row UnitAbilityType="ABILITY_CORSAIR" UnitClassType="UNIT_CLASS_CORSAIR"/>
+		<Row UnitAbilityType="ABILITY_CHEVALER" UnitClassType="UNIT_CLASS_CHEVALER"/>
+		<Row UnitAbilityType="ABILITY_CHEVALER_CIV_TRADITIONS" UnitClassType="UNIT_CLASS_CHEVALER"/>
+		<Row UnitAbilityType="ABILITY_GOLD_BANGLES" UnitClassType="UNIT_CLASS_GOLD_BANGLES"/>
+		<Row UnitAbilityType="ABILITY_KALAM" UnitClassType="UNIT_CLASS_KALAM"/>
+		<Row UnitAbilityType="ABILITY_KESHIG" UnitClassType="UNIT_CLASS_KESHIG"/>
+		<Row UnitAbilityType="ABILITY_LEIOMANO" UnitClassType="UNIT_CLASS_LEIOMANO"/>
+		<Row UnitAbilityType="ABILITY_LEIOMANO_CULTURE" UnitClassType="UNIT_CLASS_LEIOMANO"/>
+		<Row UnitAbilityType="ABILITY_MAMLUK_LOCATION_CHECK" UnitClassType="UNIT_CLASS_MAMLUK"/>
+		<Row UnitAbilityType="ABILITY_MANDARIN" UnitClassType="UNIT_CLASS_MANDARIN"/>
+		<Row UnitAbilityType="ABILITY_MANDARIN_BONUS" UnitClassType="UNIT_CLASS_MANDARIN"/>
+		<Row UnitAbilityType="ABILITY_NOYAN" UnitClassType="UNIT_CLASS_NOYAN"/>
+		<Row UnitAbilityType="ABILITY_NOYAN_MOUNTED_COMBAT" UnitClassType="UNIT_CLASS_MOUNTED"/>
+		<Row UnitAbilityType="ABILITY_OTTRU" UnitClassType="UNIT_CLASS_OTTRU"/>
+		<Row UnitAbilityType="ABILITY_PEDANDA" UnitClassType="UNIT_CLASS_PEDANDA"/>
+		<Row UnitAbilityType="ABILITY_TAJIRO" UnitClassType="UNIT_CLASS_TAJIRO"/>
+		<Row UnitAbilityType="ABILITY_TAJIRO_BONUS" UnitClassType="UNIT_CLASS_TAJIRO"/>
+		<Row UnitAbilityType="ABILITY_SONGHAI_TRADE_PROTECTION" UnitClassType="UNIT_CLASS_TRADE_ROUTE"/>
+		<Row UnitAbilityType="ABILITY_TERCIO" UnitClassType="UNIT_CLASS_TERCIO"/>
+		<Row UnitAbilityType="ABILITY_TREASURE_FLEET" UnitClassType="UNIT_CLASS_NAVAL_TREASURE"/>
+		<Row UnitAbilityType="ABILITY_WARAKAQ" UnitClassType="UNIT_CLASS_WARAKAQ"/>
+		<Row UnitAbilityType="ABILITY_XUNLEICHONG" UnitClassType="UNIT_CLASS_XUNLEICHONG"/>
+		<Row UnitAbilityType="ABILITY_XUNLEICHONG_BONUS" UnitClassType="UNIT_CLASS_RANGED"/>
+		<Row UnitAbilityType="ABILITY_PHYSICIAN" UnitClassType="UNIT_CLASS_PHYSICIAN"/>
+	</UnitClass_Abilities>
+	<UnitAbilities>
+		<!--Generic-->
+		<Row UnitAbilityType="ABILITY_DE_FACTO" Inactive="true"/>
+		<Row UnitAbilityType="ABILITY_INITIATION" Name="LOC_ABILITY_INITIATION_NAME" Description="LOC_ABILITY_INITIATION_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_EX_TECH_INFANTRY" Inactive="true"/>
+		<Row UnitAbilityType="ABILITY_EX_TECH_NAVAL" Inactive="true"/>
+		<Row UnitAbilityType="ABILITY_EX_TECH_SIEGE" Inactive="true"/>
+		<Row UnitAbilityType="ABILITY_EX_TECH_CAVALRY" Inactive="true"/>
+		<Row UnitAbilityType="ABILITY_EX_TECH_RANGED" Inactive="true"/>
+		<Row UnitAbilityType="ABILITY_SEARCH_RECON" KeywordAbilityType="KEYWORD_ABILITY_SEARCH" OperationType="UNITOPERATION_SEARCH"/>
+		<Row UnitAbilityType="ABILITY_CRISIS_COMBAT_MINOR_PENALTY" Inactive="true" Description="LOC_ABILITY_CRISIS_COMBAT_MINOR_PENALTY_PREVIEW"/>
+		<Row UnitAbilityType="ABILITY_ECONOMIC_DARK_AGE" Inactive="true"/>
+		<!--Unique-->
+		<Row UnitAbilityType="ABILITY_CHASQUI" Name="LOC_ABILITY_CHASQUI_NAME" Description="LOC_ABILITY_CHASQUI_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_CETBANG" Name="LOC_UNIT_CETBANG_NAME" Description="LOC_ABILITY_CETBANG_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_CORSAIR" Name="LOC_CORSAIR_CHASQUI_NAME" Description="LOC_ABILITY_CORSAIR_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_CHEVALER" Name="LOC_UNIT_CHEVALER_NAME" Description="LOC_ABILITY_CHEVALER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_CHEVALER_CIV_TRADITIONS" Inactive="true" Name="LOC_ABILITY_CHEVALER_CIV_TRADITIONS_NAME" Description="LOC_ABILITY_CHEVALER_CIV_TRADITIONS_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_GOLD_BANGLES" Name="LOC_ABILITY_GOLD_BANGLES_NAME" Description="LOC_ABILITY_GOLD_BANGLES_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_KALAM" Name="LOC_UNIT_KALAM_NAME" Description="LOC_ABILITY_KALAM_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_KESHIG" Name="LOC_ABILITY_KESHIG_NAME" Description="LOC_ABILITY_KESHIG_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_LEIOMANO" Name="LOC_UNIT_LEIOMANO_NAME" Description="LOC_ABILITY_LEIOMANO_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_LEIOMANO_CULTURE" Name="LOC_UNIT_LEIOMANO_NAME" Description="LOC_ABILITY_LEIOMANO_CULTURE_DESCRIPTION" Inactive="true"/>
+		<Row UnitAbilityType="ABILITY_MAMLUK" Name="LOC_UNIT_MAMLUK_NAME" Description="LOC_ABILITY_MAMLUK_DESCRIPTION" Inactive="true"/>
+		<Row UnitAbilityType="ABILITY_MAMLUK_LOCATION_CHECK" Name="LOC_UNIT_MAMLUK_NAME" Description="LOC_ABILITY_MAMLUK_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_NOYAN" Name="LOC_UNIT_NOYAN_NAME" Description="LOC_ABILITY_NOYAN_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_NOYAN_MOUNTED_COMBAT" Name="LOC_ABILITY_NOYAN_MOUNTED_COMBAT_NAME" Description="LOC_ABILITY_NOYAN_MOUNTED_COMBAT_PREVIEW" Inactive="true"/>
+		<Row UnitAbilityType="ABILITY_PEDANDA" Name="LOC_UNIT_PEDANDA_NAME" Description="LOC_ABILITY_PEDANDA_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_WARAKAQ" Name="LOC_UNIT_WARAKAQ_NAME" Description="LOC_ABILITY_WARAKAQ_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_MANDARIN" Name="LOC_UNIT_MANDARIN_NAME" Description="LOC_ABILITY_MANDARIN_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_MANDARIN_BONUS" Inactive="true" Name="LOC_UNIT_MANDARIN_NAME" Description="LOC_OTTRU_ABILITY_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_OTTRU" Name="LOC_UNIT_OTTRU_NAME" Description="LOC_OTTRU_ABILITY_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_TAJIRO" Name="LOC_UNIT_TAJIRO_NAME" Description="LOC_ABILITY_TAJIRO_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_TAJIRO_BONUS" Inactive="true" Name="LOC_UNIT_TAJIRO_NAME" Description="LOC_ABILITY_TAJIRO_BONUS_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_SONGHAI_TRADE_PROTECTION" Inactive="true" Name="LOC_TRAIT_SONGHAI_ABILITY_NAME" Description="LOC_ABILITY_SONGHAI_TRADE_PROTECTION_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_TERCIO" Name="LOC_UNIT_TERCIO_NAME" Description="LOC_ABILITY_TERCIO_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_TERCIO_CAVALRY_STRENGTH" Inactive="true" Name="LOC_UNIT_TERCIO_NAME" Description="LOC_ABILITY_TERCIO_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_TREASURE_FLEET" Name="LOC_ABILITY_TREASURE_FLEET_NAME" Description="LOC_ABILITY_TREASURE_FLEET_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_XUNLEICHONG" Name="LOC_UNIT_XUNLEICHONG_NAME" Description="LOC_ABILITY_XUNLEICHONG_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_XUNLEICHONG_BONUS" Name="LOC_UNIT_XUNLEICHONG_NAME" Inactive="true" Description="LOC_ABILITY_XUNLEICHONG_BONUS_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_XUNLEICHONG_NO_FEATURE_STRENGTH" Name="LOC_UNIT_XUNLEICHONG_NAME" Inactive="true" Description="LOC_ABILITY_XUNLEICHONG_BONUS_DESCRIPTION"/>
+		<!-- Crisis -->
+		<Row UnitAbilityType="ABILITY_PHYSICIAN" Name="LOC_UNIT_PHYSICIAN_NAME" Description="LOC_ABILITY_PHYSICIAN_HAPPINESS_DESCRIPTION"/>
+	</UnitAbilities>
+	<UnitAbilityModifiers>
+		<!--Generic-->
+		<Row UnitAbilityType="ABILITY_DE_FACTO" ModifierId="DE_FACTO_MOD_COMBAT_STRENGTH"/>
+		<Row UnitAbilityType="ABILITY_INITIATION" ModifierId="INITIATION_MOD_GOLD_ON_CONVERSION"/>
+		<Row UnitAbilityType="ABILITY_EX_TECH_INFANTRY" ModifierId="EX_TECH_INFANTRY_MOD_COMBAT_STRENGTH"/>
+		<Row UnitAbilityType="ABILITY_EX_TECH_NAVAL" ModifierId="EX_TECH_NAVAL_MOD_COMBAT_STRENGTH"/>
+		<Row UnitAbilityType="ABILITY_EX_TECH_SIEGE" ModifierId="EX_TECH_SIEGE_MOD_COMBAT_STRENGTH"/>
+		<Row UnitAbilityType="ABILITY_EX_TECH_CAVALRY" ModifierId="EX_TECH_CAVALRY_MOD_COMBAT_STRENGTH"/>
+		<Row UnitAbilityType="ABILITY_EX_TECH_RANGED" ModifierId="EX_TECH_RANGED_MOD_COMBAT_STRENGTH"/>
+		<Row UnitAbilityType="ABILITY_CRISIS_COMBAT_MINOR_PENALTY" ModifierId="CRISIS_COMBAT_MINOR_PENALTY_MOD_ADJUST_UNIT_COMBAT_STRENGTH_MODIFIER"/>
+		<Row UnitAbilityType="ABILITY_ECONOMIC_DARK_AGE" ModifierId="CARD_AT_DARK_AGE_ECONOMIC_1_ABILITY"/>
+		<!--Unique-->
+		<Row UnitAbilityType="ABILITY_CHASQUI" ModifierId="CHASQUI_MOD_IGNORE_TERRAIN"/>
+		<Row UnitAbilityType="ABILITY_CETBANG" ModifierId="CETBANG_MOD_COMBAT_VS_NAVAL"/>
+		<Row UnitAbilityType="ABILITY_CETBANG" ModifierId="CETBANG_MOD_ADVANCED_PILLAGE"/>
+		<Row UnitAbilityType="ABILITY_CORSAIR" ModifierId="CORSAIR_MOD_CAPTURE"/>
+		<Row UnitAbilityType="ABILITY_CHEVALER" ModifierId="CHEVALER_MOD_COMBAT_SLOWER"/>
+		<Row UnitAbilityType="ABILITY_CHEVALER_CIV_TRADITIONS" ModifierId="CHEVALER_MOD_CIV_UNIQUE_TRADITION_COMBAT"/>
+		<Row UnitAbilityType="ABILITY_GOLD_BANGLES" ModifierId="GOLD_BANGLES_COMBAT_STRENGTH"/>
+		<Row UnitAbilityType="ABILITY_GOLD_BANGLES" ModifierId="GOLD_BANGLES_PLUNDER"/>
+		<Row UnitAbilityType="ABILITY_KALAM" ModifierId="KALAM_MOD_TWO_ATTACKS"/>
+		<Row UnitAbilityType="ABILITY_KESHIG" ModifierId="KESHIG_HEAL_AFTER_KILL"/>
+		<Row UnitAbilityType="ABILITY_LEIOMANO" ModifierId="LEIOMANO_MOD_COMBAT_MELEE"/>
+		<Row UnitAbilityType="ABILITY_LEIOMANO_CULTURE" ModifierId="CULTURE_KILLS_LEIOMANO"/>
+		<Row UnitAbilityType="ABILITY_MAMLUK_LOCATION_CHECK" ModifierId="MAMLUK_MOD_COMBAT_URBAN_POP_ADD_ABILITY"/>
+		<Row UnitAbilityType="ABILITY_MAMLUK" ModifierId="MAMLUK_MOD_COMBAT_URBAN_POP"/>
+		<Row UnitAbilityType="ABILITY_NOYAN" ModifierId="NOYAN_MOD_GRANT_ABILITY_IN_COMMAND_RADIUS"/>
+		<Row UnitAbilityType="ABILITY_NOYAN_MOUNTED_COMBAT" ModifierId="NOYAN_MOD_INCREASE_COMBAT_STRENGTH"/>
+		<Row UnitAbilityType="ABILITY_WARAKAQ" ModifierId="WARAKAQ_MOD_COMBAT_ATTACKING_HILL"/>
+		<Row UnitAbilityType="ABILITY_WARAKAQ" ModifierId="WARAKAQ_IGNORE_HILL"/>
+		<Row UnitAbilityType="ABILITY_MANDARIN" ModifierId="MANDARIN_MOD_TRADE_CREATION_YIELD"/>
+		<Row UnitAbilityType="ABILITY_MANDARIN_BONUS" ModifierId="MANDARIN_BONUS_MOD_TRADE_CREATION_YIELD"/>
+		<Row UnitAbilityType="ABILITY_OTTRU" ModifierId="OTTRU_GRANT_MODIFIER"/>
+		<Row UnitAbilityType="ABILITY_TAJIRO" ModifierId="TAJIRO_MOD_TRADE_CREATION_YIELD"/>
+		<Row UnitAbilityType="ABILITY_TAJIRO_BONUS" ModifierId="TAJIRO_BONUS_MOD_TRADE_CREATION_YIELD"/>
+		<Row UnitAbilityType="ABILITY_SONGHAI_TRADE_PROTECTION" ModifierId="TRADE_UNIT_MOD_NAVIGABLE_RIVER_PROTECTION"/>
+		<Row UnitAbilityType="ABILITY_TERCIO" ModifierId="TERCIO_ADJACENT_COMBAT"/>
+		<Row UnitAbilityType="ABILITY_TERCIO_CAVALRY_STRENGTH" ModifierId="TERCIO_ADJACENT_COMBAT_MODIFIER"/>
+		<Row UnitAbilityType="ABILITY_TREASURE_FLEET" ModifierId="TREASURE_FLEET_MOD_CAPTURE"/>
+		<Row UnitAbilityType="ABILITY_XUNLEICHONG" ModifierId="XUNLEICHONG_MOD_NO_FEATURE_STRENGTH_ABILITY"/>
+		<Row UnitAbilityType="ABILITY_XUNLEICHONG_BONUS" ModifierId="XUNLEICHONG_MOD_RANGED"/>
+		<Row UnitAbilityType="ABILITY_XUNLEICHONG_NO_FEATURE_STRENGTH" ModifierId="XUNLEICHONG_MOD_COMBAT_NO_FEATURE_COMBAT_STRENGTH"/>
+		<Row UnitAbilityType="ABILITY_PEDANDA" ModifierId="PEDANDA_MOD_CULTURE_ON_CONVERSION"/>
+		<!-- Crisis -->
+		<Row UnitAbilityType="ABILITY_PHYSICIAN" ModifierId="PHYSICIAN_MOD_TREAT_SICK_CHARGES"/>
+	</UnitAbilityModifiers>
+	<RequirementSets>
+		<Row RequirementSetId="REQSET_UNIT_CLASS_KALAM" RequirementSetType="REQUIREMENTSET_TEST_ALL"/>
+		<Row RequirementSetId="REQSET_UNIT_CLASS_LEIOMANO" RequirementSetType="REQUIREMENTSET_TEST_ALL"/>
+		<Row RequirementSetId="REQSET_UNIT_CLASS_MAMLUK" RequirementSetType="REQUIREMENTSET_TEST_ALL"/>
+		<Row RequirementSetId="REQSET_UNIT_CLASS_WARAKAQ" RequirementSetType="REQUIREMENTSET_TEST_ALL"/>
+	</RequirementSets>
+	<RequirementSetRequirements>
+		<Row RequirementSetId="REQSET_UNIT_CLASS_KALAM" RequirementId="REQ_UNIT_CLASS_KALAM"/>
+		<Row RequirementSetId="REQSET_UNIT_CLASS_LEIOMANO" RequirementId="REQ_UNIT_CLASS_LEIOMANO"/>
+		<Row RequirementSetId="REQSET_UNIT_CLASS_MAMLUK" RequirementId="REQ_UNIT_CLASS_MAMLUK"/>
+		<Row RequirementSetId="REQSET_UNIT_CLASS_WARAKAQ" RequirementId="REQ_UNIT_CLASS_WARAKAQ"/>
+	</RequirementSetRequirements>
+	<Requirements>
+		<Row RequirementId="REQ_UNIT_CLASS_KALAM" RequirementType="REQUIREMENT_UNIT_TAG_MATCHES"/>
+		<Row RequirementId="REQ_UNIT_CLASS_LEIOMANO" RequirementType="REQUIREMENT_UNIT_TAG_MATCHES"/>
+		<Row RequirementId="REQ_UNIT_CLASS_MAMLUK" RequirementType="REQUIREMENT_UNIT_TAG_MATCHES"/>
+		<Row RequirementId="REQ_UNIT_CLASS_WARAKAQ" RequirementType="REQUIREMENT_UNIT_TAG_MATCHES"/>
+	</Requirements>
+	<RequirementArguments>
+		<Row RequirementId="REQ_UNIT_CLASS_KALAM" Name="Tag" Value="UNIT_CLASS_KALAM"/>
+		<Row RequirementId="REQ_UNIT_CLASS_LEIOMANO" Name="Tag" Value="UNIT_CLASS_LEIOMANO"/>
+		<Row RequirementId="REQ_UNIT_CLASS_MAMLUK" Name="Tag" Value="UNIT_CLASS_MAMLUK"/>
+		<Row RequirementId="REQ_UNIT_CLASS_WARAKAQ" Name="Tag" Value="UNIT_CLASS_WARAKAQ"/>
+	</RequirementArguments>
+	<Unit_Advisories>
+
+		<Row UnitType="UNIT_CETBANG" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_CETBANG_2" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_CETBANG_3" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_CHEVALER" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_CHEVALER_2" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_CHEVALER_3" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_GOLD_BANGLES" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_GOLD_BANGLES_2" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_GOLD_BANGLES_3" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_KALAM" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_KALAM_2" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_KALAM_3" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_KESHIG" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_KESHIG_2" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_KESHIG_3" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_LEIOMANO" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_LEIOMANO_2" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_LEIOMANO_3" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_MAMLUK" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_MAMLUK_2" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_MAMLUK_3" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_TERCIO" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_TERCIO_2" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_TERCIO_3" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_WARAKAQ" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_WARAKAQ_2" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_WARAKAQ_3" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_XUNLEICHONG" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_XUNLEICHONG_2" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_XUNLEICHONG_3" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+
+		<Row UnitType="UNIT_CHASQUI" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_CHASQUI" AdvisoryClassType="ADVISORY_CLASS_EMPIRE_EXPANSION"/>
+		<Row UnitType="UNIT_MANDARIN" AdvisoryClassType="ADVISORY_CLASS_ECONOMIC"/>
+		<Row UnitType="UNIT_NOYAN" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_OTTRU" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+
+		<Row UnitType="UNIT_SOKEMAN" AdvisoryClassType="ADVISORY_CLASS_EMPIRE_EXPANSION"/>
+		<Row UnitType="UNIT_TAJIRO" AdvisoryClassType="ADVISORY_CLASS_ECONOMIC"/>
+		<Row UnitType="UNIT_CONQUISTADOR" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_ALIM" AdvisoryClassType="ADVISORY_CLASS_SCIENCE"/>
+
+	</Unit_Advisories>
+</Database>

@@ -50,13 +50,13 @@ INSERT OR IGNORE INTO UnlockRequirements
 (RequirementSetId,		UnlockType,					Description,		NarrativeText,		ToolTip)
 SELECT
 RequirementSetId,		UnlockType||'_MODERN',		Description,		NarrativeText,		ToolTip
-FROM UnlockRequirements WHERE UnlockType IN (SELECT UnlockType IN ML_CIV_VII_Exploration_Civilizations_Unlocks);
+FROM UnlockRequirements WHERE UnlockType IN (SELECT UnlockType FROM ML_CIV_VII_Exploration_Civilizations_Unlocks);
 
 
 INSERT OR IGNORE INTO UnlockConfigurationValues
 (UnlockType,			ConfigurationValue)
 SELECT
 UnlockType||'_MODERN',	ConfigurationValue||'_MODERN'
-FROM UnlockConfigurationValues WHERE UnlockType IN (SELECT UnlockType IN ML_CIV_VII_Exploration_Civilizations_Unlocks);
+FROM UnlockConfigurationValues WHERE UnlockType IN (SELECT UnlockType FROM ML_CIV_VII_Exploration_Civilizations_Unlocks);
 
 

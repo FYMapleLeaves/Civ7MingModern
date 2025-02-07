@@ -5,7 +5,7 @@ Civilization text not null,
 primary key (Civilization)
 );
 
-DELETE * FROM ML_CIV_VII_Exploration_Civilizations;
+DELETE FROM ML_CIV_VII_Exploration_Civilizations;
 
 INSERT OR IGNORE INTO ML_CIV_VII_Exploration_Civilizations
 (Civilization	)
@@ -19,7 +19,7 @@ UnlockType text not null,
 primary key (UnlockType)
 );
 
-DELETE * FROM ML_CIV_VII_Exploration_Civilizations_Unlocks;
+DELETE FROM ML_CIV_VII_Exploration_Civilizations_Unlocks;
 
 INSERT OR IGNORE INTO ML_CIV_VII_Exploration_Civilizations_Unlocks
 (UnlockType	)

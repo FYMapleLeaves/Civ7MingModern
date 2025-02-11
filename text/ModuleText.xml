@@ -7,7 +7,7 @@
 		<Row Tag="LOC_MODULE_MING_MODERN_DESCRIPTION">
 			<Text>Contains the modern civilization "Ming Dynasty".</Text>
 		</Row>
-		<Row Tag="LOC_AUTHOR_XIAOXIAO">
+		<Row Tag="LOC_MODULE_MING_MODERN_AUTHOR">
 			<Text>Maple_Leaves</Text>
 		</Row>
 	</EnglishText>

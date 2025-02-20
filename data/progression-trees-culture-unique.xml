@@ -163,7 +163,6 @@
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_ABBASID_MAWLA" TargetKind="KIND_TRADITION" TargetType="TRADITION_SALES_AND_TRADE" UnlockDepth="2"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_ABBASID_AL_JABR" TargetKind="KIND_MODIFIER" TargetType="MOD_AL_JABR_URBAN_SCIENCE" UnlockDepth="1"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_ABBASID_AL_JABR" TargetKind="KIND_TRADITION" TargetType="TRADITION_COMPENDIOUS_BOOK" UnlockDepth="1"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_ABBASID_AL_JABR" TargetKind="KIND_CONSTRUCTIBLE" TargetType="WONDER_HOUSE_OF_WISDOM" UnlockDepth="2" AIIgnoreUnlockValue="true"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_ABBASID_AL_JABR" TargetKind="KIND_MODIFIER" TargetType="MOD_AL_JABR_WORKER_MAINTENANCE" UnlockDepth="2"/>
 		<!--Chola-->
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_CHOLA_KANAKAM" TargetKind="KIND_MODIFIER" TargetType="MOD_KANAKAM_GOLD_PER_ENVOY" UnlockDepth="1"/>
@@ -178,7 +177,6 @@
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_CHOLA_MONSOON_WINDS" TargetKind="KIND_MODIFIER" TargetType="MOD_EX_SETTLEMENT_CAP_INCREASE" UnlockDepth="1"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_CHOLA_MONSOON_WINDS" TargetKind="KIND_TRADITION" TargetType="TRADITION_ANGADI" UnlockDepth="1"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_CHOLA_MONSOON_WINDS" TargetKind="KIND_MODIFIER" TargetType="MONSOON_WINDS_MOD_OTTRU_CONVOYS" UnlockDepth="1"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_CHOLA_MONSOON_WINDS" TargetKind="KIND_CONSTRUCTIBLE" TargetType="WONDER_BRIHADEESWARAR_TEMPLE" UnlockDepth="1" AIIgnoreUnlockValue="true"/>
 		<!--Hawaii-->
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_HAWAII_MANA" TargetKind="KIND_MODIFIER" TargetType="MOD_MANA_CULTURE_DISASTERS" UnlockDepth="1"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_HAWAII_MANA" TargetKind="KIND_TRADITION" TargetType="TRADITION_KAPA" UnlockDepth="2"/>
@@ -189,14 +187,12 @@
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_HAWAII_HE_E_NALU" TargetKind="KIND_TRADITION" TargetType="TRADITION_HO_OKUPU" UnlockDepth="1"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_HAWAII_HE_E_NALU" TargetKind="KIND_MODIFIER" TargetType="MOD_HE_E_NALU_TWO_RELICS" UnlockDepth="1"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_HAWAII_HE_E_NALU" TargetKind="KIND_MODIFIER" TargetType="MOD_EX_SETTLEMENT_CAP_INCREASE" UnlockDepth="1"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_HAWAII_HE_E_NALU" TargetKind="KIND_CONSTRUCTIBLE" TargetType="WONDER_HALE_O_KEAWE" UnlockDepth="2" AIIgnoreUnlockValue="true"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_HAWAII_HE_E_NALU" TargetKind="KIND_MODIFIER" TargetType="MOD_RELIGION_MARINE_TILE_CULTURE" UnlockDepth="2"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_HAWAII_HE_E_NALU" TargetKind="KIND_MODIFIER" TargetType="MOD_KAHUNA_CHARGES" UnlockDepth="2"/>
 		<!--Inca-->
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_INCA_MITA" TargetKind="KIND_CONSTRUCTIBLE" TargetType="IMPROVEMENT_TERRACE_FARM" UnlockDepth="1"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_INCA_MITA" TargetKind="KIND_TRADITION" TargetType="TRADITION_TIRAKUNA" UnlockDepth="1"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_INCA_MITA" TargetKind="KIND_MODIFIER" TargetType="MOD_MITA_MOUNTAIN_HAPPINESS" UnlockDepth="2"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_INCA_MITA" TargetKind="KIND_CONSTRUCTIBLE" TargetType="WONDER_MACHU_PIKCHU" UnlockDepth="2" AIIgnoreUnlockValue="true"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_INCA_AYLLU" TargetKind="KIND_MODIFIER" TargetType="MOD_AYLLU_GRANARY_TERRACE_FARM" UnlockDepth="1"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_INCA_AYLLU" TargetKind="KIND_MODIFIER" TargetType="MOD_AYLLU_TERRACE_FARM_MOUNTAIN" UnlockDepth="2"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_INCA_AYLLU" TargetKind="KIND_MODIFIER" TargetType="MOD_AYLLU_FARM_MOUNTAIN" UnlockDepth="2"/>
@@ -216,7 +212,6 @@
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MAJAPAHIT_NUSUNTARA" TargetKind="KIND_MODIFIER" TargetType="MOD_NUSUNTARA_SEA_VS_LAND" UnlockDepth="2"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MAJAPAHIT_GAMELAN" TargetKind="KIND_MODIFIER" TargetType="MOD_GAMELAN_CULTURE_BUILDINGS_THIS_AGE" UnlockDepth="1"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MAJAPAHIT_GAMELAN" TargetKind="KIND_MODIFIER" TargetType="MOD_EX_SETTLEMENT_CAP_INCREASE" UnlockDepth="1"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MAJAPAHIT_GAMELAN" TargetKind="KIND_CONSTRUCTIBLE" TargetType="WONDER_BOROBUDUR" UnlockDepth="1" AIIgnoreUnlockValue="true"/>
 		<!--Ming-->
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MING_NINE_GARRISONS" TargetKind="KIND_CONSTRUCTIBLE" TargetType="IMPROVEMENT_MING_GREAT_WALL" UnlockDepth="1"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MING_NINE_GARRISONS" TargetKind="KIND_TRADITION" TargetType="TRADITION_DIVINE_ENGINE_DIVISION" UnlockDepth="1"/>
@@ -228,7 +223,6 @@
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MING_DA_MING_LU" TargetKind="KIND_MODIFIER" TargetType="MOD_DA_MING_LU_MANDARIN_ABILITY" UnlockDepth="1"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MING_DA_MING_LU" TargetKind="KIND_TRADITION" TargetType="TRADITION_GRAND_SECRETARIAT" UnlockDepth="1"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MING_DA_MING_LU" TargetKind="KIND_MODIFIER" TargetType="MOD_EX_SETTLEMENT_CAP_INCREASE" UnlockDepth="2"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MING_DA_MING_LU" TargetKind="KIND_CONSTRUCTIBLE" TargetType="WONDER_FORBIDDEN_CITY" UnlockDepth="2" AIIgnoreUnlockValue="true"/>
 		<!--Mongolia-->
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MONGOLIA_ULUS" TargetKind="KIND_CONSTRUCTIBLE" TargetType="IMPROVEMENT_ORTOO" UnlockDepth="1"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MONGOLIA_ULUS" TargetKind="KIND_TRADITION" TargetType="TRADITION_GEREGE" UnlockDepth="1"/>
@@ -242,7 +236,6 @@
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MONGOLIA_YASSA" TargetKind="KIND_TRADITION" TargetType="TRADITION_JARLIG" UnlockDepth="1"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MONGOLIA_YASSA" TargetKind="KIND_MODIFIER" TargetType="MOD_YASSA_ORTOO_MORE_GOLD" UnlockDepth="1"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MONGOLIA_YASSA" TargetKind="KIND_MODIFIER" TargetType="MOD_EX_SETTLEMENT_CAP_INCREASE" UnlockDepth="2"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_MONGOLIA_YASSA" TargetKind="KIND_CONSTRUCTIBLE" TargetType="WONDER_ERDENE_ZUU" UnlockDepth="2" AIIgnoreUnlockValue="true"/>
 		<!--Norman-->
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_NORMAN_CONSUETUDINES_ET_JUSTICIE" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_MOTTE" UnlockDepth="1"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_NORMAN_CONSUETUDINES_ET_JUSTICIE" TargetKind="KIND_TRADITION" TargetType="TRADITION_PALISADING" UnlockDepth="1"/>
@@ -257,10 +250,8 @@
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_NORMAN_DOMESDAY_BOOK" TargetKind="KIND_MODIFIER" TargetType="MOD_DOMESDAY_BOOK_FARM_GOLD_GOLDEN_AGE" UnlockDepth="1" Hidden="true"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_NORMAN_DOMESDAY_BOOK" TargetKind="KIND_TRADITION" TargetType="TRADITION_BAYEUX_TAPESTRY" UnlockDepth="1"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_NORMAN_DOMESDAY_BOOK" TargetKind="KIND_MODIFIER" TargetType="MOD_EX_SETTLEMENT_CAP_INCREASE" UnlockDepth="2"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_NORMAN_DOMESDAY_BOOK" TargetKind="KIND_CONSTRUCTIBLE" TargetType="WONDER_WHITE_TOWER" UnlockDepth="2" AIIgnoreUnlockValue="true"/>
 		<!--Songhai-->
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SONGHAI_SHIPS_OF_THE_DESERT" TargetKind="KIND_CONSTRUCTIBLE" TargetType="IMPROVEMENT_CARAVANSERAI" UnlockDepth="1"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SONGHAI_SHIPS_OF_THE_DESERT" TargetKind="KIND_CONSTRUCTIBLE" TargetType="WONDER_TOMB_OF_ASKIA" UnlockDepth="1" AIIgnoreUnlockValue="true"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SONGHAI_SHIPS_OF_THE_DESERT" TargetKind="KIND_TRADITION" TargetType="TRADITION_TIMBUKTU" UnlockDepth="1"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SONGHAI_SHIPS_OF_THE_DESERT" TargetKind="KIND_TRADITION" TargetType="TRADITION_MUD_BRICK" UnlockDepth="2"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SONGHAI_SHIPS_OF_THE_DESERT" TargetKind="KIND_MODIFIER" TargetType="MOD_SHIPS_OF_THE_DESERT_BAZAAR_CARAVANSARI" UnlockDepth="2"/>
@@ -282,7 +273,6 @@
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SPAIN_NEW_WORLD_RICHES" TargetKind="KIND_TRADITION" TargetType="TRADITION_CERRO_RICO" UnlockDepth="1"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SPAIN_NEW_WORLD_RICHES" TargetKind="KIND_MODIFIER" TargetType="MOD_NEW_WORLD_RICHES_FOREIGN_CITIES_PRODUCTION_FOOD" UnlockDepth="1"/>
 		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SPAIN_NEW_WORLD_RICHES" TargetKind="KIND_MODIFIER" TargetType="MOD_EX_SETTLEMENT_CAP_INCREASE" UnlockDepth="2"/>
-		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_SPAIN_NEW_WORLD_RICHES" TargetKind="KIND_CONSTRUCTIBLE" TargetType="WONDER_EL_ESCORIAL" UnlockDepth="2" AIIgnoreUnlockValue="true"/>
 	</ProgressionTreeNodeUnlocks>
 	<ProgressionTreePrereqs>
 		<!--Civ Unique Tree Mastery Organization-->
